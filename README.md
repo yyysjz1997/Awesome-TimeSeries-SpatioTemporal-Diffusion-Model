@@ -5,6 +5,11 @@
 [![Visits Badge](https://badges.pufler.dev/visits/yyysjz1997/Awesome-TimeSeries-SpatioTemporal-Diffusion-Model)](https://badges.pufler.dev/visits/yyysjz1997/Awesome-TimeSeries-SpatioTemporal-Diffusion-Model)
 
 
+A curated list of Diffusion Models for Time Series and SpatioTemporal Data with awesome resources (paper, application, review, survey, etc.), which aims to comprehensively and systematically summarize the recent advances to the best of our knowledge.
+
+We will continue to update this list with newest resources. If you found any missed resources (paper/code) or errors, please feel free to open an issue or make a pull request.
+
+
 - [Diffusion Model for Time Series and SpatioTemporal Data](#diffusion-model-for-time-series-and-spatiotemporal-data)
   - [Diffusion Model for Time Series Data](#diffusion-model-for-time-series-data)
     - [Generation](#generation)
