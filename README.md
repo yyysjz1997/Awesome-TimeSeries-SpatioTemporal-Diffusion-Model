@@ -25,7 +25,7 @@
     - [Human](#human)
     - [Environment](#environment)
     - [Math and Physics](#math-and-physics)
-  - [Related Diffusion Surveys](#related-diffusion-surveys)
+  - [Related Diffusion Model Surveys](#related-diffusion-model-surveys)
 
 
 
@@ -278,7 +278,7 @@ Domain-Specific Denoising Diffusion Probabilistic Models for Brain Dynamics
 
 
 
-## Related Diffusion Surveys
+## Related Diffusion Model Surveys
 
 * Diffusion Models for Time Series Applications: A Survey
 
@@ -287,3 +287,4 @@ Domain-Specific Denoising Diffusion Probabilistic Models for Brain Dynamics
 * Diffusion Models: A Comprehensive Survey of Methods and Applications
 
 * A Survey on Generative Diffusion Models
+
