@@ -10,6 +10,8 @@ A curated list of Diffusion Models for Time Series and SpatioTemporal Data with 
 We will continue to update this list with newest resources. If you found any missed resources (paper/code) or errors, please feel free to open an issue or make a pull request.
 
 
+## Contents
+
 - [Diffusion Model for Time Series and SpatioTemporal Data](#diffusion-model-for-time-series-and-spatiotemporal-data)
   - [Diffusion Model for Time Series Data](#diffusion-model-for-time-series-data)
     - [Generation](#generation)
@@ -67,21 +69,21 @@ We will continue to update this list with newest resources. If you found any mis
 
 * Imputation-based Time-Series Anomaly Detection with Conditional Weight-Incremental Diffusion Models
 
-* AnoDDPM: Anomaly detection with denoising diffusion probabilistic models using simplex noise
+* AnoDDPM: Anomaly Detection with Denoising Diffusion Probabilistic Models using Simplex Noise
 
-* Diffusion models for medical anomaly detection
+* Diffusion Models for Medical Anomaly Detection
 
-* DiffusionAD: Denoising diffusion for anomaly detection
+* DiffusionAD: Denoising Diffusion for Anomaly Detection
 
-* Anomaly detection with conditioned denoising diffusion models
+* Anomaly Detection with Conditioned Denoising Diffusion Models
 
-* On diffusion modeling for anomaly detection
+* On Diffusion Modeling for Anomaly Detection
 
-* Unsupervised out-of-distribution detection with diffusion inpainting
+* Unsupervised Out-of-distribution Detection with Diffusion Inpainting
 
-* Mask, stitch, and re-sample: Enhancing robustness and generalizability in anomaly detection through automatic diffusion models
+* Mask, Stitch, and Re-sample: Enhancing Robustness and Generalizability in Anomaly Detection through Automatic Diffusion Models
 
-* ImDiffusion: Imputed diffusion models for multivariate time series anomaly detection
+* ImDiffusion: Imputed Diffusion Models for Multivariate Time Series Anomaly Detection
 
 
 ### Forecasting and Prediction
@@ -98,7 +100,7 @@ We will continue to update this list with newest resources. If you found any mis
 
 * Generative Time Series Forecasting with Diffusion, Denoise, and Disentanglement
 
-* Denoising diffusion probabilistic models for probabilistic energy forecasting
+* Denoising Diffusion Probabilistic Models for Probabilistic Energy Forecasting
 
 * Modeling Temporal Data as Continuous Functions with Process Diffusion
 
@@ -106,9 +108,9 @@ We will continue to update this list with newest resources. If you found any mis
 
 * TDSTF: Transformer-based Diffusion probabilistic model for Sparse Time series Forecasting
 
-* Autoregressive denoising diffusion models for multivariate probabilistic time series forecasting
+* Autoregressive Denoising Diffusion Models for Multivariate Probabilistic Time Series Forecasting
 
-* Graph convolution recurrent denoising diffusion model for multivariate probabilistic temporal forecasting 
+* Graph Convolution Recurrent Denoising Diffusion Model for Multivariate Probabilistic Temporal Forecasting 
 
 * ScoreGrad: Multivariate Probabilistic Time Series Forecasting with Continuous Energy-based Generative Models
 
@@ -123,7 +125,7 @@ We will continue to update this list with newest resources. If you found any mis
 
 * Diffusion-based Time Series Imputation and Forecasting with Structured State Space Models
 
-* sasdim: self-adaptive noise scaling diffusion model for spatial time series imputation
+* Sasdim: Self-adaptive Noise Scaling Diffusion Model for Spatial Time Series Imputation
 
 
 ### Classification and Regression
@@ -151,13 +153,14 @@ We will continue to update this list with newest resources. If you found any mis
 
 * Dynamic Causal Explanation Based Diffusion-Variational Graph Neural Network for Spatio-temporal Forecasting
 
-* Imputation as inpainting: diffusion models for spatiotemporal data imputation
+* Imputation as Inpainting: Diffusion Models for Spatiotemporal Data Imputation
 
+* Sasdim: Self-adaptive Noise Scaling Diffusion Model for Spatial Time Series Imputation
 
 
 ## Diffusion Model for Tabular Data
 
-* Generating tabular datasets under differential privacy
+* Generating Tabular Datasets under Differential Privacy
 
 * TabADM: Unsupervised Tabular Anomaly Detection with Diffusion Models
 
@@ -165,10 +168,11 @@ We will continue to update this list with newest resources. If you found any mis
 
 * TabDDPM: Modelling Tabular Data with Diffusion Models
 
-* Diffusion models for missing value imputation in tabular data
+* Diffusion Models for Missing Value Imputation in Tabular Data
 
 * MissDiff: Training Diffusion Models on Tabular Data with Missing Values
 
+* FinDiff: Diffusion Models for Financial Tabular Data Generation
 
 
 ## Applications
@@ -181,7 +185,7 @@ We will continue to update this list with newest resources. If you found any mis
 
 * DiffLoad: Uncertainty Quantification in Load Forecasting with Diffusion Model
 
-* Denoising diffusion probabilistic models for probabilistic energy forecasting
+* Denoising Diffusion Probabilistic Models for Probabilistic Energy Forecasting
 
 
 ### Finance
@@ -217,12 +221,12 @@ We will continue to update this list with newest resources. If you found any mis
 
 * Diffusion-based Conditional ECG Generation with Structured State Space Models
 
-Domain-Specific Denoising Diffusion Probabilistic Models for Brain Dynamics
+* Domain-Specific Denoising Diffusion Probabilistic Models for Brain Dynamics
 
 
 ### Weather
 
-* Precipitation nowcasting with generative diffusion models
+* Precipitation Nowcasting with Generative Diffusion Models
 
 * SEEDS: Emulation of Weather Forecast Ensembles with Diffusion Models
 
@@ -271,15 +275,15 @@ Domain-Specific Denoising Diffusion Probabilistic Models for Brain Dynamics
 
 * DiTTO: Diffusion-inspired Temporal Transformer Operator
 
-* Fast sampling of diffusion models via operator learning
+* Fast Sampling of Diffusion Models via Operator Learning
 
-* Score-based diffusion models in function space
+* Score-based Diffusion Models in Function Space
 
-* Infinite-dimensional diffusion models for function spaces
+* Infinite-dimensional Diffusion Models for Function Spaces
 
-* A physics-informed diffusion model for high-fidelity flow field reconstruction
+* A Physics-informed Diffusion Model for High-fidelity Flow Field Reconstruction
 
-* Generative diffusion learning for parametric partial differential equations
+* Generative Diffusion Learning for Parametric Partial Differential Equations
 
 
 
