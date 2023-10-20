@@ -278,7 +278,8 @@ We will continue to update this list with newest resources. If you found any mis
 
 * Deep Diffusion Models for Seismic Processing, in *Computers & Geosciences* 2023. [[paper](https://arxiv.org/abs/2207.10451)]
 
-
+### Traffic
+* Spatial-temporal diffusion convolutional network: a novel framework for taxi demand forecasting, in *ISPRS International Journal of Geo-Information* 2022, [[paper](https://www.mdpi.com/2220-9964/11/3/193)]
 
 ## Related Diffusion Model Resources and Surveys
 
