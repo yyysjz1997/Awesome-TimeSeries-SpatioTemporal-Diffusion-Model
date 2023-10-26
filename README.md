@@ -71,6 +71,8 @@ We will continue to update this list with newest resources. If you found any mis
 
 * Graph Convolution Recurrent Denoising Diffusion Model for Multivariate Probabilistic Temporal Forecasting, *Working Paper* 2023. [[link](https://aip.riken.jp/events/event_154762/)]
 
+* Latent diffusion models for generative precipitation nowcasting with accurate uncertainty quantification, in *arXiv* 2023. [[paper](https://arxiv.org/abs/2304.12891)] [[official-code](https://github.com/MeteoSwiss/ldcast)]
+
 
 ### Generation
 
