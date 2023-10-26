@@ -232,6 +232,8 @@ We will continue to update this list with newest resources. If you found any mis
 
 * Diffusion Models for High-Resolution Solar Forecasts, in *arXiv* 2023. [[paper](https://arxiv.org/abs/2302.00170)]
 
+* Latent diffusion models for generative precipitation nowcasting with accurate uncertainty quantification, in *arXiv* 2023. [[paper](https://arxiv.org/abs/2304.12891)] [[official-code](https://github.com/MeteoSwiss/ldcast)]
+
 
 ### Energy and Electricity
 
