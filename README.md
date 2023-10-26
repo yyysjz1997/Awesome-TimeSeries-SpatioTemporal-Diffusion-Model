@@ -29,6 +29,7 @@ We will continue to update this list with newest resources. If you found any mis
     - [Healthcare](#healthcare)
     - [Sequential Recommendation](#sequential-recommendation)
     - [Weather](#weather)
+    - [Video](#video)
     - [Energy and Electricity](#energy-and-electricity)
     - [Math and Physics](#math-and-physics)
     - [Finance](#finance)
@@ -158,6 +159,8 @@ We will continue to update this list with newest resources. If you found any mis
 
 * DiffUFlow: Robust Fine-grained Urban Flow Inference with Denoising Diffusion Model, in *CIKM* 2023. [[paper](https://dl.acm.org/doi/abs/10.1145/3583780.3614842)]
 
+* Adaptive Graph Neural Diffusion for Traffic Demand Forecasting, in *CIKM* 2023. [[paper](https://dl.acm.org/doi/10.1145/3583780.3615153)]
+
 * Dynamic Causal Explanation Based Diffusion-Variational Graph Neural Network for Spatio-temporal Forecasting, in *arXiv* 2023. [[paper](https://arxiv.org/abs/2305.09703)] [[official-code](https://github.com/gorgen2020/dvgnn)]
 
 * Sasdim: Self-adaptive Noise Scaling Diffusion Model for Spatial Time Series Imputation, in *arXiv* 2023. [[paper](https://arxiv.org/abs/2309.01988)]
@@ -255,6 +258,11 @@ We will continue to update this list with newest resources. If you found any mis
 * WiREDiff: a Wind Resolution-Enhancing Diffusion Model, in *Working Paper* 2023. [[link](https://rupakv.com/wirediff.html#:~:text=WiREDiff%20is%20a%20novel%20application,interval%20of%20predicted%20wind%20velocities.)] [[paper](https://rupakv.com/pdfs/wirediff_report.pdf)] [[official-code](https://github.com/RupaKurinchiVendhan/WiREDiff)]
 
 
+### Video
+
+*
+
+
 ### Energy and Electricity
 
 * DiffCharge: Generating EV Charging Scenarios via a Denoising Diffusion Model, in *arXiv* 2023. [[paper](https://arxiv.org/abs/2308.09857)] [[official-code](https://github.com/LSY-Cython/DiffCharge)]
@@ -302,12 +310,16 @@ We will continue to update this list with newest resources. If you found any mis
 
 
 ### Traffic
+
 * Spatial-temporal diffusion convolutional network: a novel framework for taxi demand forecasting, in *ISPRS International Journal of Geo-Information* 2022, [[paper](https://www.mdpi.com/2220-9964/11/3/193)]
 
 * DiffUFlow: Robust Fine-grained Urban Flow Inference with Denoising Diffusion Model, in *CIKM* 2023. [[paper](https://dl.acm.org/doi/abs/10.1145/3583780.3614842)]
 
+* Adaptive Graph Neural Diffusion for Traffic Demand Forecasting, in *CIKM* 2023. [[paper](https://dl.acm.org/doi/10.1145/3583780.3615153)]
+
 
 ### Manufacturing
+
 * Multi-scale Conditional Diffusion Model for Deposited Droplet Volume Measurement in Inkjet Printing Manufacturing, in *Journal of Manufacturing Systems* 2023. [[paper](https://www.sciencedirect.com/science/article/pii/S0278612523002042)]
 
 
