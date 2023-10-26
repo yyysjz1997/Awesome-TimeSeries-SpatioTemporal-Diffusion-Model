@@ -1,4 +1,4 @@
-# Diffusion Model for Time Series and SpatioTemporal Data
+# Diffusion Model for Time Series, SpatioTemporal and Tabular Data
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) 
 ![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-green) 
@@ -35,6 +35,8 @@ We will continue to update this list with newest resources. If you found any mis
     - [AIOps](#aiops)
     - [Human](#human)
     - [Environment](#environment)
+    - [Traffic](#traffic)
+    - [Manufacturing](#Manufacturing)
   - [Related Diffusion Model Resources and Surveys](#related-diffusion-model-resources-and-surveys)
 
 
@@ -151,6 +153,8 @@ We will continue to update this list with newest resources. If you found any mis
 * DiffSTG: Probabilistic Spatio-Temporal Graph with Denoising Diffusion Models, in *SIGSPATIAL* 2023. [[paper](https://arxiv.org/abs/2301.13629)]
 
 * PriSTI: A Conditional Diffusion Framework for Spatiotemporal Imputation, in *ICDE* 2023. [[paper](https://arxiv.org/abs/2302.09746)] [[official-code](https://github.com/lmzzml/pristi)]
+
+* DiffUFlow: Robust Fine-grained Urban Flow Inference with Denoising Diffusion Model, in *CIKM* 2023. [[paper](https://dl.acm.org/doi/abs/10.1145/3583780.3614842)]
 
 * Dynamic Causal Explanation Based Diffusion-Variational Graph Neural Network for Spatio-temporal Forecasting, in *arXiv* 2023. [[paper](https://arxiv.org/abs/2305.09703)] [[official-code](https://github.com/gorgen2020/dvgnn)]
 
@@ -295,6 +299,8 @@ We will continue to update this list with newest resources. If you found any mis
 
 ### Traffic
 * Spatial-temporal diffusion convolutional network: a novel framework for taxi demand forecasting, in *ISPRS International Journal of Geo-Information* 2022, [[paper](https://www.mdpi.com/2220-9964/11/3/193)]
+
+* DiffUFlow: Robust Fine-grained Urban Flow Inference with Denoising Diffusion Model, in *CIKM* 2023. [[paper](https://dl.acm.org/doi/abs/10.1145/3583780.3614842)]
 
 
 ### Manufacturing
