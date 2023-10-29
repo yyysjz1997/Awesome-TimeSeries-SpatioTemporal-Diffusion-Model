@@ -37,7 +37,8 @@ We will continue to update this list with newest resources. If you found any mis
     - [Human](#human)
     - [Environment](#environment)
     - [Traffic](#traffic)
-    - [Manufacturing](#Manufacturing)
+    - [Manufacturing](#manufacturing)
+    - [Audio](#audio)
   - [Related Diffusion Model Resources and Surveys](#related-diffusion-model-resources-and-surveys)
 
 
@@ -109,6 +110,10 @@ We will continue to update this list with newest resources. If you found any mis
 
 * MedDiff: Generating Electronic Health Records using Accelerated Denoising Diffusion Model, in *arXiv* 2023. [[paper](https://arxiv.org/abs/2302.04355)]
 
+* Fast and Reliable Generation of EHR Time Series via Diffusion Models, in *arXiv* 2023. [[paper](https://arxiv.org/abs/2310.15290)]
+
+* Fast Diffusion GAN Model for Symbolic Music Generation Controlled by Emotions, in *arXiv* 2023. [[paper](https://arxiv.org/abs/2310.14040)]
+
 
 ### Imputation
 
@@ -123,6 +128,8 @@ We will continue to update this list with newest resources. If you found any mis
 * Density-Aware Temporal Attentive Step-wise Diffusion Model For Medical Time Series Imputation, in *CIKM* 2023. [[paper](https://dl.acm.org/doi/abs/10.1145/3583780.3614840)] 
 
 * Sasdim: Self-adaptive Noise Scaling Diffusion Model for Spatial Time Series Imputation, in *arXiv* 2023. [[paper](https://arxiv.org/abs/2309.01988)]
+
+* Improving Diffusion Models for ECG Imputation with an Augmented Template Prior, in *arXiv* 2023. [[paper](https://arxiv.org/abs/2310.15742)]
 
 
 ### Anomaly Detection
@@ -189,6 +196,9 @@ We will continue to update this list with newest resources. If you found any mis
 
 * FinDiff: Diffusion Models for Financial Tabular Data Generation, in *arXiv* 2023. [[paper](https://arxiv.org/abs/2309.01472)]
 
+* AutoDiff: combining Auto-encoder and Diffusion model for tabular data synthesizing, in *arXiv* 2023. [[paper](https://arxiv.org/abs/2310.15479)]
+
+  
 
 
 ## Applications
@@ -220,6 +230,10 @@ We will continue to update this list with newest resources. If you found any mis
 * Region-Disentangled Diffusion Model for High-Fidelity PPG-to-ECG Translation, in *arXiv* 2023. [[paper](https://arxiv.org/abs/2308.13568)]
 
 * Domain-Specific Denoising Diffusion Probabilistic Models for Brain Dynamics, in *arXiv* 2023. [[paper](https://arxiv.org/abs/2305.04200)] [[official-code](https://github.com/duanyiqun/ds-ddpm)]
+
+* Fast and Reliable Generation of EHR Time Series via Diffusion Models, in *arXiv* 2023. [[paper](https://arxiv.org/abs/2310.15290)]
+
+* Improving Diffusion Models for ECG Imputation with an Augmented Template Prior, in *arXiv* 2023. [[paper](https://arxiv.org/abs/2310.15742)]
 
 
 ### Sequential Recommendation
@@ -321,6 +335,11 @@ We will continue to update this list with newest resources. If you found any mis
 ### Manufacturing
 
 * Multi-scale Conditional Diffusion Model for Deposited Droplet Volume Measurement in Inkjet Printing Manufacturing, in *Journal of Manufacturing Systems* 2023. [[paper](https://www.sciencedirect.com/science/article/pii/S0278612523002042)]
+
+
+### Audio
+
+* Fast Diffusion GAN Model for Symbolic Music Generation Controlled by Emotions, in *arXiv* 2023. [[paper](https://arxiv.org/abs/2310.14040)]
 
 
 
