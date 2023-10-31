@@ -174,6 +174,8 @@ We will continue to update this list with newest resources. If you found any mis
 
 * Imputation as Inpainting: Diffusion Models for Spatiotemporal Data Imputation, in *OpenReview* 2023. [[paper](https://openreview.net/forum?id=QUANtQnx30l)]
 
+* Towards Unifying Diffusion Models for Probabilistic Spatio-Temporal Graph Learning, in *arXiv* 2023. [[paper](https://arxiv.org/abs/2310.17360)]
+
 
 
 ## Diffusion Model for Tabular Data
