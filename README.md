@@ -205,6 +205,8 @@ We will continue to update this list with newest resources. If you found any mis
 
 * Towards Unifying Diffusion Models for Probabilistic Spatio-Temporal Graph Learning, in *arXiv* 2023. [[paper](https://arxiv.org/abs/2310.17360)]
 
+* Predicting the Position Uncertainty at the Time of Closest Approach with Diffusion Models, in *arXiv* 2023. [[paper](https://arxiv.org/abs/2311.05417)]
+
 
 
 ## Diffusion Model for Tabular Data
