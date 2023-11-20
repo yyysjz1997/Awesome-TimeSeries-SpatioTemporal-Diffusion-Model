@@ -23,7 +23,7 @@ We will continue to update this list with newest resources. If you found any mis
     - [Anomaly Detection](#anomaly-detection)
     - [Classification and Regression](#classification-and-regression)
     - [Causal Inference](#causal-inference)
-    - [Event Prediction](#event-prediction)
+    - [Event Prediction and Classification](#event-prediction-and-classification)
   - [Diffusion Model for SpatioTemporal Data](#diffusion-model-for-spatiotemporal-data)
   - [Diffusion Model for Tabular Data](#diffusion-model-for-tabular-data)
   - [Applications](#applications)
@@ -122,6 +122,8 @@ We will continue to update this list with newest resources. If you found any mis
 
 * Fast Diffusion GAN Model for Symbolic Music Generation Controlled by Emotions, in *arXiv* 2023. [[paper](https://arxiv.org/abs/2310.14040)]
 
+* TS-Diffusion: Generating Highly Complex Time Series with Diffusion Models, in *arXiv* 2023. [[paper](https://arxiv.org/abs/2311.03303)]
+
 
 ### Imputation
 
@@ -165,17 +167,21 @@ We will continue to update this list with newest resources. If you found any mis
 
 * Applying Generative Models and Transfer Learning to Physiological Data Classification, in *Artificial Intelligence Research and Development* 2023. [[paper](https://ebooks.iospress.nl/doi/10.3233/FAIA230656)]
 
+* Brain-Driven Representation Learning Based on Diffusion Model, in *arXiv* 2023. [[paper](https://arxiv.org/abs/2311.07925)]
+
 
 ### Causal Inference
 
 * Diffusion Model in Causal Inference with Unmeasured Confounders, in *arXiv* 2023. [[paper](https://arxiv.org/abs/2308.03669)] [[official-code](https://github.com/tatsu432/BDCM)]
 
 
-### Event Prediction
+### Event Prediction and Classification
 
 * Non-Autoregressive Diffusion-based Temporal Point Processes for Continuous-Time Long-Term Event Prediction, in *arXiv* 2023. [[paper](https://arxiv.org/abs/2311.01033)]
 
 * Add and Thin: Diffusion for Temporal Point Processes, in *arXiv* 2023. [[paper](https://arxiv.org/abs/2311.01139)] [[official-code](https://www.cs.cit.tum.de/daml/add-thin/)]
+
+* Adversarial Purification for Data-Driven Power System Event Classifiers with Diffusion Models, in *arXiv* 2023. [[paper](https://arxiv.org/abs/2311.07110)]
 
 
 
@@ -274,6 +280,8 @@ We will continue to update this list with newest resources. If you found any mis
 
 * Improving Diffusion Models for ECG Imputation with an Augmented Template Prior, in *arXiv* 2023. [[paper](https://arxiv.org/abs/2310.15742)]
 
+* Brain-Driven Representation Learning Based on Diffusion Model, in *arXiv* 2023. [[paper](https://arxiv.org/abs/2311.07925)]
+
 
 ### Sequential Recommendation
 
@@ -292,6 +300,8 @@ We will continue to update this list with newest resources. If you found any mis
 * Sequential Recommendation with Diffusion Models, in *arXiv* 2023. [[paper](https://arxiv.org/abs/2304.04541)]
 
 * DiffuRec: A Diffusion Model for Sequential Recommendation, in *arXiv* 2023. [[paper](https://arxiv.org/abs/2304.00686)]
+
+* Towards Graph-Aware Diffusion Modeling for Collaborative Filtering, in *arXiv* 2023. [[paper](https://arxiv.org/abs/2311.08744)]
 
 
 ### Weather
@@ -327,6 +337,8 @@ We will continue to update this list with newest resources. If you found any mis
 * DiffLoad: Uncertainty Quantification in Load Forecasting with Diffusion Model, in *arXiv* 2023. [[paper](https://arxiv.org/abs/2306.01001)]
 
 * Denoising Diffusion Probabilistic Models for Probabilistic Energy Forecasting, in *arXiv* 2023. [[paper](https://arxiv.org/abs/2212.02977)] [[official-code](https://github.com/EstebanHernandezCapel/DDPM-Power-systems-forecasting)]
+
+* Adversarial Purification for Data-Driven Power System Event Classifiers with Diffusion Models, in *arXiv* 2023. [[paper](https://arxiv.org/abs/2311.07110)]
 
 
 ### Math and Physics
