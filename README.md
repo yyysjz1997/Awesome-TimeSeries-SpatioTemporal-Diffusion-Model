@@ -153,6 +153,8 @@ We will continue to update this list with newest resources. If you found any mis
 * Time Series Anomaly Detection using Diffusion-based Models, in *ICDM Workshop* 2023. [[paper](https://arxiv.org/abs/2311.01452)] [[official-code](https://github.com/fbrad/diffusionae)]
 
 * Drift doesn’t Matter: Dynamic Decomposition with Diffusion Reconstruction for Unstable Multivariate Time Series Anomaly Detection, in *NeurIPS* 2023. [[paper](https://openreview.net/pdf?id=aW5bSuduF1)] [[official-code](https://github.com/ForestsKing/D3R)]
+ 
+* Diff-SwinT: An Integrated Framework of Diffusion Model and Swin Transformer for Radar Jamming Recognition, in *Future Internet* 2023. [[paper](https://www.mdpi.com/1999-5903/15/12/374)]
 
 * ImDiffusion: Imputed Diffusion Models for Multivariate Time Series Anomaly Detection, in *arXiv* 2023. [[paper](https://arxiv.org/abs/2307.00754)] [[official-code](https://github.com/17000cyh/IMDiffusion)]
 
@@ -260,6 +262,8 @@ We will continue to update this list with newest resources. If you found any mis
 
 * Synthetic Sleep EEG Signal Generation using Latent Diffusion Models, in *DGM4H NeurIPS* 2023. [[paper](https://openreview.net/forum?id=mDwURmlapW)] [[official-code](https://github.com/bruAristimunha/Synthetic-Sleep-EEG-Signal-Generation-using-Latent-Diffusion-Models)]
 
+* Data Augmentation for EEG Motor Imagery Classification Using Diffusion Model, in *Data Science and Artificial Intelligence conference* 2023. [[paper](https://link.springer.com/chapter/10.1007/978-981-99-7969-1_9)]
+
 * DiffECG: A Generalized Probabilistic Diffusion Model for ECG Signals Synthesis, in *arXiv* 2023. [[paper](https://arxiv.org/abs/2306.01875)]
 
 * Synthetic Health-related Longitudinal Data with Mixed-type Variables Generated using Diffusion Models, in *arXiv* 2023. [[paper](https://arxiv.org/abs/2303.12281)]
@@ -329,6 +333,8 @@ We will continue to update this list with newest resources. If you found any mis
 ### Energy and Electricity
 
 * Short-Term Wind Power Scenario Generation Based on Conditional Latent Diffusion Models, in *IEEE Transactions on Sustainable Energy* 2023. [[paper](https://ieeexplore.ieee.org/abstract/document/10296015)]
+
+* Diff-SwinT: An Integrated Framework of Diffusion Model and Swin Transformer for Radar Jamming Recognition, in *Future Internet* 2023. [[paper](https://www.mdpi.com/1999-5903/15/12/374)]
 
 * DiffCharge: Generating EV Charging Scenarios via a Denoising Diffusion Model, in *arXiv* 2023. [[paper](https://arxiv.org/abs/2308.09857)] [[official-code](https://github.com/LSY-Cython/DiffCharge)]
 
