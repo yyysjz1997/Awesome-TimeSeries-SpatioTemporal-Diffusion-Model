@@ -215,6 +215,8 @@ We will continue to update this list with newest resources. If you found any mis
 
 * Predicting the Position Uncertainty at the Time of Closest Approach with Diffusion Models, in *arXiv* 2023. [[paper](https://arxiv.org/abs/2311.05417)]
 
+* ChatTraffic: Text-to-Traffic Generation via Diffusion Model, in *arXiv* 2023. [[paper](https://arxiv.org/abs/2311.16203)] [[official-code](https://github.com/ChyaZhang/ChatTraffic)]
+
 
 
 ## Diffusion Model for Tabular Data
