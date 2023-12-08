@@ -209,8 +209,6 @@ We will continue to update this list with newest resources. If you found any mis
 
 * DiffUFlow: Robust Fine-grained Urban Flow Inference with Denoising Diffusion Model, in *CIKM* 2023. [[paper](https://dl.acm.org/doi/abs/10.1145/3583780.3614842)]
 
-* Adaptive Graph Neural Diffusion for Traffic Demand Forecasting, in *CIKM* 2023. [[paper](https://dl.acm.org/doi/10.1145/3583780.3615153)]
-
 * DiffTraj: Generating GPS Trajectory with Diffusion Probabilistic Model, in *NeurIPS* 2023. [[paper](https://arxiv.org/abs/2304.11582)] [[official-code](https://github.com/Yasoz/DiffTraj)]
 
 * Dynamic Causal Explanation Based Diffusion-Variational Graph Neural Network for Spatio-temporal Forecasting, in *arXiv* 2023. [[paper](https://arxiv.org/abs/2305.09703)] [[official-code](https://github.com/gorgen2020/dvgnn)]
@@ -394,8 +392,6 @@ We will continue to update this list with newest resources. If you found any mis
 ### Traffic
 
 * DiffUFlow: Robust Fine-grained Urban Flow Inference with Denoising Diffusion Model, in *CIKM* 2023. [[paper](https://dl.acm.org/doi/abs/10.1145/3583780.3614842)]
-
-* Adaptive Graph Neural Diffusion for Traffic Demand Forecasting, in *CIKM* 2023. [[paper](https://dl.acm.org/doi/10.1145/3583780.3615153)]
 
 * Generating HSR Bogie Vibration Signals via Pulse Voltage-Guided Conditional Diffusion Model, in *arXiv* 2023. [[paper](https://arxiv.org/abs/2311.00496)] [[official-code](https://github.com/xuanliu2000/VGCDM)]
 
