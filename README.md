@@ -356,6 +356,8 @@ We will continue to update this list with newest resources. If you found any mis
 
 * Adversarial Purification for Data-Driven Power System Event Classifiers with Diffusion Models, in *arXiv* 2023. [[paper](https://arxiv.org/abs/2311.07110)]
 
+* Improved Efficient Two-Stage Denoising Diffusion Power System Measurement Recovery Against False Data Injection Attacks and Data Losses, in *arXiv* 2023. [[paper](https://arxiv.org/abs/2312.04346)]
+
 
 ### Math and Physics
 
