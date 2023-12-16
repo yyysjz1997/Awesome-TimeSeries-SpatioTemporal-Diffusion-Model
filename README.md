@@ -126,6 +126,10 @@ We will continue to update this list with newest resources. If you found any mis
 
 * TS-Diffusion: Generating Highly Complex Time Series with Diffusion Models, in *arXiv* 2023. [[paper](https://arxiv.org/abs/2311.03303)]
 
+* Reliable Generation of EHR Time Series via Diffusion Models, in *arXiv* 2023. [[paper](https://arxiv.org/abs/2310.15290v2)]
+
+* D3A-TS: Denoising-Driven Data Augmentation in Time Series, in *arXiv* 2023. [[paper](https://arxiv.org/abs/2312.05550)]
+
 
 ### Imputation
 
@@ -295,6 +299,8 @@ We will continue to update this list with newest resources. If you found any mis
 * Improving Diffusion Models for ECG Imputation with an Augmented Template Prior, in *arXiv* 2023. [[paper](https://arxiv.org/abs/2310.15742)]
 
 * Brain-Driven Representation Learning Based on Diffusion Model, in *arXiv* 2023. [[paper](https://arxiv.org/abs/2311.07925)]
+
+* Reliable Generation of EHR Time Series via Diffusion Models, in *arXiv* 2023. [[paper](https://arxiv.org/abs/2310.15290v2)]
 
 
 ### Sequential Recommendation
