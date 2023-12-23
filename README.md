@@ -196,6 +196,8 @@ We will continue to update this list with newest resources. If you found any mis
 
 * Diffusion Model in Causal Inference with Unmeasured Confounders, in *arXiv* 2023. [[paper](https://arxiv.org/abs/2308.03669)] [[official-code](https://github.com/tatsu432/BDCM)]
 
+* Brain Diffuser with Hierarchical Transformer for MCI Causality Analysis, in *arXiv* 2023. [[paper](https://arxiv.org/abs/2312.09022)]
+
 
 ### Event Prediction and Classification
 
@@ -311,6 +313,8 @@ We will continue to update this list with newest resources. If you found any mis
 * Brain-Driven Representation Learning Based on Diffusion Model, in *arXiv* 2023. [[paper](https://arxiv.org/abs/2311.07925)]
 
 * Reliable Generation of EHR Time Series via Diffusion Models, in *arXiv* 2023. [[paper](https://arxiv.org/abs/2310.15290v2)]
+
+* Brain Diffuser with Hierarchical Transformer for MCI Causality Analysis, in *arXiv* 2023. [[paper](https://arxiv.org/abs/2312.09022)]
 
 
 ### Sequential Recommendation
