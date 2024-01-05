@@ -227,6 +227,8 @@ We will continue to update this list with newest resources. If you found any mis
 
 * Origin-Destination Travel Time Oracle for Map-based Services, in *SIGMOD* 2023. [[paper](https://arxiv.org/abs/2307.03048)]
 
+* A Graph-Based Scene Encoder for Vehicle Trajectory Prediction Using the Diffusion Model, in *CSIS-IAC* 2023. [[paper](https://ieeexplore.ieee.org/abstract/document/10363970)]
+
 * Dynamic Causal Explanation Based Diffusion-Variational Graph Neural Network for Spatio-temporal Forecasting, in *arXiv* 2023. [[paper](https://arxiv.org/abs/2305.09703)] [[official-code](https://github.com/gorgen2020/dvgnn)]
 
 * Sasdim: Self-adaptive Noise Scaling Diffusion Model for Spatial Time Series Imputation, in *arXiv* 2023. [[paper](https://arxiv.org/abs/2309.01988)]
@@ -250,6 +252,8 @@ We will continue to update this list with newest resources. If you found any mis
 * CoDi: Co-evolving Contrastive Diffusion Models for Mixed-type Tabular Synthesis, in *ICML* 2023. [[paper](https://arxiv.org/abs/2304.12654)] [[official-code](https://github.com/chaejeonglee/codi)]
 
 * TabDDPM: Modelling Tabular Data with Diffusion Models, in *ICML* 2023. [[paper](https://arxiv.org/abs/2209.15421)] [[official-code](https://github.com/yandex-research/tab-ddpm)]
+
+* Multi-task oriented diffusion model for mortality prediction in shock patients with incomplete data, in *Information Fusion* 2023. [[paper](https://www.sciencedirect.com/science/article/pii/S1566253523005237)]
  
 * Conditioning Score-Based Generative Models by Neuro-Symbolic Constraints, in *arXiv* 2023. [[paper](https://arxiv.org/abs/2308.16534)]
 
@@ -291,6 +295,8 @@ We will continue to update this list with newest resources. If you found any mis
 * Generative AI Enables the Detection of Autism Using EEG Signals, in *Biometric Recognition* 2023. [[paper](https://link.springer.com/chapter/10.1007/978-981-99-8565-4_35)]
 
 * Enhanced Atrial Fibrillation (AF) Detection via Data Augmentation with Diffusion Model, in *International Conference on Computer and Knowledge Engineering* 2023. [[paper](https://ieeexplore.ieee.org/abstract/document/10326310)] [[official-code](https://github.com/arashVsh/AF-Detection-DDPM)]
+
+* Multi-task oriented diffusion model for mortality prediction in shock patients with incomplete data, in *Information Fusion* 2023. [[paper](https://www.sciencedirect.com/science/article/pii/S1566253523005237)]
 
 * DiffECG: A Generalized Probabilistic Diffusion Model for ECG Signals Synthesis, in *arXiv* 2023. [[paper](https://arxiv.org/abs/2306.01875)]
 
@@ -398,6 +404,8 @@ We will continue to update this list with newest resources. If you found any mis
 
 * FinDiff: Diffusion Models for Financial Tabular Data Generation, in *arXiv* 2023. [[paper](https://arxiv.org/abs/2309.01472)]
 
+* Synthetic Data Applications in Finance, in *arXiv* 2023. [[paper](https://arxiv.org/abs/2401.00081)]
+
 
 ### AIOps
 
@@ -424,6 +432,8 @@ We will continue to update this list with newest resources. If you found any mis
 * DiffUFlow: Robust Fine-grained Urban Flow Inference with Denoising Diffusion Model, in *CIKM* 2023. [[paper](https://dl.acm.org/doi/abs/10.1145/3583780.3614842)]
 
 * Origin-Destination Travel Time Oracle for Map-based Services, in *SIGMOD* 2023. [[paper](https://arxiv.org/abs/2307.03048)]
+
+* A Graph-Based Scene Encoder for Vehicle Trajectory Prediction Using the Diffusion Model, in *CSIS-IAC* 2023. [[paper](https://ieeexplore.ieee.org/abstract/document/10363970)]
 
 * Generating HSR Bogie Vibration Signals via Pulse Voltage-Guided Conditional Diffusion Model, in *arXiv* 2023. [[paper](https://arxiv.org/abs/2311.00496)] [[official-code](https://github.com/xuanliu2000/VGCDM)]
 
