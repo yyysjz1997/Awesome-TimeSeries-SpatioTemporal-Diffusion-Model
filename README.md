@@ -136,6 +136,8 @@ We will continue to update this list with newest resources. If you found any mis
 
 * Time Series Diffusion Method: A Denoising Diffusion Probabilistic Model for Vibration Signal Generation, in *arXiv* 2023. [[paper](https://arxiv.org/abs/2312.07981)]
 
+* Plug-in Diffusion Model for Sequential Recommendation, in *arXiv* 2024. [[paper](https://arxiv.org/pdf/2401.02913.pdf)][[official-code](https://github.com/hulkima/PDRec)]
+
 
 ### Imputation
 
@@ -177,6 +179,8 @@ We will continue to update this list with newest resources. If you found any mis
 * DDMT: Denoising Diffusion Mask Transformer Models for Multivariate Time Series Anomaly Detection, in *arXiv* 2023. [[paper](https://arxiv.org/abs/2310.08800)] [[official-code](https://github.com/yangchaocheng/DDTM)]
 
 * Generating HSR Bogie Vibration Signals via Pulse Voltage-Guided Conditional Diffusion Model, in *arXiv* 2023. [[paper](https://arxiv.org/abs/2311.00496)] [[official-code](https://github.com/xuanliu2000/VGCDM)]
+
+* Attention-enhanced conditional-diffusion-based data synthesis for data augmentation in machine fault diagnosis, in *Engineering Applications of Artificial Intelligence* 2024. [[paper](https://www.sciencedirect.com/science/article/pii/S0952197623018808)]
 
 
 ### Classification and Regression
@@ -324,6 +328,8 @@ We will continue to update this list with newest resources. If you found any mis
 
 * Brain Diffuser with Hierarchical Transformer for MCI Causality Analysis, in *arXiv* 2023. [[paper](https://arxiv.org/abs/2312.09022)]
 
+* Addiction-related brain networks identification via Graph Diffusion Reconstruction Network, in *Brain Informatics* 2024. [[paper](https://link.springer.com/article/10.1186/s40708-023-00216-5)]
+
 
 ### Sequential Recommendation
 
@@ -344,6 +350,8 @@ We will continue to update this list with newest resources. If you found any mis
 * DiffuRec: A Diffusion Model for Sequential Recommendation, in *arXiv* 2023. [[paper](https://arxiv.org/abs/2304.00686)]
 
 * Towards Graph-Aware Diffusion Modeling for Collaborative Filtering, in *arXiv* 2023. [[paper](https://arxiv.org/abs/2311.08744)]
+
+* Plug-in Diffusion Model for Sequential Recommendation, in *arXiv* 2024. [[paper](https://arxiv.org/pdf/2401.02913.pdf)][[official-code](https://github.com/hulkima/PDRec)]
 
 
 ### Weather
@@ -445,6 +453,8 @@ We will continue to update this list with newest resources. If you found any mis
 * Missing Data Filling in Soft Sensing Using Denoising Diffusion Probability Model, in *Measurement Science and Technology* 2023. [[paper](https://iopscience.iop.org/article/10.1088/1361-6501/ad095a)]
 
 * Unsupervised Statistical Feature-Guided Diffusion Model for Sensor-based Human Activity Recognition, in *arXiv* 2023. [[paper](https://arxiv.org/abs/2306.05285)]
+
+* Attention-enhanced conditional-diffusion-based data synthesis for data augmentation in machine fault diagnosis, in *Engineering Applications of Artificial Intelligence* 2024. [[paper](https://www.sciencedirect.com/science/article/pii/S0952197623018808)]
 
 
 ### Audio
