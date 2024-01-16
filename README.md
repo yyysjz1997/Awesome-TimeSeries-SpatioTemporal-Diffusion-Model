@@ -83,6 +83,8 @@ We will continue to update this list with newest resources. If you found any mis
 
 * WiREDiff: a Wind Resolution-Enhancing Diffusion Model, in *Working Paper* 2023. [[link](https://rupakv.com/wirediff.html#:~:text=WiREDiff%20is%20a%20novel%20application,interval%20of%20predicted%20wind%20velocities.)] [[paper](https://rupakv.com/pdfs/wirediff_report.pdf)] [[official-code](https://github.com/RupaKurinchiVendhan/WiREDiff)]
 
+* DiffDA: a diffusion model for weather-scale data assimilation, in *arXiv* 2024. [[paper](https://arxiv.org/abs/2401.05932)]
+
 
 ### Generation
 
@@ -135,6 +137,8 @@ We will continue to update this list with newest resources. If you found any mis
 * D3A-TS: Denoising-Driven Data Augmentation in Time Series, in *arXiv* 2023. [[paper](https://arxiv.org/abs/2312.05550)]
 
 * Time Series Diffusion Method: A Denoising Diffusion Probabilistic Model for Vibration Signal Generation, in *arXiv* 2023. [[paper](https://arxiv.org/abs/2312.07981)]
+
+* Bayesian ECG reconstruction using denoising diffusion generative models, in *arXiv* 2023. [[paper](https://arxiv.org/abs/2401.05388)]
 
 * Plug-in Diffusion Model for Sequential Recommendation, in *arXiv* 2024. [[paper](https://arxiv.org/pdf/2401.02913.pdf)][[official-code](https://github.com/hulkima/PDRec)]
 
@@ -332,6 +336,8 @@ We will continue to update this list with newest resources. If you found any mis
 
 * Brain Diffuser with Hierarchical Transformer for MCI Causality Analysis, in *arXiv* 2023. [[paper](https://arxiv.org/abs/2312.09022)]
 
+* Bayesian ECG reconstruction using denoising diffusion generative models, in *arXiv* 2023. [[paper](https://arxiv.org/abs/2401.05388)]
+
 * Addiction-related brain networks identification via Graph Diffusion Reconstruction Network, in *Brain Informatics* 2024. [[paper](https://link.springer.com/article/10.1186/s40708-023-00216-5)]
 
 
@@ -373,6 +379,8 @@ We will continue to update this list with newest resources. If you found any mis
 * Latent Diffusion Models for Generative Precipitation Nowcasting with Accurate Uncertainty Quantification, in *arXiv* 2023. [[paper](https://arxiv.org/abs/2304.12891)] [[official-code](https://github.com/MeteoSwiss/ldcast)]
 
 * WiREDiff: a Wind Resolution-Enhancing Diffusion Model, in *Working Paper* 2023. [[link](https://rupakv.com/wirediff.html#:~:text=WiREDiff%20is%20a%20novel%20application,interval%20of%20predicted%20wind%20velocities.)] [[paper](https://rupakv.com/pdfs/wirediff_report.pdf)] [[official-code](https://github.com/RupaKurinchiVendhan/WiREDiff)]
+
+* DiffDA: a diffusion model for weather-scale data assimilation, in *arXiv* 2024. [[paper](https://arxiv.org/abs/2401.05932)]
 
 
 ### Video
