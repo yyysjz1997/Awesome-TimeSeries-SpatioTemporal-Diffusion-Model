@@ -142,6 +142,8 @@ We will continue to update this list with newest resources. If you found any mis
 
 * Plug-in Diffusion Model for Sequential Recommendation, in *arXiv* 2024. [[paper](https://arxiv.org/pdf/2401.02913.pdf)][[official-code](https://github.com/hulkima/PDRec)]
 
+* DiffuseRoll: multi-track multi-attribute music generation based on diffusion model, in *Multimedia Systems* 2024. [[paper](https://link.springer.com/article/10.1007/s00530-023-01220-9)] [[official-code](https://github.com/Fairywang9/DiffuseRoll)]
+
 
 ### Imputation
 
@@ -250,6 +252,8 @@ We will continue to update this list with newest resources. If you found any mis
 * Predicting the Position Uncertainty at the Time of Closest Approach with Diffusion Models, in *arXiv* 2023. [[paper](https://arxiv.org/abs/2311.05417)]
 
 * ChatTraffic: Text-to-Traffic Generation via Diffusion Model, in *arXiv* 2023. [[paper](https://arxiv.org/abs/2311.16203)] [[official-code](https://github.com/ChyaZhang/ChatTraffic)]
+
+* SpecSTG: A Fast Spectral Diffusion Framework for Probabilistic Spatio-Temporal Traffic Forecasting, in *arXiv* 2024. [[paper](https://arxiv.org/abs/2401.08119)] [[official-code](https://anonymous.4open.science/r/SpecSTG/)]
 
 * DiffTAD: Denoising diffusion probabilistic models for vehicle trajectory anomaly detection, in *Knowledge-Based Systems* 2024. [[paper](https://www.sciencedirect.com/science/article/pii/S0950705124000224)] [[official-code](https://github.com/Psychic-DL/DiffTAD)]
 
@@ -457,6 +461,8 @@ We will continue to update this list with newest resources. If you found any mis
 
 * Generating HSR Bogie Vibration Signals via Pulse Voltage-Guided Conditional Diffusion Model, in *arXiv* 2023. [[paper](https://arxiv.org/abs/2311.00496)] [[official-code](https://github.com/xuanliu2000/VGCDM)]
 
+* SpecSTG: A Fast Spectral Diffusion Framework for Probabilistic Spatio-Temporal Traffic Forecasting, in *arXiv* 2024. [[paper](https://arxiv.org/abs/2401.08119)] [[official-code](https://anonymous.4open.science/r/SpecSTG/)]
+
 * DiffTAD: Denoising diffusion probabilistic models for vehicle trajectory anomaly detection, in *Knowledge-Based Systems* 2024. [[paper](https://www.sciencedirect.com/science/article/pii/S0950705124000224)] [[official-code](https://github.com/Psychic-DL/DiffTAD)]
 
 
@@ -482,6 +488,8 @@ We will continue to update this list with newest resources. If you found any mis
 * Reducing the Prior Mismatch of Stochastic Differential Equations for Diffusion-based Speech Enhancement, in *Interspeech* 2023. [[paper](https://arxiv.org/abs/2302.14748)] [[official-code](https://github.com/sp-uhh/sgmse-bbed)]
 
 * Fast Diffusion GAN Model for Symbolic Music Generation Controlled by Emotions, in *arXiv* 2023. [[paper](https://arxiv.org/abs/2310.14040)]
+
+* DiffuseRoll: multi-track multi-attribute music generation based on diffusion model, in *Multimedia Systems* 2024. [[paper](https://link.springer.com/article/10.1007/s00530-023-01220-9)] [[official-code](https://github.com/Fairywang9/DiffuseRoll)]
 
 
 
