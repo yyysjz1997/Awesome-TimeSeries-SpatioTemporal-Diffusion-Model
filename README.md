@@ -85,6 +85,8 @@ We will continue to update this list with newest resources. If you found any mis
 
 * DiffDA: a diffusion model for weather-scale data assimilation, in *arXiv* 2024. [[paper](https://arxiv.org/abs/2401.05932)]
 
+* A novel gear RUL prediction method by diffusion model generation health index and attention guided multi-hierarchy LSTM, in *Scientific Reports* 2024. [[paper](https://www.nature.com/articles/s41598-024-52151-y)]
+
 
 ### Generation
 
@@ -166,6 +168,8 @@ We will continue to update this list with newest resources. If you found any mis
 * Sasdim: Self-adaptive Noise Scaling Diffusion Model for Spatial Time Series Imputation, in *arXiv* 2023. [[paper](https://arxiv.org/abs/2309.01988)]
 
 * Improving Diffusion Models for ECG Imputation with an Augmented Template Prior, in *arXiv* 2023. [[paper](https://arxiv.org/abs/2310.15742)]
+
+* Imputing time-series microbiome abundance profiles with diffusion model, in *IEEE International Conference on Bioinformatics and Biomedicine (BIBM)* 2023. [[paper](https://ieeexplore.ieee.org/abstract/document/10385703)] [[official-code](https://github.com/misatoseki/metag_time_impute)]
 
 
 ### Anomaly Detection
@@ -342,6 +346,8 @@ We will continue to update this list with newest resources. If you found any mis
 
 * Bayesian ECG reconstruction using denoising diffusion generative models, in *arXiv* 2023. [[paper](https://arxiv.org/abs/2401.05388)]
 
+* Imputing time-series microbiome abundance profiles with diffusion model, in *IEEE International Conference on Bioinformatics and Biomedicine (BIBM)* 2023. [[paper](https://ieeexplore.ieee.org/abstract/document/10385703)] [[official-code](https://github.com/misatoseki/metag_time_impute)]
+
 * Addiction-related brain networks identification via Graph Diffusion Reconstruction Network, in *Brain Informatics* 2024. [[paper](https://link.springer.com/article/10.1186/s40708-023-00216-5)]
 
 
@@ -475,6 +481,8 @@ We will continue to update this list with newest resources. If you found any mis
 * Unsupervised Statistical Feature-Guided Diffusion Model for Sensor-based Human Activity Recognition, in *arXiv* 2023. [[paper](https://arxiv.org/abs/2306.05285)]
 
 * Attention-enhanced conditional-diffusion-based data synthesis for data augmentation in machine fault diagnosis, in *Engineering Applications of Artificial Intelligence* 2024. [[paper](https://www.sciencedirect.com/science/article/pii/S0952197623018808)]
+
+* A novel gear RUL prediction method by diffusion model generation health index and attention guided multi-hierarchy LSTM, in *Scientific Reports* 2024. [[paper](https://www.nature.com/articles/s41598-024-52151-y)]
 
 
 ### Audio
