@@ -142,6 +142,10 @@ We will continue to update this list with newest resources. If you found any mis
 
 * Bayesian ECG reconstruction using denoising diffusion generative models, in *arXiv* 2023. [[paper](https://arxiv.org/abs/2401.05388)]
 
+* A Short-Term Wind Power Scenario Generation Method Based on Conditional Diffusion Model, in *IEEE Sustainable Power and Energy Conference (iSPEC)* 2023. [[paper](https://ieeexplore.ieee.org/abstract/document/10403004)]
+
+* Scenario Generation of Renewable Energy Based on Improved Diffusion Model, in *IEEE Sustainable Power and Energy Conference (iSPEC)* 2023. [[paper](https://ieeexplore.ieee.org/abstract/document/10402981)]
+
 * Plug-in Diffusion Model for Sequential Recommendation, in *arXiv* 2024. [[paper](https://arxiv.org/pdf/2401.02913.pdf)][[official-code](https://github.com/hulkima/PDRec)]
 
 * DiffuseRoll: multi-track multi-attribute music generation based on diffusion model, in *Multimedia Systems* 2024. [[paper](https://link.springer.com/article/10.1007/s00530-023-01220-9)] [[official-code](https://github.com/Fairywang9/DiffuseRoll)]
@@ -419,6 +423,10 @@ We will continue to update this list with newest resources. If you found any mis
 * Adversarial Purification for Data-Driven Power System Event Classifiers with Diffusion Models, in *arXiv* 2023. [[paper](https://arxiv.org/abs/2311.07110)]
 
 * Improved Efficient Two-Stage Denoising Diffusion Power System Measurement Recovery Against False Data Injection Attacks and Data Losses, in *arXiv* 2023. [[paper](https://arxiv.org/abs/2312.04346)]
+
+* A Short-Term Wind Power Scenario Generation Method Based on Conditional Diffusion Model, in *IEEE Sustainable Power and Energy Conference (iSPEC)* 2023. [[paper](https://ieeexplore.ieee.org/abstract/document/10403004)]
+
+* Scenario Generation of Renewable Energy Based on Improved Diffusion Model, in *IEEE Sustainable Power and Energy Conference (iSPEC)* 2023. [[paper](https://ieeexplore.ieee.org/abstract/document/10402981)]
 
 
 ### Math and Physics
