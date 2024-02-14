@@ -89,6 +89,8 @@ We will continue to update this list with newest resources. If you found any mis
 
 * A transformer-based diffusion probabilistic model for heart rate and blood pressure forecasting in Intensive Care Unit, in *Computer Methods and Programs in Biomedicine* 2024. [[paper](https://www.sciencedirect.com/science/article/pii/S0169260724000567)] [[official-code](https://github.com/PingChang818/TDSTF)]
 
+* Quantifying uncertainty: Air quality forecasting based on dynamic spatial-temporal denoising diffusion Probabilistic model, in *Environmental Research* 2024. [[paper](https://www.sciencedirect.com/science/article/pii/S0013935124003426)]
+
 
 ### Generation
 
@@ -158,6 +160,8 @@ We will continue to update this list with newest resources. If you found any mis
 
 * Time Series Diffusion in the Frequency Domain, in *arXiv* 2024. [[paper](https://arxiv.org/abs/2402.05933)][[official-code](https://github.com/JonathanCrabbe/FourierDiffusion)]
 
+* DiffsFormer: A Diffusion Transformer on Stock Factor Augmentation, in *arXiv* 2024. [[paper](https://arxiv.org/abs/2402.06656v1)]
+
 
 ### Imputation
 
@@ -182,6 +186,8 @@ We will continue to update this list with newest resources. If you found any mis
 * Improving Diffusion Models for ECG Imputation with an Augmented Template Prior, in *arXiv* 2023. [[paper](https://arxiv.org/abs/2310.15742)]
 
 * Imputing time-series microbiome abundance profiles with diffusion model, in *IEEE International Conference on Bioinformatics and Biomedicine (BIBM)* 2023. [[paper](https://ieeexplore.ieee.org/abstract/document/10385703)] [[official-code](https://github.com/misatoseki/metag_time_impute)]
+
+* DiffsFormer: A Diffusion Transformer on Stock Factor Augmentation, in *arXiv* 2024. [[paper](https://arxiv.org/abs/2402.06656v1)]
 
 
 ### Anomaly Detection
@@ -461,6 +467,8 @@ We will continue to update this list with newest resources. If you found any mis
 
 * Synthetic Data Applications in Finance, in *arXiv* 2023. [[paper](https://arxiv.org/abs/2401.00081)]
 
+* DiffsFormer: A Diffusion Transformer on Stock Factor Augmentation, in *arXiv* 2024. [[paper](https://arxiv.org/abs/2402.06656v1)]
+
 
 ### AIOps
 
@@ -480,6 +488,8 @@ We will continue to update this list with newest resources. If you found any mis
 * Data-driven and knowledge-guided denoising diffusion model for flood forecasting, in *Expert Systems with Applications* 2023. [[paper](https://www.sciencedirect.com/science/article/pii/S0957417423034103)]
 
 * Time Series Diffusion Method: A Denoising Diffusion Probabilistic Model for Vibration Signal Generation, in *arXiv* 2023. [[paper](https://arxiv.org/abs/2312.07981)]
+
+* Quantifying uncertainty: Air quality forecasting based on dynamic spatial-temporal denoising diffusion Probabilistic model, in *Environmental Research* 2024. [[paper](https://www.sciencedirect.com/science/article/pii/S0013935124003426)]
 
 
 ### Traffic
