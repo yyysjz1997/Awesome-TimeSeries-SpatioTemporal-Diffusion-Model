@@ -214,6 +214,8 @@ We will continue to update this list with newest resources. If you found any mis
 
 * Diffusion-UDA: Diffusion-based unsupervised domain adaptation for submersible fault diagnosis, in *Electronics Letters* 2024. [[paper](https://ietresearch.onlinelibrary.wiley.com/doi/pdf/10.1049/ell2.13122)]
 
+* Denoising diffusion implicit model for bearing fault diagnosis under different working loads, in *ITM Web of Conferences* 2024. [[paper](https://www.itm-conferences.org/articles/itmconf/abs/2024/06/itmconf_amict2023_01025/itmconf_amict2023_01025.html)]
+
 
 
 ### Classification and Regression
@@ -520,6 +522,8 @@ We will continue to update this list with newest resources. If you found any mis
 * A novel gear RUL prediction method by diffusion model generation health index and attention guided multi-hierarchy LSTM, in *Scientific Reports* 2024. [[paper](https://www.nature.com/articles/s41598-024-52151-y)]
 
 * Diffusion-UDA: Diffusion-based unsupervised domain adaptation for submersible fault diagnosis, in *Electronics Letters* 2024. [[paper](https://ietresearch.onlinelibrary.wiley.com/doi/pdf/10.1049/ell2.13122)]
+
+* Denoising diffusion implicit model for bearing fault diagnosis under different working loads, in *ITM Web of Conferences* 2024. [[paper](https://www.itm-conferences.org/articles/itmconf/abs/2024/06/itmconf_amict2023_01025/itmconf_amict2023_01025.html)]
 
 
 ### Audio
