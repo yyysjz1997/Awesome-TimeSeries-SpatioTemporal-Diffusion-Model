@@ -91,6 +91,9 @@ We will continue to update this list with newest resources. If you found any mis
 
 * Quantifying uncertainty: Air quality forecasting based on dynamic spatial-temporal denoising diffusion Probabilistic model, in *Environmental Research* 2024. [[paper](https://www.sciencedirect.com/science/article/pii/S0013935124003426)]
 
+* DiffPLF: A Conditional Diffusion Model for Probabilistic Forecasting of EV Charging Load, in *arXiv* 2024. [[paper](https://arxiv.org/abs/2402.13548)] [[official-code](https://github.com/LSY-Cython/DiffPLF)]
+
+
 
 ### Generation
 
@@ -230,6 +233,8 @@ We will continue to update this list with newest resources. If you found any mis
 
 * Brain-Driven Representation Learning Based on Diffusion Model, in *arXiv* 2023. [[paper](https://arxiv.org/abs/2311.07925)]
 
+* AIGC for RF Sensing: The Case of RFID-based Human Activity Recognition, in *International Conference on Computing, Networking and Communications* 2024. [[paper](http://www.conf-icnc.org/2024/papers/p1092-wang.pdf)]
+
 
 ### Causal Inference
 
@@ -285,6 +290,8 @@ We will continue to update this list with newest resources. If you found any mis
 * DiffTAD: Denoising diffusion probabilistic models for vehicle trajectory anomaly detection, in *Knowledge-Based Systems* 2024. [[paper](https://www.sciencedirect.com/science/article/pii/S0950705124000224)] [[official-code](https://github.com/Psychic-DL/DiffTAD)]
 
 * Simulating human mobility with a trajectory generation framework based on diffusion model, in *International Journal of Geographical Information Science* 2024. [[paper](https://www.tandfonline.com/doi/full/10.1080/13658816.2024.2312199)] [[official-code](https://github.com/chuchen2017/TrajGDM)]
+
+* SRNDiff: Short-term Rainfall Nowcasting with Condition Diffusion Model, in *arXiv* 2024. [[paper](https://arxiv.org/abs/2402.13737)]
 
 
 
@@ -421,6 +428,8 @@ We will continue to update this list with newest resources. If you found any mis
 
 * DiffDA: a diffusion model for weather-scale data assimilation, in *arXiv* 2024. [[paper](https://arxiv.org/abs/2401.05932)]
 
+* SRNDiff: Short-term Rainfall Nowcasting with Condition Diffusion Model, in *arXiv* 2024. [[paper](https://arxiv.org/abs/2402.13737)]
+
 
 ### Video
 
@@ -448,6 +457,8 @@ We will continue to update this list with newest resources. If you found any mis
 * A Short-Term Wind Power Scenario Generation Method Based on Conditional Diffusion Model, in *IEEE Sustainable Power and Energy Conference (iSPEC)* 2023. [[paper](https://ieeexplore.ieee.org/abstract/document/10403004)]
 
 * Scenario Generation of Renewable Energy Based on Improved Diffusion Model, in *IEEE Sustainable Power and Energy Conference (iSPEC)* 2023. [[paper](https://ieeexplore.ieee.org/abstract/document/10402981)]
+
+* DiffPLF: A Conditional Diffusion Model for Probabilistic Forecasting of EV Charging Load, in *arXiv* 2024. [[paper](https://arxiv.org/abs/2402.13548)] [[official-code](https://github.com/LSY-Cython/DiffPLF)]
 
 
 ### Math and Physics
@@ -526,6 +537,8 @@ We will continue to update this list with newest resources. If you found any mis
 * Diffusion-UDA: Diffusion-based unsupervised domain adaptation for submersible fault diagnosis, in *Electronics Letters* 2024. [[paper](https://ietresearch.onlinelibrary.wiley.com/doi/pdf/10.1049/ell2.13122)]
 
 * Denoising diffusion implicit model for bearing fault diagnosis under different working loads, in *ITM Web of Conferences* 2024. [[paper](https://www.itm-conferences.org/articles/itmconf/abs/2024/06/itmconf_amict2023_01025/itmconf_amict2023_01025.html)]
+
+* AIGC for RF Sensing: The Case of RFID-based Human Activity Recognition, in *International Conference on Computing, Networking and Communications* 2024. [[paper](http://www.conf-icnc.org/2024/papers/p1092-wang.pdf)]
 
 
 ### Audio
