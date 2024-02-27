@@ -149,6 +149,8 @@ We will continue to update this list with newest resources. If you found any mis
 
 * Bayesian ECG reconstruction using denoising diffusion generative models, in *arXiv* 2023. [[paper](https://arxiv.org/abs/2401.05388)]
 
+* Regular Time-series Generation using SGM, in *arXiv* 2023. [[paper](https://arxiv.org/abs/2301.08518)]
+
 * A Short-Term Wind Power Scenario Generation Method Based on Conditional Diffusion Model, in *IEEE Sustainable Power and Energy Conference (iSPEC)* 2023. [[paper](https://ieeexplore.ieee.org/abstract/document/10403004)]
 
 * Scenario Generation of Renewable Energy Based on Improved Diffusion Model, in *IEEE Sustainable Power and Energy Conference (iSPEC)* 2023. [[paper](https://ieeexplore.ieee.org/abstract/document/10402981)]
