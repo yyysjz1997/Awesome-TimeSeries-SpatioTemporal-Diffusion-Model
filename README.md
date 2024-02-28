@@ -411,6 +411,8 @@ We will continue to update this list with newest resources. If you found any mis
 
 * Towards Graph-Aware Diffusion Modeling for Collaborative Filtering, in *arXiv* 2023. [[paper](https://arxiv.org/abs/2311.08744)]
 
+* Generate What You Prefer: Reshaping Sequential Recommendation via Guided Diffusion, in *NeurIPS* 2023. [[paper](https://arxiv.org/abs/2310.20453)] [[official-code](https://github.com/yangzhengyi98/dreamrec)]
+
 * Plug-in Diffusion Model for Sequential Recommendation, in *arXiv* 2024. [[paper](https://arxiv.org/pdf/2401.02913.pdf)][[official-code](https://github.com/hulkima/PDRec)]
 
 
