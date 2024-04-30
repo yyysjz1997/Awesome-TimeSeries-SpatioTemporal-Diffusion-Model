@@ -10,7 +10,25 @@ A curated list of **Diffusion Models** for **Time Series**, **SpatioTemporal Dat
 
 We will continue to update this list with newest resources. If you found any missed resources (paper/code) or errors, please feel free to open an issue or make a pull request.
 
-✨ **An upcoming survey paper about “Diffusion Models for Time Series and Spatio-Temporal Data: Survey and Application” is coming soon, stay tuned.**
+## Survey
+
+✨ **[[A Survey on Diffusion Models for Time Series and Spatio-Temporal Data](https://arxiv.org/abs/2404.18886)]**
+
+**Authors**: Yiyuan Yang, Ming Jin, Haomin Wen, Chaoli Zhang, Yuxuan Liang*, Lintao Ma, Yi Wang, Chenghao Liu, Bin Yang, Zenglin Xu, Jiang Bian, Shirui Pan, Qingsong Wen*
+
+✨ If you found the survey paper and this Repo useful, please consider staring this repo and citing our survey paper:
+
+```bibtex
+@article{yang2024survey,
+      title={A Survey on Diffusion Models for Time Series and Spatio-Temporal Data}, 
+      author={Yiyuan Yang and Ming Jin and Haomin Wen and Chaoli Zhang and Yuxuan Liang and Lintao Ma and Yi Wang and Chenghao Liu and Bin Yang and Zenglin Xu and Jiang Bian and Shirui Pan and Qingsong Wen},
+      year={2024},
+      eprint={2404.18886},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG}
+}
+```
+
 
 ## Contents
 
