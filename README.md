@@ -8,7 +8,7 @@
 
 A curated list of **Diffusion Models** for **Time Series**, **SpatioTemporal Data** and **Tabular Data** with awesome resources (paper, code, application, review, survey, etc.), which aims to comprehensively and systematically summarize the recent advances to the best of our knowledge.
 
-We will continue to update this list with newest resources. If you found any missed resources (paper/code) or errors, please feel free to open an issue or make a pull request.
+We will continue to update this list with the newest resources. If you find any missed resources (paper/code) or errors, please feel free to open an issue or make a pull request.
 
 ## Survey
 
@@ -28,6 +28,13 @@ We will continue to update this list with newest resources. If you found any mis
       primaryClass={cs.LG}
 }
 ```
+
+## Taxonomy Document
+
+✨ **[[Paper List and Taxonomy](https://docs.google.com/spreadsheets/d/1X5ujA-yXCzkzz4Uu9ErP8mu_Jg2zWk4fwZrwrMcqMoI/edit#gid=0)]**.
+
+✨ Please feel free to submit comments on any new works!
+
 
 
 ## Contents
