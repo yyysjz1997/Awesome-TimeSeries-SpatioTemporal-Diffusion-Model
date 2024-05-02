@@ -1,4 +1,4 @@
-# Diffusion Model for Time Series and SpatioTemporal Data
+# Diffusion Model for Time Series and Spatio-Temporal Data
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) 
 ![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-green) 
