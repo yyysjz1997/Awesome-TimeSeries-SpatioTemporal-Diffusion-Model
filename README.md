@@ -220,6 +220,8 @@ We will continue to update this list with the newest resources. If you find any 
 
 * Conditional Diffusion Models as Self-supervised Learning Backbone for Irregular Time Series, in *ICLR Workshop on Learning from Time Series for Health* 2024. [[paper](https://scholar.google.com/scholar_url?url=https://openreview.net/pdf%3Fid%3DFay67M5R3R&hl=zh-CN&sa=X&d=3311036968068113244&ei=nV30ZZbIN7fHy9YPzam-kA8&scisig=AFWwaebu_vMvKQsDYVUKUZX9Li2u&oi=scholaralrt&hist=FUuGvZIAAAAJ:247144137884962227:AFWwaeY3zXyko7quKq0AnllX_8U0&html=&pos=0&folt=kw)]
 
+* Synthetic Asset Price Paths Generation Using Denoising Diffusion Probabilistic Model, in *SCML* 2024. [[paper](http://scml.jp/2024/paper/8/CameraReady/scml2024.pdf)]
+
 * Synthesizing EEG Signals from Event-Related Potential Paradigms with Conditional Diffusion Models, in *ArXiv* 2024. [[paper](https://arxiv.org/pdf/2403.18486)]
 
 * Creating synthetic energy meter data using conditional diffusion and building metadata, in *ArXiv* 2024. [[paper](https://arxiv.org/pdf/2404.00525v1)] [[official-code](https://github.com/buds-lab/energy-diffusion)]
@@ -593,6 +595,8 @@ We will continue to update this list with the newest resources. If you find any 
 
 * Multi-Modality Conditional Diffusion Model for Time Series Forecasting of Live Sales Volume, in *ICASSP* 2024. [[paper](https://ieeexplore.ieee.org/abstract/document/10446307)]
 
+* Synthetic Asset Price Paths Generation Using Denoising Diffusion Probabilistic Model, in *SCML* 2024. [[paper](http://scml.jp/2024/paper/8/CameraReady/scml2024.pdf)]
+
 * DiffsFormer: A Diffusion Transformer on Stock Factor Augmentation, in *arXiv* 2024. [[paper](https://arxiv.org/abs/2402.06656v1)]
 
 
@@ -669,6 +673,8 @@ We will continue to update this list with the newest resources. If you find any 
 * Online prediction of mechanical and electrical quality in ultrasonic metal welding using time series generation and deep learning, in *Engineering Failure Analysis* 2024. [[paper](https://www.sciencedirect.com/science/article/pii/S1350630724002085)]
 
 * A novel stochastic process diffusion model for wind turbines condition monitoring and fault identification with multi-parameter information fusion, in *Mechanical Systems and Signal Processing* 2024. [[paper](https://www.sciencedirect.com/science/article/pii/S0888327024002954#f0030)]
+
+* Diffusion Generative Model-Based Learning for Smart Layer-Wise Monitoring of Additive Manufacturing, in *J. Comput. Inf. Sci. Eng.* 2024. [[paper](https://asmedigitalcollection.asme.org/computingengineering/article-abstract/24/6/060903/1198720/Diffusion-Generative-Model-Based-Learning-for?redirectedFrom=PDF)]
   
 
 ### Audio
