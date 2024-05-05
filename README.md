@@ -10,12 +10,11 @@ A curated list of **Diffusion Models** for **Time Series**, **SpatioTemporal Dat
 
 We will continue to update this list with the newest resources. If you find any missed resources (paper/code) or errors, please feel free to open an issue or make a pull request.
 
-## Survey Paper: "A Survey on Diffusion Models for Time Series and Spatio-Temporal Data"
+## A Survey on Diffusion Models for Time Series and Spatio-Temporal Data
 
 <div align="center">
       
 **[<a href="https://arxiv.org/abs/2404.18886">Paper Page</a>]**
-      
 **[<a href="https://mp.weixin.qq.com/s/yUo6NDDeMRHAqoKk5RPZdg">专知 中文解读</a>]**
 
 </div>
@@ -25,7 +24,7 @@ We will continue to update this list with the newest resources. If you find any 
 
 🙋 Please let us know if you find a mistake or have any suggestions!
 
-✨ If you found the survey paper and this Repo useful, please consider to star this repository and cite our survey paper:
+✨ If you found this survey and repository useful, please consider to star this repository and cite our survey paper:
 
 ```bibtex
 @article{yang2024survey,
