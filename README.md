@@ -13,7 +13,7 @@ We will continue to update this list with the newest resources. If you find any 
 ## Survey
 
 <div align="center">
-✨ **[[A Survey on Diffusion Models for Time Series and Spatio-Temporal Data](https://arxiv.org/abs/2404.18886)]**
+      **[<a href="https://arxiv.org/abs/2404.18886">✨ A Survey on Diffusion Models for Time Series and Spatio-Temporal Data</a>]**
 </div>
 
 <div align="center">
