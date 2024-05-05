@@ -12,11 +12,22 @@ We will continue to update this list with the newest resources. If you find any 
 
 ## Survey
 
+<div align="center">
 ✨ **[[A Survey on Diffusion Models for Time Series and Spatio-Temporal Data](https://arxiv.org/abs/2404.18886)]**
+</div>
+
+<div align="center">
+
+**[<a href="https://mp.weixin.qq.com/s/yUo6NDDeMRHAqoKk5RPZdg">专知 中文解读</a>]**
+
+</div>
+
 
 **Authors**: Yiyuan Yang, Ming Jin, Haomin Wen, Chaoli Zhang, Yuxuan Liang*, Lintao Ma, Yi Wang, Chenghao Liu, Bin Yang, Zenglin Xu, Jiang Bian, Shirui Pan, Qingsong Wen*
 
-✨ If you found the survey paper and this Repo useful, please consider staring this repo and citing our survey paper:
+🙋 Please let us know if you find a mistake or have any suggestions!
+
+✨ If you found the survey paper and this Repo useful, please consider to star this repository and cite our survey paper:
 
 ```bibtex
 @article{yang2024survey,
@@ -33,7 +44,7 @@ We will continue to update this list with the newest resources. If you find any 
 
 ✨ **[[Paper List and Taxonomy](https://docs.google.com/spreadsheets/d/1X5ujA-yXCzkzz4Uu9ErP8mu_Jg2zWk4fwZrwrMcqMoI/edit#gid=0)]**.
 
-✨ Please feel free to submit comments on any new works!
+🙋 Please feel free to submit comments on any new works!
 
 
 
