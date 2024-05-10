@@ -71,6 +71,7 @@ We will continue to update this list with the newest resources. If you find any 
     - [Traffic](#traffic)
     - [Manufacturing](#manufacturing)
     - [Audio](#audio)
+    - [Biology](#biology)
   - [Related Diffusion Model Resources and Surveys](#related-diffusion-model-resources-and-surveys)
 
 
@@ -81,7 +82,7 @@ We will continue to update this list with the newest resources. If you find any 
 
 * Autoregressive Denoising Diffusion Models for Multivariate Probabilistic Time Series Forecasting, in *ICML* 2021. [[paper](https://arxiv.org/abs/2101.12072)] [[official-code](https://github.com/zalandoresearch/pytorch-ts)]
 
-* ScoreGrad: Multivariate Probabilistic Time Series Forecasting with Continuous Energy-based Generative Models, in *arXiv* 2021. [[paper](https://arxiv.org/abs/2106.10121)] [[official-code](https://github.com/yantijin/ScoreGradPred)]
+* ScoreGrad: Multivariate Probabilistic Time Series Forecasting with Continuous Energy-based Generative Models, in *ArXiv* 2021. [[paper](https://arxiv.org/abs/2106.10121)] [[official-code](https://github.com/yantijin/ScoreGradPred)]
 
 * Generative Time Series Forecasting with Diffusion, Denoise, and Disentanglement, in *NeurIPS* 2022. [[paper](https://arxiv.org/abs/2301.03028)] [[official-code](https://github.com/PaddlePaddle/PaddleSpatial/tree/main/research/D3VAE)]
 
@@ -95,27 +96,25 @@ We will continue to update this list with the newest resources. If you find any 
 
 * Data-driven and knowledge-guided denoising diffusion model for flood forecasting, in *Expert Systems with Applications* 2023. [[paper](https://www.sciencedirect.com/science/article/pii/S0957417423034103)]
 
-* Generative Time Series Forecasting with Diffusion, Denoise, and Disentanglement, in *arXiv* 2023. [[paper](https://arxiv.org/abs/2301.03028)] [[official-code](https://github.com/paddlepaddle/paddlespatial)]
+* Generative Time Series Forecasting with Diffusion, Denoise, and Disentanglement, in *ArXiv* 2023. [[paper](https://arxiv.org/abs/2301.03028)] [[official-code](https://github.com/paddlepaddle/paddlespatial)]
 
-* DiffECG: A Generalized Probabilistic Diffusion Model for ECG Signals Synthesis, in *arXiv* 2023. [[paper](https://arxiv.org/abs/2306.01875)]
+* DiffECG: A Generalized Probabilistic Diffusion Model for ECG Signals Synthesis, in *ArXiv* 2023. [[paper](https://arxiv.org/abs/2306.01875)]
 
-* Predict, Refine, Synthesize: Self-Guiding Diffusion Models for Probabilistic Time Series Forecasting, in *arXiv* 2023. [[paper](https://arxiv.org/abs/2307.11494)]
+* Predict, Refine, Synthesize: Self-Guiding Diffusion Models for Probabilistic Time Series Forecasting, in *ArXiv* 2023. [[paper](https://arxiv.org/abs/2307.11494)]
 
-* Data Augmentation for Seizure Prediction with Generative Diffusion Model, in *arXiv* 2023. [[paper](https://arxiv.org/abs/2306.08256)]
+* Data Augmentation for Seizure Prediction with Generative Diffusion Model, in *ArXiv* 2023. [[paper](https://arxiv.org/abs/2306.08256)]
 
-* DiffLoad: Uncertainty Quantification in Load Forecasting with Diffusion Model, in *arXiv* 2023. [[paper](https://arxiv.org/abs/2306.01001)]
+* DiffLoad: Uncertainty Quantification in Load Forecasting with Diffusion Model, in *ArXiv* 2023. [[paper](https://arxiv.org/abs/2306.01001)]
 
-* Denoising Diffusion Probabilistic Models for Probabilistic Energy Forecasting, in *arXiv* 2023. [[paper](https://arxiv.org/abs/2212.02977)] [[official-code](https://github.com/EstebanHernandezCapel/DDPM-Power-systems-forecasting)]
+* Denoising Diffusion Probabilistic Models for Probabilistic Energy Forecasting, in *ArXiv* 2023. [[paper](https://arxiv.org/abs/2212.02977)] [[official-code](https://github.com/EstebanHernandezCapel/DDPM-Power-systems-forecasting)]
 
-* TDSTF: Transformer-based Diffusion probabilistic model for Sparse Time series Forecasting, in *arXiv* 2023. [[paper](https://arxiv.org/abs/2301.06625)] [[official-code](https://github.com/pingchang818/tdstf)]
+* TDSTF: Transformer-based Diffusion probabilistic model for Sparse Time series Forecasting, in *ArXiv* 2023. [[paper](https://arxiv.org/abs/2301.06625)] [[official-code](https://github.com/pingchang818/tdstf)]
 
 * Graph Convolution Recurrent Denoising Diffusion Model for Multivariate Probabilistic Temporal Forecasting, *Working Paper* 2023. [[link](https://aip.riken.jp/events/event_154762/)]
 
-* Latent Diffusion Models for Generative Precipitation Nowcasting with Accurate Uncertainty Quantification, in *arXiv* 2023. [[paper](https://arxiv.org/abs/2304.12891)] [[official-code](https://github.com/MeteoSwiss/ldcast)]
+* Latent Diffusion Models for Generative Precipitation Nowcasting with Accurate Uncertainty Quantification, in *ArXiv* 2023. [[paper](https://arxiv.org/abs/2304.12891)] [[official-code](https://github.com/MeteoSwiss/ldcast)]
 
 * WiREDiff: a Wind Resolution-Enhancing Diffusion Model, in *Working Paper* 2023. [[link](https://rupakv.com/wirediff.html#:~:text=WiREDiff%20is%20a%20novel%20application,interval%20of%20predicted%20wind%20velocities.)] [[paper](https://rupakv.com/pdfs/wirediff_report.pdf)] [[official-code](https://github.com/RupaKurinchiVendhan/WiREDiff)]
-
-* DiffDA: a diffusion model for weather-scale data assimilation, in *arXiv* 2024. [[paper](https://arxiv.org/abs/2401.05932)]
 
 * A novel gear RUL prediction method by diffusion model generation health index and attention guided multi-hierarchy LSTM, in *Scientific Reports* 2024. [[paper](https://www.nature.com/articles/s41598-024-52151-y)]
 
@@ -128,13 +127,17 @@ We will continue to update this list with the newest resources. If you find any 
 * Multi-Modality Conditional Diffusion Model for Time Series Forecasting of Live Sales Volume, in *ICASSP* 2024. [[paper](https://ieeexplore.ieee.org/abstract/document/10446307)]
   
 * Latent Diffusion Transformer for Probabilistic Time Series Forecasting, in *AAAI* 2024. [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/29085)]
-  
-* DiffPLF: A Conditional Diffusion Model for Probabilistic Forecasting of EV Charging Load, in *arXiv* 2024. [[paper](https://arxiv.org/abs/2402.13548)] [[official-code](https://github.com/LSY-Cython/DiffPLF)]
 
 * Comparative Analysis of TEC Prediction Models During Geomagnetic Storm and Quiet Conditions Using Diffusion, Transformer, and SARIMA, 2024. [[paper](https://essopenarchive.org/doi/full/10.22541/essoar.171291801.18571788/v1)]
 
 * Residential Customer Baseline Load Estimation Based on Conditional Denoising Diffusion Probabilistic Model, in *IEEE 4th International Conference in Power Engineering Applications (ICPEA)* 2024. [[paper](https://ieeexplore.ieee.org/abstract/document/10498265)]
 
+* DiffDA: a diffusion model for weather-scale data assimilation, in *ArXiv* 2024. [[paper](https://arxiv.org/abs/2401.05932)]
+
+* DiffPLF: A Conditional Diffusion Model for Probabilistic Forecasting of EV Charging Load, in *ArXiv* 2024. [[paper](https://arxiv.org/abs/2402.13548)] [[official-code](https://github.com/LSY-Cython/DiffPLF)]
+
+* CogDPM: Diffusion Probabilistic Models via Cognitive Predictive Coding, in *ArXiv* 2024. [[paper](https://arxiv.org/abs/2405.02384)]
+  
 
 ### Generation
 
@@ -162,65 +165,55 @@ We will continue to update this list with the newest resources. If you find any 
 
 * TimeDDPM: Time series augmentation strategy for industrial soft sensing, in *IEEE Sensors Journal* 2023. [[paper](https://ieeexplore.ieee.org/abstract/document/10353969)]
 
-* Conditioning Score-Based Generative Models by Neuro-Symbolic Constraints, in *arXiv* 2023. [[paper](https://arxiv.org/abs/2308.16534)]
+* Conditioning Score-Based Generative Models by Neuro-Symbolic Constraints, in *ArXiv* 2023. [[paper](https://arxiv.org/abs/2308.16534)]
 
-* TransFusion: Generating Long, High Fidelity Time Series using Diffusion Models with Transformers, in *arXiv* 2023. [[paper](https://arxiv.org/abs/2307.12667)]
+* TransFusion: Generating Long, High Fidelity Time Series using Diffusion Models with Transformers, in *ArXiv* 2023. [[paper](https://arxiv.org/abs/2307.12667)]
 
-* On the Constrained Time-Series Generation Problem, in *arXiv* 2023. [[paper](https://arxiv.org/abs/2307.01717)]
+* On the Constrained Time-Series Generation Problem, in *ArXiv* 2023. [[paper](https://arxiv.org/abs/2307.01717)]
 
-* DiffECG: A Generalized Probabilistic Diffusion Model for ECG Signals Synthesis, in *arXiv* 2023. [[paper](https://arxiv.org/abs/2306.01875)]
+* DiffECG: A Generalized Probabilistic Diffusion Model for ECG Signals Synthesis, in *ArXiv* 2023. [[paper](https://arxiv.org/abs/2306.01875)]
 
-* Customized Load Profiles Synthesis for Electricity Customers Based on Conditional Diffusion Models, in *arXiv* 2023. [[paper](https://arxiv.org/abs/2304.12076)]
+* Customized Load Profiles Synthesis for Electricity Customers Based on Conditional Diffusion Models, in *ArXiv* 2023. [[paper](https://arxiv.org/abs/2304.12076)]
 
-* Synthetic Health-related Longitudinal Data with Mixed-type Variables Generated using Diffusion Models, in *arXiv* 2023. [[paper](https://arxiv.org/abs/2303.12281)]
+* Synthetic Health-related Longitudinal Data with Mixed-type Variables Generated using Diffusion Models, in *ArXiv* 2023. [[paper](https://arxiv.org/abs/2303.12281)]
 
-* EHRDiff: Exploring Realistic EHR Synthesis with Diffusion Models, in *arXiv* 2023. [[paper](https://arxiv.org/abs/2303.05656)] [[official-code](https://github.com/sczzz3/ehrdiff)]
+* EHRDiff: Exploring Realistic EHR Synthesis with Diffusion Models, in *ArXiv* 2023. [[paper](https://arxiv.org/abs/2303.05656)] [[official-code](https://github.com/sczzz3/ehrdiff)]
 
-* Synthesizing Mixed-type Electronic Health Records using Diffusion Models, in *arXiv* 2023. [[paper](https://arxiv.org/abs/2302.14679)]
+* Synthesizing Mixed-type Electronic Health Records using Diffusion Models, in *ArXiv* 2023. [[paper](https://arxiv.org/abs/2302.14679)]
 
-* MedDiff: Generating Electronic Health Records using Accelerated Denoising Diffusion Model, in *arXiv* 2023. [[paper](https://arxiv.org/abs/2302.04355)]
+* MedDiff: Generating Electronic Health Records using Accelerated Denoising Diffusion Model, in *ArXiv* 2023. [[paper](https://arxiv.org/abs/2302.04355)]
 
-* Fast and Reliable Generation of EHR Time Series via Diffusion Models, in *arXiv* 2023. [[paper](https://arxiv.org/abs/2310.15290)]
+* Fast and Reliable Generation of EHR Time Series via Diffusion Models, in *ArXiv* 2023. [[paper](https://arxiv.org/abs/2310.15290)]
 
-* Fast Diffusion GAN Model for Symbolic Music Generation Controlled by Emotions, in *arXiv* 2023. [[paper](https://arxiv.org/abs/2310.14040)]
+* Fast Diffusion GAN Model for Symbolic Music Generation Controlled by Emotions, in *ArXiv* 2023. [[paper](https://arxiv.org/abs/2310.14040)]
 
-* TS-Diffusion: Generating Highly Complex Time Series with Diffusion Models, in *arXiv* 2023. [[paper](https://arxiv.org/abs/2311.03303)]
+* TS-Diffusion: Generating Highly Complex Time Series with Diffusion Models, in *ArXiv* 2023. [[paper](https://arxiv.org/abs/2311.03303)]
 
-* Reliable Generation of EHR Time Series via Diffusion Models, in *arXiv* 2023. [[paper](https://arxiv.org/abs/2310.15290v2)]
+* Reliable Generation of EHR Time Series via Diffusion Models, in *ArXiv* 2023. [[paper](https://arxiv.org/abs/2310.15290v2)]
 
-* D3A-TS: Denoising-Driven Data Augmentation in Time Series, in *arXiv* 2023. [[paper](https://arxiv.org/abs/2312.05550)]
+* D3A-TS: Denoising-Driven Data Augmentation in Time Series, in *ArXiv* 2023. [[paper](https://arxiv.org/abs/2312.05550)]
 
-* Time Series Diffusion Method: A Denoising Diffusion Probabilistic Model for Vibration Signal Generation, in *arXiv* 2023. [[paper](https://arxiv.org/abs/2312.07981)]
+* Time Series Diffusion Method: A Denoising Diffusion Probabilistic Model for Vibration Signal Generation, in *ArXiv* 2023. [[paper](https://arxiv.org/abs/2312.07981)]
 
-* Bayesian ECG reconstruction using denoising diffusion generative models, in *arXiv* 2023. [[paper](https://arxiv.org/abs/2401.05388)]
+* Bayesian ECG reconstruction using denoising diffusion generative models, in *ArXiv* 2023. [[paper](https://arxiv.org/abs/2401.05388)]
 
-* Regular Time-series Generation using SGM, in *arXiv* 2023. [[paper](https://arxiv.org/abs/2301.08518)]
+* Regular Time-series Generation using SGM, in *ArXiv* 2023. [[paper](https://arxiv.org/abs/2301.08518)]
 
-* On the Constrained Time-Series Generation Problem, in *arXiv* 2023. [[paper](https://arxiv.org/abs/2307.01717)]
+* On the Constrained Time-Series Generation Problem, in *ArXiv* 2023. [[paper](https://arxiv.org/abs/2307.01717)]
 
 * A Short-Term Wind Power Scenario Generation Method Based on Conditional Diffusion Model, in *IEEE Sustainable Power and Energy Conference (iSPEC)* 2023. [[paper](https://ieeexplore.ieee.org/abstract/document/10403004)]
 
 * Scenario Generation of Renewable Energy Based on Improved Diffusion Model, in *IEEE Sustainable Power and Energy Conference (iSPEC)* 2023. [[paper](https://ieeexplore.ieee.org/abstract/document/10402981)]
 
-* Plug-in Diffusion Model for Sequential Recommendation, in *arXiv* 2024. [[paper](https://arxiv.org/pdf/2401.02913.pdf)][[official-code](https://github.com/hulkima/PDRec)]
-
 * DiffuseRoll: multi-track multi-attribute music generation based on diffusion model, in *Multimedia Systems* 2024. [[paper](https://link.springer.com/article/10.1007/s00530-023-01220-9)] [[official-code](https://github.com/Fairywang9/DiffuseRoll)]
  
-* BioDiffusion: A Versatile Diffusion Model for Biomedical Signal Synthesis, in *arXiv* 2024. [[paper](https://arxiv.org/abs/2401.10282)][[official-code](https://github.com/imics-lab/biodiffusion)]
- 
-* Risk-Sensitive Diffusion: Learning the Underlying Distribution from Noisy Samples, in *arXiv* 2024. [[paper](https://arxiv.org/abs/2402.02081)]
-
-* Time Series Diffusion in the Frequency Domain, in *arXiv* 2024. [[paper](https://arxiv.org/abs/2402.05933)][[official-code](https://github.com/JonathanCrabbe/FourierDiffusion)]
-
-* DiffsFormer: A Diffusion Transformer on Stock Factor Augmentation, in *arXiv* 2024. [[paper](https://arxiv.org/abs/2402.06656v1)]
-
-* Time Weaver: A Conditional Time Series Generation Model, in *ArXiv* 2024. [[paper](https://arxiv.org/pdf/2403.02682v1)]
-
 * Cold Diffusion Model for Seismic Denoising, 2024. [[paper](https://essopenarchive.org/users/750010/articles/721094-cold-diffusion-model-for-seismic-denoising)] [[official-code](https://github.com/Daniele-Trappolini/Diffusion-Model-for-Earthquake)]
 
 * Conditional Diffusion Models as Self-supervised Learning Backbone for Irregular Time Series, in *ICLR Workshop on Learning from Time Series for Health* 2024. [[paper](https://scholar.google.com/scholar_url?url=https://openreview.net/pdf%3Fid%3DFay67M5R3R&hl=zh-CN&sa=X&d=3311036968068113244&ei=nV30ZZbIN7fHy9YPzam-kA8&scisig=AFWwaebu_vMvKQsDYVUKUZX9Li2u&oi=scholaralrt&hist=FUuGvZIAAAAJ:247144137884962227:AFWwaeY3zXyko7quKq0AnllX_8U0&html=&pos=0&folt=kw)]
 
 * Synthetic Asset Price Paths Generation Using Denoising Diffusion Probabilistic Model, in *SCML* 2024. [[paper](http://scml.jp/2024/paper/8/CameraReady/scml2024.pdf)]
+
+* Generation of synthetic whole-slide image tiles of tumours from RNA-sequencing data via cascaded diffusion models, in *Nature Biomedical Engineering* 2024. [[paper](https://www.nature.com/articles/s41551-024-01193-8#peer-review)] [[official-code](https://rna-cdm.stanford.edu/Download_Code)]
 
 * Synthesizing EEG Signals from Event-Related Potential Paradigms with Conditional Diffusion Models, in *ArXiv* 2024. [[paper](https://arxiv.org/pdf/2403.18486)]
 
@@ -230,7 +223,19 @@ We will continue to update this list with the newest resources. If you find any 
 
 * Long-form music generation with latent diffusion, in *ArXiv* 2024. [[paper](https://arxiv.org/pdf/2404.10301)] [[official-code](https://github.com/Stability-AI/stable-audio-tools/)]
 
-* Cross-sensor super-resolution of irregularly sampled Sentinel-2 time series, in *ArXiv* 2024. [[paper](https://arxiv.org/abs/2404.16409)] [[official-code](https://github.com/aimiokab/MISR-S2)] 
+* Cross-sensor super-resolution of irregularly sampled Sentinel-2 time series, in *ArXiv* 2024. [[paper](https://arxiv.org/abs/2404.16409)] [[official-code](https://github.com/aimiokab/MISR-S2)]
+
+* BioDiffusion: A Versatile Diffusion Model for Biomedical Signal Synthesis, in *ArXiv* 2024. [[paper](https://arxiv.org/abs/2401.10282)][[official-code](https://github.com/imics-lab/biodiffusion)]
+ 
+* Risk-Sensitive Diffusion: Learning the Underlying Distribution from Noisy Samples, in *arXiv* 2024. [[paper](https://arxiv.org/abs/2402.02081)]
+
+* Time Series Diffusion in the Frequency Domain, in *ArXiv* 2024. [[paper](https://arxiv.org/abs/2402.05933)][[official-code](https://github.com/JonathanCrabbe/FourierDiffusion)]
+
+* DiffsFormer: A Diffusion Transformer on Stock Factor Augmentation, in *ArXiv* 2024. [[paper](https://arxiv.org/abs/2402.06656v1)]
+
+* Time Weaver: A Conditional Time Series Generation Model, in *ArXiv* 2024. [[paper](https://arxiv.org/pdf/2403.02682v1)]
+
+* Plug-in Diffusion Model for Sequential Recommendation, in *ArXiv* 2024. [[paper](https://arxiv.org/pdf/2401.02913.pdf)][[official-code](https://github.com/hulkima/PDRec)]
 
   
 ### Imputation
@@ -251,15 +256,15 @@ We will continue to update this list with the newest resources. If you find any 
 
 * Diffusion-Based Time Series Data Imputation for Cloud Failure Prediction at Microsoft 365, in *ESEC/FSE* 2023. [[paper](https://dl.acm.org/doi/abs/10.1145/3611643.3613866)]
 
-* Sasdim: Self-adaptive Noise Scaling Diffusion Model for Spatial Time Series Imputation, in *arXiv* 2023. [[paper](https://arxiv.org/abs/2309.01988)]
+* Sasdim: Self-adaptive Noise Scaling Diffusion Model for Spatial Time Series Imputation, in *ArXiv* 2023. [[paper](https://arxiv.org/abs/2309.01988)]
 
-* Improving Diffusion Models for ECG Imputation with an Augmented Template Prior, in *arXiv* 2023. [[paper](https://arxiv.org/abs/2310.15742)]
+* Improving Diffusion Models for ECG Imputation with an Augmented Template Prior, in *ArXiv* 2023. [[paper](https://arxiv.org/abs/2310.15742)]
 
 * Imputing time-series microbiome abundance profiles with diffusion model, in *IEEE International Conference on Bioinformatics and Biomedicine (BIBM)* 2023. [[paper](https://ieeexplore.ieee.org/abstract/document/10385703)] [[official-code](https://github.com/misatoseki/metag_time_impute)]
 
 * SADI: Similarity-Aware Diffusion Model-Based Imputation for Incomplete Temporal EHR Data, in *International Conference on Artificial Intelligence and Statistics* 2024. [[paper](https://proceedings.mlr.press/v238/dai24c.html)]
 
-* DiffsFormer: A Diffusion Transformer on Stock Factor Augmentation, in *arXiv* 2024. [[paper](https://arxiv.org/abs/2402.06656v1)]
+* DiffsFormer: A Diffusion Transformer on Stock Factor Augmentation, in *ArXiv* 2024. [[paper](https://arxiv.org/abs/2402.06656v1)]
 
 
 ### Anomaly Detection
@@ -274,11 +279,11 @@ We will continue to update this list with the newest resources. If you find any 
 
 * Diffusion-Based Time Series Data Imputation for Cloud Failure Prediction at Microsoft 365, in *ESEC/FSE* 2023. [[paper](https://dl.acm.org/doi/abs/10.1145/3611643.3613866)]
 
-* ImDiffusion: Imputed Diffusion Models for Multivariate Time Series Anomaly Detection, in *arXiv* 2023. [[paper](https://arxiv.org/abs/2307.00754)] [[official-code](https://github.com/17000cyh/IMDiffusion)]
+* ImDiffusion: Imputed Diffusion Models for Multivariate Time Series Anomaly Detection, in *ArXiv* 2023. [[paper](https://arxiv.org/abs/2307.00754)] [[official-code](https://github.com/17000cyh/IMDiffusion)]
 
-* DDMT: Denoising Diffusion Mask Transformer Models for Multivariate Time Series Anomaly Detection, in *arXiv* 2023. [[paper](https://arxiv.org/abs/2310.08800)] [[official-code](https://github.com/yangchaocheng/DDTM)]
+* DDMT: Denoising Diffusion Mask Transformer Models for Multivariate Time Series Anomaly Detection, in *ArXiv* 2023. [[paper](https://arxiv.org/abs/2310.08800)] [[official-code](https://github.com/yangchaocheng/DDTM)]
 
-* Generating HSR Bogie Vibration Signals via Pulse Voltage-Guided Conditional Diffusion Model, in *arXiv* 2023. [[paper](https://arxiv.org/abs/2311.00496)] [[official-code](https://github.com/xuanliu2000/VGCDM)]
+* Generating HSR Bogie Vibration Signals via Pulse Voltage-Guided Conditional Diffusion Model, in *ArXiv* 2023. [[paper](https://arxiv.org/abs/2311.00496)] [[official-code](https://github.com/xuanliu2000/VGCDM)]
 
 * Attention-enhanced conditional-diffusion-based data synthesis for data augmentation in machine fault diagnosis, in *Engineering Applications of Artificial Intelligence* 2024. [[paper](https://www.sciencedirect.com/science/article/pii/S0952197623018808)]
 
@@ -305,7 +310,7 @@ We will continue to update this list with the newest resources. If you find any 
 
 * Enhanced Atrial Fibrillation (AF) Detection via Data Augmentation with Diffusion Model, in *International Conference on Computer and Knowledge Engineering* 2023. [[paper](https://ieeexplore.ieee.org/abstract/document/10326310)] [[official-code](https://github.com/arashVsh/AF-Detection-DDPM)]
 
-* Brain-Driven Representation Learning Based on Diffusion Model, in *arXiv* 2023. [[paper](https://arxiv.org/abs/2311.07925)]
+* Brain-Driven Representation Learning Based on Diffusion Model, in *ArXiv* 2023. [[paper](https://arxiv.org/abs/2311.07925)]
 
 * AIGC for RF Sensing: The Case of RFID-based Human Activity Recognition, in *International Conference on Computing, Networking and Communications* 2024. [[paper](http://www.conf-icnc.org/2024/papers/p1092-wang.pdf)]
 
@@ -318,18 +323,18 @@ We will continue to update this list with the newest resources. If you find any 
 
 ### Causal Inference
 
-* Diffusion Model in Causal Inference with Unmeasured Confounders, in *arXiv* 2023. [[paper](https://arxiv.org/abs/2308.03669)] [[official-code](https://github.com/tatsu432/BDCM)]
+* Diffusion Model in Causal Inference with Unmeasured Confounders, in *ArXiv* 2023. [[paper](https://arxiv.org/abs/2308.03669)] [[official-code](https://github.com/tatsu432/BDCM)]
 
-* Brain Diffuser with Hierarchical Transformer for MCI Causality Analysis, in *arXiv* 2023. [[paper](https://arxiv.org/abs/2312.09022)]
+* Brain Diffuser with Hierarchical Transformer for MCI Causality Analysis, in *ArXiv* 2023. [[paper](https://arxiv.org/abs/2312.09022)]
 
 
 ### Event Prediction and Classification
 
-* Non-Autoregressive Diffusion-based Temporal Point Processes for Continuous-Time Long-Term Event Prediction, in *arXiv* 2023. [[paper](https://arxiv.org/abs/2311.01033)]
+* Non-Autoregressive Diffusion-based Temporal Point Processes for Continuous-Time Long-Term Event Prediction, in *ArXiv* 2023. [[paper](https://arxiv.org/abs/2311.01033)]
 
-* Add and Thin: Diffusion for Temporal Point Processes, in *arXiv* 2023. [[paper](https://arxiv.org/abs/2311.01139)] [[official-code](https://www.cs.cit.tum.de/daml/add-thin/)]
+* Add and Thin: Diffusion for Temporal Point Processes, in *ArXiv* 2023. [[paper](https://arxiv.org/abs/2311.01139)] [[official-code](https://www.cs.cit.tum.de/daml/add-thin/)]
 
-* Adversarial Purification for Data-Driven Power System Event Classifiers with Diffusion Models, in *arXiv* 2023. [[paper](https://arxiv.org/abs/2311.07110)]
+* Adversarial Purification for Data-Driven Power System Event Classifiers with Diffusion Models, in *ArXiv* 2023. [[paper](https://arxiv.org/abs/2311.07110)]
 
 
 ## Diffusion Model for SpatioTemporal Data
@@ -348,35 +353,37 @@ We will continue to update this list with the newest resources. If you find any 
 
 * DiffTraj: Generating GPS Trajectory with Diffusion Probabilistic Model, in *NeurIPS* 2023. [[paper](https://arxiv.org/abs/2304.11582)] [[official-code](https://github.com/Yasoz/DiffTraj)]
 
-* ControlTraj: Controllable Trajectory Generation with Topology-Constrained Diffusion Model, in *arXiv* 2024. [[paper](https://arxiv.org/pdf/2404.15380)]  [[official-code](https://github.com/aimiokab/MISR-S2)]
+* ControlTraj: Controllable Trajectory Generation with Topology-Constrained Diffusion Model, in *ArXiv* 2024. [[paper](https://arxiv.org/pdf/2404.15380)]  [[official-code](https://github.com/aimiokab/MISR-S2)]
   
-* Diff-RNTraj: A Structure-aware Diffusion Model for Road Network-constrained Trajectory Generation, in *arXiv* 2024. [[paper](https://arxiv.org/pdf/2402.07369)]
+* Diff-RNTraj: A Structure-aware Diffusion Model for Road Network-constrained Trajectory Generation, in *ArXiv* 2024. [[paper](https://arxiv.org/pdf/2402.07369)]
 
 * Origin-Destination Travel Time Oracle for Map-based Services, in *SIGMOD* 2023. [[paper](https://arxiv.org/abs/2307.03048)]
 
 * A Graph-Based Scene Encoder for Vehicle Trajectory Prediction Using the Diffusion Model, in *CSIS-IAC* 2023. [[paper](https://ieeexplore.ieee.org/abstract/document/10363970)]
 
-* Dynamic Causal Explanation Based Diffusion-Variational Graph Neural Network for Spatio-temporal Forecasting, in *arXiv* 2023. [[paper](https://arxiv.org/abs/2305.09703)] [[official-code](https://github.com/gorgen2020/dvgnn)]
+* Dynamic Causal Explanation Based Diffusion-Variational Graph Neural Network for Spatio-temporal Forecasting, in *ArXiv* 2023. [[paper](https://arxiv.org/abs/2305.09703)] [[official-code](https://github.com/gorgen2020/dvgnn)]
 
-* Sasdim: Self-adaptive Noise Scaling Diffusion Model for Spatial Time Series Imputation, in *arXiv* 2023. [[paper](https://arxiv.org/abs/2309.01988)]
+* Sasdim: Self-adaptive Noise Scaling Diffusion Model for Spatial Time Series Imputation, in *ArXiv* 2023. [[paper](https://arxiv.org/abs/2309.01988)]
 
 * Imputation as Inpainting: Diffusion Models for Spatiotemporal Data Imputation, in *OpenReview* 2023. [[paper](https://openreview.net/forum?id=QUANtQnx30l)]
 
-* Towards Unifying Diffusion Models for Probabilistic Spatio-Temporal Graph Learning, in *arXiv* 2023. [[paper](https://arxiv.org/abs/2310.17360)]
+* Towards Unifying Diffusion Models for Probabilistic Spatio-Temporal Graph Learning, in *ArXiv* 2023. [[paper](https://arxiv.org/abs/2310.17360)]
 
-* Predicting the Position Uncertainty at the Time of Closest Approach with Diffusion Models, in *arXiv* 2023. [[paper](https://arxiv.org/abs/2311.05417)]
+* Predicting the Position Uncertainty at the Time of Closest Approach with Diffusion Models, in *ArXiv* 2023. [[paper](https://arxiv.org/abs/2311.05417)]
 
-* ChatTraffic: Text-to-Traffic Generation via Diffusion Model, in *arXiv* 2023. [[paper](https://arxiv.org/abs/2311.16203)] [[official-code](https://github.com/ChyaZhang/ChatTraffic)]
-
-* SpecSTG: A Fast Spectral Diffusion Framework for Probabilistic Spatio-Temporal Traffic Forecasting, in *arXiv* 2024. [[paper](https://arxiv.org/abs/2401.08119)] [[official-code](https://anonymous.4open.science/r/SpecSTG/)]
+* ChatTraffic: Text-to-Traffic Generation via Diffusion Model, in *ArXiv* 2023. [[paper](https://arxiv.org/abs/2311.16203)] [[official-code](https://github.com/ChyaZhang/ChatTraffic)]
 
 * DiffTAD: Denoising diffusion probabilistic models for vehicle trajectory anomaly detection, in *Knowledge-Based Systems* 2024. [[paper](https://www.sciencedirect.com/science/article/pii/S0950705124000224)] [[official-code](https://github.com/Psychic-DL/DiffTAD)]
 
 * Simulating human mobility with a trajectory generation framework based on diffusion model, in *International Journal of Geographical Information Science* 2024. [[paper](https://www.tandfonline.com/doi/full/10.1080/13658816.2024.2312199)] [[official-code](https://github.com/chuchen2017/TrajGDM)]
 
 * Learning Autoencoder Diffusion Models of Pedestrian Group Relationships for Multimodal Trajectory Prediction, in *IEEE Transactions on Instrumentation and Measurement* 2024. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10466609)]
-  
-* SRNDiff: Short-term Rainfall Nowcasting with Condition Diffusion Model, in *arXiv* 2024. [[paper](https://arxiv.org/abs/2402.13737)]
+
+* Graphusion: Latent Diffusion for Graph Generation, in *TKDE* 2024. [[paper](https://www.computer.org/csdl/journal/tk/5555/01/10508504/1Wr262l3Gg0)]
+
+* Utilizing a Diffusion Model for Pedestrian Trajectory Prediction in Semi-Open Autonomous Driving Environments, in *IEEE sensors journal* 2024. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10489838)]
+
+* SRNDiff: Short-term Rainfall Nowcasting with Condition Diffusion Model, in *ArXiv* 2024. [[paper](https://arxiv.org/abs/2402.13737)]
 
 * Intention-aware Denoising Diffusion Model for Trajectory Prediction, in *ArXiv* 2024. [[paper](https://arxiv.org/pdf/2403.09190)]
 
@@ -386,11 +393,9 @@ We will continue to update this list with the newest resources. If you find any 
 
 * Diff-RNTraj: A Structure-aware Diffusion Model for Road Network-constrained Trajectory Generation, in *ArXiv* 2024. [[paper](https://www.arxiv.org/pdf/2402.07369)]
 
-* Utilizing a Diffusion Model for Pedestrian Trajectory Prediction in Semi-Open Autonomous Driving Environments, in *IEEE sensors journal* 2024. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10489838)]
+* SpecSTG: A Fast Spectral Diffusion Framework for Probabilistic Spatio-Temporal Traffic Forecasting, in *ArXiv* 2024. [[paper](https://arxiv.org/abs/2401.08119)] [[official-code](https://anonymous.4open.science/r/SpecSTG/)]
 
 * Fault Detection in Mobile Networks Using Diffusion Models, in *ArXiv* 2024. [[paper](https://arxiv.org/pdf/2404.09240)]
-
-* Graphusion: Latent Diffusion for Graph Generation, in *TKDE* 2024. [[paper](https://www.computer.org/csdl/journal/tk/5555/01/10508504/1Wr262l3Gg0)]
 
   
 ## Diffusion Model for Tabular Data
@@ -405,21 +410,21 @@ We will continue to update this list with the newest resources. If you find any 
 
 * Multi-task oriented diffusion model for mortality prediction in shock patients with incomplete data, in *Information Fusion* 2023. [[paper](https://www.sciencedirect.com/science/article/pii/S1566253523005237)]
  
-* Conditioning Score-Based Generative Models by Neuro-Symbolic Constraints, in *arXiv* 2023. [[paper](https://arxiv.org/abs/2308.16534)]
+* Conditioning Score-Based Generative Models by Neuro-Symbolic Constraints, in *ArXiv* 2023. [[paper](https://arxiv.org/abs/2308.16534)]
 
-* On Diffusion Modeling for Anomaly Detection, in *arXiv* 2023. [[paper](https://arxiv.org/abs/2305.18593)] [[official-code](https://github.com/vicliv/dte)]
+* On Diffusion Modeling for Anomaly Detection, in *ArXiv* 2023. [[paper](https://arxiv.org/abs/2305.18593)] [[official-code](https://github.com/vicliv/dte)]
 
-* Generating Tabular Datasets under Differential Privacy, in *arXiv* 2023. [[paper](https://arxiv.org/abs/2308.14784)]
+* Generating Tabular Datasets under Differential Privacy, in *ArXiv* 2023. [[paper](https://arxiv.org/abs/2308.14784)]
 
-* TabADM: Unsupervised Tabular Anomaly Detection with Diffusion Models, in *arXiv* 2023. [[paper](https://arxiv.org/abs/2307.12336)]
+* TabADM: Unsupervised Tabular Anomaly Detection with Diffusion Models, in *ArXiv* 2023. [[paper](https://arxiv.org/abs/2307.12336)]
 
-* FinDiff: Diffusion Models for Financial Tabular Data Generation, in *arXiv* 2023. [[paper](https://arxiv.org/abs/2309.01472)]
+* FinDiff: Diffusion Models for Financial Tabular Data Generation, in *ArXiv* 2023. [[paper](https://arxiv.org/abs/2309.01472)]
 
-* AutoDiff: combining Auto-encoder and Diffusion model for tabular data synthesizing, in *arXiv* 2023. [[paper](https://arxiv.org/abs/2310.15479)]
+* AutoDiff: combining Auto-encoder and Diffusion model for tabular data synthesizing, in *ArXiv* 2023. [[paper](https://arxiv.org/abs/2310.15479)]
+
+* RF-Diffusion: Radio Signal Generation via Time-Frequency Diffusion, in *MobiCom* 2024. [[paper](https://arxiv.org/pdf/2404.09140)] [[official-code](https://github.com/mobicom24/RF-Diffusion)]
 
 * DiffImpute: Tabular Data Imputation With Denoising Diffusion Probabilistic Model in *ArXiv* 2024. [[paper](https://arxiv.org/pdf/2403.13863)] [[official-code](https://github.com/dendiiiii/diffimpute)]
-  
-* RF-Diffusion: Radio Signal Generation via Time-Frequency Diffusion, in *MobiCom* 2024. [[paper](https://arxiv.org/pdf/2404.09140)] [[official-code](https://github.com/mobicom24/RF-Diffusion)]
 
 * Guided Discrete Diffusion for Electronic Health Record Generation, in *ArXiv* 2024. [[paper](https://arxiv.org/pdf/2404.12314)]
 
@@ -452,47 +457,47 @@ We will continue to update this list with the newest resources. If you find any 
 
 * Multi-task oriented diffusion model for mortality prediction in shock patients with incomplete data, in *Information Fusion* 2023. [[paper](https://www.sciencedirect.com/science/article/pii/S1566253523005237)]
 
-* DiffECG: A Generalized Probabilistic Diffusion Model for ECG Signals Synthesis, in *arXiv* 2023. [[paper](https://arxiv.org/abs/2306.01875)]
-
-* Synthetic Health-related Longitudinal Data with Mixed-type Variables Generated using Diffusion Models, in *arXiv* 2023. [[paper](https://arxiv.org/abs/2303.12281)]
-
-* EHRDiff: Exploring Realistic EHR Synthesis with Diffusion Models, in *arXiv* 2023. [[paper](https://arxiv.org/abs/2303.05656)] [[official-code](https://github.com/sczzz3/ehrdiff)]
-
-* Synthesizing Mixed-type Electronic Health Records using Diffusion Models, in *arXiv* 2023. [[paper](https://arxiv.org/abs/2302.14679)]
-
-* MedDiff: Generating Electronic Health Records using Accelerated Denoising Diffusion Model, in *arXiv* 2023. [[paper](https://arxiv.org/abs/2302.04355)]
-
-* Data Augmentation for Seizure Prediction with Generative Diffusion Model, in *arXiv* 2023. [[paper](https://arxiv.org/abs/2306.08256)]
-
-* Region-Disentangled Diffusion Model for High-Fidelity PPG-to-ECG Translation, in *arXiv* 2023. [[paper](https://arxiv.org/abs/2308.13568)]
-
-* Domain-Specific Denoising Diffusion Probabilistic Models for Brain Dynamics, in *arXiv* 2023. [[paper](https://arxiv.org/abs/2305.04200)] [[official-code](https://github.com/duanyiqun/ds-ddpm)]
-
-* Fast and Reliable Generation of EHR Time Series via Diffusion Models, in *arXiv* 2023. [[paper](https://arxiv.org/abs/2310.15290)]
-
-* Improving Diffusion Models for ECG Imputation with an Augmented Template Prior, in *arXiv* 2023. [[paper](https://arxiv.org/abs/2310.15742)]
-
-* Brain-Driven Representation Learning Based on Diffusion Model, in *arXiv* 2023. [[paper](https://arxiv.org/abs/2311.07925)]
-
-* Reliable Generation of EHR Time Series via Diffusion Models, in *arXiv* 2023. [[paper](https://arxiv.org/abs/2310.15290v2)]
-
-* Brain Diffuser with Hierarchical Transformer for MCI Causality Analysis, in *arXiv* 2023. [[paper](https://arxiv.org/abs/2312.09022)]
-
-* Bayesian ECG reconstruction using denoising diffusion generative models, in *arXiv* 2023. [[paper](https://arxiv.org/abs/2401.05388)]
-
 * Imputing time-series microbiome abundance profiles with diffusion model, in *IEEE International Conference on Bioinformatics and Biomedicine (BIBM)* 2023. [[paper](https://ieeexplore.ieee.org/abstract/document/10385703)] [[official-code](https://github.com/misatoseki/metag_time_impute)]
 
-* Addiction-related brain networks identification via Graph Diffusion Reconstruction Network, in *Brain Informatics* 2024. [[paper](https://link.springer.com/article/10.1186/s40708-023-00216-5)]
+* DiffECG: A Generalized Probabilistic Diffusion Model for ECG Signals Synthesis, in *ArXiv* 2023. [[paper](https://arxiv.org/abs/2306.01875)]
 
-* BioDiffusion: A Versatile Diffusion Model for Biomedical Signal Synthesis, in *arXiv* 2024. [[paper](https://arxiv.org/abs/2401.10282)][[official-code](https://github.com/imics-lab/biodiffusion)]
+* Synthetic Health-related Longitudinal Data with Mixed-type Variables Generated using Diffusion Models, in *ArXiv* 2023. [[paper](https://arxiv.org/abs/2303.12281)]
+
+* EHRDiff: Exploring Realistic EHR Synthesis with Diffusion Models, in *ArXiv* 2023. [[paper](https://arxiv.org/abs/2303.05656)] [[official-code](https://github.com/sczzz3/ehrdiff)]
+
+* Synthesizing Mixed-type Electronic Health Records using Diffusion Models, in *ArXiv* 2023. [[paper](https://arxiv.org/abs/2302.14679)]
+
+* MedDiff: Generating Electronic Health Records using Accelerated Denoising Diffusion Model, in *ArXiv* 2023. [[paper](https://arxiv.org/abs/2302.04355)]
+
+* Data Augmentation for Seizure Prediction with Generative Diffusion Model, in *ArXiv* 2023. [[paper](https://arxiv.org/abs/2306.08256)]
+
+* Region-Disentangled Diffusion Model for High-Fidelity PPG-to-ECG Translation, in *ArXiv* 2023. [[paper](https://arxiv.org/abs/2308.13568)]
+
+* Domain-Specific Denoising Diffusion Probabilistic Models for Brain Dynamics, in *ArXiv* 2023. [[paper](https://arxiv.org/abs/2305.04200)] [[official-code](https://github.com/duanyiqun/ds-ddpm)]
+
+* Fast and Reliable Generation of EHR Time Series via Diffusion Models, in *ArXiv* 2023. [[paper](https://arxiv.org/abs/2310.15290)]
+
+* Improving Diffusion Models for ECG Imputation with an Augmented Template Prior, in *ArXiv* 2023. [[paper](https://arxiv.org/abs/2310.15742)]
+
+* Brain-Driven Representation Learning Based on Diffusion Model, in *ArXiv* 2023. [[paper](https://arxiv.org/abs/2311.07925)]
+
+* Reliable Generation of EHR Time Series via Diffusion Models, in *ArXiv* 2023. [[paper](https://arxiv.org/abs/2310.15290v2)]
+
+* Brain Diffuser with Hierarchical Transformer for MCI Causality Analysis, in *ArXiv* 2023. [[paper](https://arxiv.org/abs/2312.09022)]
+
+* Bayesian ECG reconstruction using denoising diffusion generative models, in *ArXiv* 2023. [[paper](https://arxiv.org/abs/2401.05388)]
+
+* Addiction-related brain networks identification via Graph Diffusion Reconstruction Network, in *Brain Informatics* 2024. [[paper](https://link.springer.com/article/10.1186/s40708-023-00216-5)]
 
 * A transformer-based diffusion probabilistic model for heart rate and blood pressure forecasting in Intensive Care Unit, in *Computer Methods and Programs in Biomedicine* 2024. [[paper](https://www.sciencedirect.com/science/article/pii/S0169260724000567)] [[official-code](https://github.com/PingChang818/TDSTF)]
 
 * ECG Captioning with Prior-Knowledge Transformer and Diffusion Probabilistic Model, in *Journal of Healthcare Informatics Research* 2024. [[paper](https://www.researchsquare.com/article/rs-4070328/v1)]
 
-* Synthesizing EEG Signals from Event-Related Potential Paradigms with Conditional Diffusion Models, in *ArXiv* 2024. [[paper](https://arxiv.org/pdf/2403.18486)]
-
 * SADI: Similarity-Aware Diffusion Model-Based Imputation for Incomplete Temporal EHR Data, in *International Conference on Artificial Intelligence and Statistics* 2024. [[paper](https://proceedings.mlr.press/v238/dai24c.html)]
+
+* BioDiffusion: A Versatile Diffusion Model for Biomedical Signal Synthesis, in *ArXiv* 2024. [[paper](https://arxiv.org/abs/2401.10282)][[official-code](https://github.com/imics-lab/biodiffusion)]
+
+* Synthesizing EEG Signals from Event-Related Potential Paradigms with Conditional Diffusion Models, in *ArXiv* 2024. [[paper](https://arxiv.org/pdf/2403.18486)]
 
 * Guided Discrete Diffusion for Electronic Health Record Generation, in *ArXiv* 2024. [[paper](https://arxiv.org/pdf/2404.12314)]
   
@@ -505,21 +510,21 @@ We will continue to update this list with the newest resources. If you find any 
 
 * Diffusion Augmentation for Sequential Recommendation, in *CIKM* 2023. [[paper](https://dl.acm.org/doi/abs/10.1145/3583780.3615134)] [[official-code](https://github.com/liuqidong07/DiffuASR)]
 
-* Discrete Conditional Diffusion for Reranking in Recommendation, in *arXiv* 2023. [[paper](https://arxiv.org/abs/2308.06982)]
+* Discrete Conditional Diffusion for Reranking in Recommendation, in *ArXiv* 2023. [[paper](https://arxiv.org/abs/2308.06982)]
 
-* RecFusion: A Binomial Diffusion Process for 1D Data for Recommendation, in *arXiv* 2023. [[paper](https://arxiv.org/abs/2306.08947)] [[official-code](https://github.com/gabriben/recfusion)]
+* RecFusion: A Binomial Diffusion Process for 1D Data for Recommendation, in *ArXiv* 2023. [[paper](https://arxiv.org/abs/2306.08947)] [[official-code](https://github.com/gabriben/recfusion)]
 
-* Conditional Denoising Diffusion for Sequential Recommendation, in *arXiv* 2023. [[paper](https://arxiv.org/abs/2304.11433)]
+* Conditional Denoising Diffusion for Sequential Recommendation, in *ArXiv* 2023. [[paper](https://arxiv.org/abs/2304.11433)]
 
-* Sequential Recommendation with Diffusion Models, in *arXiv* 2023. [[paper](https://arxiv.org/abs/2304.04541)]
+* Sequential Recommendation with Diffusion Models, in *ArXiv* 2023. [[paper](https://arxiv.org/abs/2304.04541)]
 
-* DiffuRec: A Diffusion Model for Sequential Recommendation, in *arXiv* 2023. [[paper](https://arxiv.org/abs/2304.00686)]
+* DiffuRec: A Diffusion Model for Sequential Recommendation, in *ArXiv* 2023. [[paper](https://arxiv.org/abs/2304.00686)]
 
-* Towards Graph-Aware Diffusion Modeling for Collaborative Filtering, in *arXiv* 2023. [[paper](https://arxiv.org/abs/2311.08744)]
+* Towards Graph-Aware Diffusion Modeling for Collaborative Filtering, in *ArXiv* 2023. [[paper](https://arxiv.org/abs/2311.08744)]
 
 * Generate What You Prefer: Reshaping Sequential Recommendation via Guided Diffusion, in *NeurIPS* 2024. [[paper](https://arxiv.org/abs/2310.20453)] [[official-code](https://github.com/yangzhengyi98/dreamrec)]
 
-* Plug-in Diffusion Model for Sequential Recommendation, in *arXiv* 2024. [[paper](https://arxiv.org/pdf/2401.02913.pdf)][[official-code](https://github.com/hulkima/PDRec)]
+* Plug-in Diffusion Model for Sequential Recommendation, in *ArXiv* 2024. [[paper](https://arxiv.org/pdf/2401.02913.pdf)][[official-code](https://github.com/hulkima/PDRec)]
 
 
 ### Weather
@@ -528,19 +533,19 @@ We will continue to update this list with the newest resources. If you find any 
 
 * DiffESM: Conditional Emulation of Earth System Models with Diffusion Models, in *ICLR* 2023. [[paper](https://arxiv.org/abs/2304.11699)] [[official-code](https://github.com/duanyiqun/ds-ddpm)]
 
-* Precipitation Nowcasting with Generative Diffusion Models, in *arXiv* 2023. [[paper](https://arxiv.org/abs/2308.06733)] [[official-code](https://github.com/fmerizzi/precipitation-nowcasting-with-generative-diffusion-models)]
+* Precipitation Nowcasting with Generative Diffusion Models, in *ArXiv* 2023. [[paper](https://arxiv.org/abs/2308.06733)] [[official-code](https://github.com/fmerizzi/precipitation-nowcasting-with-generative-diffusion-models)]
 
-* SEEDS: Emulation of Weather Forecast Ensembles with Diffusion Models, in *arXiv* 2023. [[paper](https://arxiv.org/abs/2306.14066)]
+* SEEDS: Emulation of Weather Forecast Ensembles with Diffusion Models, in *ArXiv* 2023. [[paper](https://arxiv.org/abs/2306.14066)]
 
-* Diffusion Models for High-Resolution Solar Forecasts, in *arXiv* 2023. [[paper](https://arxiv.org/abs/2302.00170)]
+* Diffusion Models for High-Resolution Solar Forecasts, in *ArXiv* 2023. [[paper](https://arxiv.org/abs/2302.00170)]
 
-* Latent Diffusion Models for Generative Precipitation Nowcasting with Accurate Uncertainty Quantification, in *arXiv* 2023. [[paper](https://arxiv.org/abs/2304.12891)] [[official-code](https://github.com/MeteoSwiss/ldcast)]
+* Latent Diffusion Models for Generative Precipitation Nowcasting with Accurate Uncertainty Quantification, in *ArXiv* 2023. [[paper](https://arxiv.org/abs/2304.12891)] [[official-code](https://github.com/MeteoSwiss/ldcast)]
 
 * WiREDiff: a Wind Resolution-Enhancing Diffusion Model, in *Working Paper* 2023. [[link](https://rupakv.com/wirediff.html#:~:text=WiREDiff%20is%20a%20novel%20application,interval%20of%20predicted%20wind%20velocities.)] [[paper](https://rupakv.com/pdfs/wirediff_report.pdf)] [[official-code](https://github.com/RupaKurinchiVendhan/WiREDiff)]
 
-* DiffDA: a diffusion model for weather-scale data assimilation, in *arXiv* 2024. [[paper](https://arxiv.org/abs/2401.05932)]
+* DiffDA: a diffusion model for weather-scale data assimilation, in *ArXiv* 2024. [[paper](https://arxiv.org/abs/2401.05932)]
 
-* SRNDiff: Short-term Rainfall Nowcasting with Condition Diffusion Model, in *arXiv* 2024. [[paper](https://arxiv.org/abs/2402.13737)]
+* SRNDiff: Short-term Rainfall Nowcasting with Condition Diffusion Model, in *ArXiv* 2024. [[paper](https://arxiv.org/abs/2402.13737)]
 
 
 ### Energy and Electricity
@@ -549,25 +554,25 @@ We will continue to update this list with the newest resources. If you find any 
 
 * Diff-SwinT: An Integrated Framework of Diffusion Model and Swin Transformer for Radar Jamming Recognition, in *Future Internet* 2023. [[paper](https://www.mdpi.com/1999-5903/15/12/374)]
 
-* DiffCharge: Generating EV Charging Scenarios via a Denoising Diffusion Model, in *arXiv* 2023. [[paper](https://arxiv.org/abs/2308.09857)] [[official-code](https://github.com/LSY-Cython/DiffCharge)]
-
-* Customized Load Profiles Synthesis for Electricity Customers Based on Conditional Diffusion Models, in *arXiv* 2023. [[paper](https://arxiv.org/abs/2304.12076)]
-
-* DiffLoad: Uncertainty Quantification in Load Forecasting with Diffusion Model, in *arXiv* 2023. [[paper](https://arxiv.org/abs/2306.01001)]
-
-* Denoising Diffusion Probabilistic Models for Probabilistic Energy Forecasting, in *arXiv* 2023. [[paper](https://arxiv.org/abs/2212.02977)] [[official-code](https://github.com/EstebanHernandezCapel/DDPM-Power-systems-forecasting)]
-
-* Adversarial Purification for Data-Driven Power System Event Classifiers with Diffusion Models, in *arXiv* 2023. [[paper](https://arxiv.org/abs/2311.07110)]
-
-* Improved Efficient Two-Stage Denoising Diffusion Power System Measurement Recovery Against False Data Injection Attacks and Data Losses, in *arXiv* 2023. [[paper](https://arxiv.org/abs/2312.04346)]
-
 * A Short-Term Wind Power Scenario Generation Method Based on Conditional Diffusion Model, in *IEEE Sustainable Power and Energy Conference (iSPEC)* 2023. [[paper](https://ieeexplore.ieee.org/abstract/document/10403004)]
 
 * Scenario Generation of Renewable Energy Based on Improved Diffusion Model, in *IEEE Sustainable Power and Energy Conference (iSPEC)* 2023. [[paper](https://ieeexplore.ieee.org/abstract/document/10402981)]
 
+* DiffCharge: Generating EV Charging Scenarios via a Denoising Diffusion Model, in *ArXiv* 2023. [[paper](https://arxiv.org/abs/2308.09857)] [[official-code](https://github.com/LSY-Cython/DiffCharge)]
+
+* Customized Load Profiles Synthesis for Electricity Customers Based on Conditional Diffusion Models, in *ArXiv* 2023. [[paper](https://arxiv.org/abs/2304.12076)]
+
+* DiffLoad: Uncertainty Quantification in Load Forecasting with Diffusion Model, in *ArXiv* 2023. [[paper](https://arxiv.org/abs/2306.01001)]
+
+* Denoising Diffusion Probabilistic Models for Probabilistic Energy Forecasting, in *ArXiv* 2023. [[paper](https://arxiv.org/abs/2212.02977)] [[official-code](https://github.com/EstebanHernandezCapel/DDPM-Power-systems-forecasting)]
+
+* Adversarial Purification for Data-Driven Power System Event Classifiers with Diffusion Models, in *ArXiv* 2023. [[paper](https://arxiv.org/abs/2311.07110)]
+
+* Improved Efficient Two-Stage Denoising Diffusion Power System Measurement Recovery Against False Data Injection Attacks and Data Losses, in *ArXiv* 2023. [[paper](https://arxiv.org/abs/2312.04346)]
+
 * Residential Customer Baseline Load Estimation Based on Conditional Denoising Diffusion Probabilistic Model, in *IEEE 4th International Conference in Power Engineering Applications (ICPEA)* 2024. [[paper](https://ieeexplore.ieee.org/abstract/document/10498265)]
 
-* DiffPLF: A Conditional Diffusion Model for Probabilistic Forecasting of EV Charging Load, in *arXiv* 2024. [[paper](https://arxiv.org/abs/2402.13548)] [[official-code](https://github.com/LSY-Cython/DiffPLF)]
+* DiffPLF: A Conditional Diffusion Model for Probabilistic Forecasting of EV Charging Load, in *ArXiv* 2024. [[paper](https://arxiv.org/abs/2402.13548)] [[official-code](https://github.com/LSY-Cython/DiffPLF)]
 
 * Creating synthetic energy meter data using conditional diffusion and building metadata, in *ArXiv* 2024. [[paper](https://arxiv.org/pdf/2404.00525v1)] [[official-code](https://github.com/buds-lab/energy-diffusion)]
 
@@ -576,20 +581,20 @@ We will continue to update this list with the newest resources. If you find any 
 
 * A Physics-informed Diffusion Model for High-fidelity Flow Field Reconstruction, in *Journal of Computational Physics* 2023. [[paper](https://arxiv.org/abs/2211.14680)] [[official-code](https://github.com/BaratiLab/Diffusion-based-Fluid-Super-resolution)]
 
-* DiTTO: Diffusion-inspired Temporal Transformer Operator, in *arXiv* 2023. [[paper](https://arxiv.org/abs/2307.09072)]
+* DiTTO: Diffusion-inspired Temporal Transformer Operator, in *ArXiv* 2023. [[paper](https://arxiv.org/abs/2307.09072)]
 
-* Infinite-dimensional Diffusion Models for Function Spaces, in *arXiv* 2023. [[paper](https://arxiv.org/abs/2302.10130)]
+* Infinite-dimensional Diffusion Models for Function Spaces, in *ArXiv* 2023. [[paper](https://arxiv.org/abs/2302.10130)]
 
-* Generative Diffusion Learning for Parametric Partial Differential Equations, in *arXiv* 2023. [[paper](https://arxiv.org/abs/2305.14703)]
+* Generative Diffusion Learning for Parametric Partial Differential Equations, in *ArXiv* 2023. [[paper](https://arxiv.org/abs/2305.14703)]
 
 
 ### Finance
 
 * Diffusion Variational Autoencoder for Tackling Stochasticity in Multi-Step Regression Stock Price Prediction, in *CIKM* 2023. [[paper](https://arxiv.org/abs/2309.00073)] [[official-code](https://github.com/koa-fin/dva)]
 
-* FinDiff: Diffusion Models for Financial Tabular Data Generation, in *arXiv* 2023. [[paper](https://arxiv.org/abs/2309.01472)]
+* FinDiff: Diffusion Models for Financial Tabular Data Generation, in *ArXiv* 2023. [[paper](https://arxiv.org/abs/2309.01472)]
 
-* Synthetic Data Applications in Finance, in *arXiv* 2023. [[paper](https://arxiv.org/abs/2401.00081)]
+* Synthetic Data Applications in Finance, in *ArXiv* 2023. [[paper](https://arxiv.org/abs/2401.00081)]
 
 * DiffSTOCK: Probabilistic relational Stock Market Predictions using Diffusion Models, in *ICASSP* 2024. [[paper](https://arxiv.org/pdf/2403.14063)]
 
@@ -597,7 +602,7 @@ We will continue to update this list with the newest resources. If you find any 
 
 * Synthetic Asset Price Paths Generation Using Denoising Diffusion Probabilistic Model, in *SCML* 2024. [[paper](http://scml.jp/2024/paper/8/CameraReady/scml2024.pdf)]
 
-* DiffsFormer: A Diffusion Transformer on Stock Factor Augmentation, in *arXiv* 2024. [[paper](https://arxiv.org/abs/2402.06656v1)]
+* DiffsFormer: A Diffusion Transformer on Stock Factor Augmentation, in *ArXiv* 2024. [[paper](https://arxiv.org/abs/2402.06656v1)]
 
 
 ### AIOps
@@ -606,7 +611,7 @@ We will continue to update this list with the newest resources. If you find any 
 
 * Diffusion-Based Time Series Data Imputation for Cloud Failure Prediction at Microsoft 365, in *ESEC/FSE* 2023. [[paper](https://dl.acm.org/doi/abs/10.1145/3611643.3613866)]
 
-* NetDiffus: Network Traffic Generation by Diffusion Models through Time-Series Imaging, in *arXiv* 2023. [[paper](https://arxiv.org/abs/2310.04429)]
+* NetDiffus: Network Traffic Generation by Diffusion Models through Time-Series Imaging, in *ArXiv* 2023. [[paper](https://arxiv.org/abs/2310.04429)]
 
 
 ### Environment
@@ -617,7 +622,7 @@ We will continue to update this list with the newest resources. If you find any 
 
 * Data-driven and knowledge-guided denoising diffusion model for flood forecasting, in *Expert Systems with Applications* 2023. [[paper](https://www.sciencedirect.com/science/article/pii/S0957417423034103)]
 
-* Time Series Diffusion Method: A Denoising Diffusion Probabilistic Model for Vibration Signal Generation, in *arXiv* 2023. [[paper](https://arxiv.org/abs/2312.07981)]
+* Time Series Diffusion Method: A Denoising Diffusion Probabilistic Model for Vibration Signal Generation, in *ArXiv* 2023. [[paper](https://arxiv.org/abs/2312.07981)]
 
 * Quantifying uncertainty: Air quality forecasting based on dynamic spatial-temporal denoising diffusion Probabilistic model, in *Environmental Research* 2024. [[paper](https://www.sciencedirect.com/science/article/pii/S0013935124003426)]
 
@@ -636,19 +641,19 @@ We will continue to update this list with the newest resources. If you find any 
 
 * A Graph-Based Scene Encoder for Vehicle Trajectory Prediction Using the Diffusion Model, in *CSIS-IAC* 2023. [[paper](https://ieeexplore.ieee.org/abstract/document/10363970)]
 
-* Generating HSR Bogie Vibration Signals via Pulse Voltage-Guided Conditional Diffusion Model, in *arXiv* 2023. [[paper](https://arxiv.org/abs/2311.00496)] [[official-code](https://github.com/xuanliu2000/VGCDM)]
-
-* SpecSTG: A Fast Spectral Diffusion Framework for Probabilistic Spatio-Temporal Traffic Forecasting, in *arXiv* 2024. [[paper](https://arxiv.org/abs/2401.08119)] [[official-code](https://anonymous.4open.science/r/SpecSTG/)]
+* Generating HSR Bogie Vibration Signals via Pulse Voltage-Guided Conditional Diffusion Model, in *ArXiv* 2023. [[paper](https://arxiv.org/abs/2311.00496)] [[official-code](https://github.com/xuanliu2000/VGCDM)]
 
 * DiffTAD: Denoising diffusion probabilistic models for vehicle trajectory anomaly detection, in *Knowledge-Based Systems* 2024. [[paper](https://www.sciencedirect.com/science/article/pii/S0950705124000224)] [[official-code](https://github.com/Psychic-DL/DiffTAD)]
 
+* Utilizing a Diffusion Model for Pedestrian Trajectory Prediction in Semi-Open Autonomous Driving Environments, in *IEEE sensors journal* 2024. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10489838)]
+
+* SpecSTG: A Fast Spectral Diffusion Framework for Probabilistic Spatio-Temporal Traffic Forecasting, in *ArXiv* 2024. [[paper](https://arxiv.org/abs/2401.08119)] [[official-code](https://anonymous.4open.science/r/SpecSTG/)]
+  
 * Intention-aware Denoising Diffusion Model for Trajectory Prediction, in *ArXiv* 2024. [[paper](https://arxiv.org/pdf/2403.09190)]
 
 * Diffusion-Based Environment-Aware Trajectory Prediction, in *ArXiv* 2024. [[paper](https://arxiv.org/pdf/2403.11643)]
 
 * Diff-RNTraj: A Structure-aware Diffusion Model for Road Network-constrained Trajectory Generation, in *ArXiv* 2024. [[paper](https://www.arxiv.org/pdf/2402.07369)]
-
-* Utilizing a Diffusion Model for Pedestrian Trajectory Prediction in Semi-Open Autonomous Driving Environments, in *IEEE sensors journal* 2024. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10489838)]
 
 
 
@@ -658,7 +663,7 @@ We will continue to update this list with the newest resources. If you find any 
 
 * Missing Data Filling in Soft Sensing Using Denoising Diffusion Probability Model, in *Measurement Science and Technology* 2023. [[paper](https://iopscience.iop.org/article/10.1088/1361-6501/ad095a)]
 
-* Unsupervised Statistical Feature-Guided Diffusion Model for Sensor-based Human Activity Recognition, in *arXiv* 2023. [[paper](https://arxiv.org/abs/2306.05285)]
+* Unsupervised Statistical Feature-Guided Diffusion Model for Sensor-based Human Activity Recognition, in *ArXiv* 2023. [[paper](https://arxiv.org/abs/2306.05285)]
 
 * Attention-enhanced conditional-diffusion-based data synthesis for data augmentation in machine fault diagnosis, in *Engineering Applications of Artificial Intelligence* 2024. [[paper](https://www.sciencedirect.com/science/article/pii/S0952197623018808)]
 
@@ -701,22 +706,27 @@ We will continue to update this list with the newest resources. If you find any 
 
 * CRA-DIFFUSE: Improved Cross-Domain Speech Enhancement Based on Diffusion Model with T-F Domain Pre-Denoising, in *ICME* 2023. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10219860)]
 
-* Fast Diffusion GAN Model for Symbolic Music Generation Controlled by Emotions, in *arXiv* 2023. [[paper](https://arxiv.org/abs/2310.14040)]
+* Fast Diffusion GAN Model for Symbolic Music Generation Controlled by Emotions, in *ArXiv* 2023. [[paper](https://arxiv.org/abs/2310.14040)]
 
 * DiffuseRoll: multi-track multi-attribute music generation based on diffusion model, in *Multimedia Systems* 2024. [[paper](https://link.springer.com/article/10.1007/s00530-023-01220-9)] [[official-code](https://github.com/Fairywang9/DiffuseRoll)]
 
 * Long-form music generation with latent diffusion, in *ArXiv* 2024. [[paper](https://arxiv.org/pdf/2404.10301)] [[official-code](https://github.com/Stability-AI/stable-audio-tools/)]
 
+### Biology
+
+* Generation of synthetic whole-slide image tiles of tumours from RNA-sequencing data via cascaded diffusion models, in *Nature Biomedical Engineering* 2024. [[paper](https://www.nature.com/articles/s41551-024-01193-8#peer-review)] [[official-code](https://rna-cdm.stanford.edu/Download_Code)]
+
+
 
 ## Related Diffusion Model Resources and Surveys
 
-* A Survey on Generative Diffusion Models, in *arXiv* 2022. [[paper](https://arxiv.org/abs/2209.02646)] [[link](https://github.com/YangLing0818/Diffusion-Models-Papers-Survey-Taxonomy)]
+* A Survey on Generative Diffusion Models, in *ArXiv* 2022. [[paper](https://arxiv.org/abs/2209.02646)] [[link](https://github.com/YangLing0818/Diffusion-Models-Papers-Survey-Taxonomy)]
 
 * Diffusion Models: A Comprehensive Survey of Methods and Applications, in *ACM Computing Surveys* 2023. [[paper](https://arxiv.org/abs/2209.00796)] [[link](https://github.com/chq1155/A-Survey-on-Generative-Diffusion-Model)]
 
-* Diffusion Models for Time Series Applications: A Survey, in *arXiv* 2023. [[paper](https://arxiv.org/abs/2305.00624)]
+* Diffusion Models for Time Series Applications: A Survey, in *ArXiv* 2023. [[paper](https://arxiv.org/abs/2305.00624)]
 
-* A Comprehensive Survey on Generative Diffusion Models for Structured Data, in *arXiv* 2023. [[paper](https://arxiv.org/abs/2306.04139)] [[link](https://deepai.org/publication/a-survey-on-generative-diffusion-models-for-structured-data)]
+* A Comprehensive Survey on Generative Diffusion Models for Structured Data, in *ArXiv* 2023. [[paper](https://arxiv.org/abs/2306.04139)] [[link](https://deepai.org/publication/a-survey-on-generative-diffusion-models-for-structured-data)]
 
 * Awesome-Diffusion-Models. [[link](https://diff-usion.github.io/Awesome-Diffusion-Models/)]
 
