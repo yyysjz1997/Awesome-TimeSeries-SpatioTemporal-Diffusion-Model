@@ -138,6 +138,8 @@ We will continue to update this list with the newest resources. If you find any 
 
 * Diff-MGR: Dynamic Causal Graph Attention and Pattern Reproduction Guided Diffusion Model for Multivariate Time Series Probabilistic Forecasting, in *Information Sciences* 2024. [[paper](https://www.sciencedirect.com/science/article/pii/S002002552400656X)]
 
+* Multi-modal transform-based fusion model for new product sales forecasting, in *Engineering Applications of Artificial Intelligence*. [[paper](https://www.sciencedirect.com/science/article/pii/S0952197624007644)]
+
 * DiffDA: a diffusion model for weather-scale data assimilation, in *ArXiv* 2024. [[paper](https://arxiv.org/abs/2401.05932)]
 
 * DiffPLF: A Conditional Diffusion Model for Probabilistic Forecasting of EV Charging Load, in *ArXiv* 2024. [[paper](https://arxiv.org/abs/2402.13548)] [[official-code](https://github.com/LSY-Cython/DiffPLF)]
@@ -272,9 +274,13 @@ We will continue to update this list with the newest resources. If you find any 
 
 * SADI: Similarity-Aware Diffusion Model-Based Imputation for Incomplete Temporal EHR Data, in *International Conference on Artificial Intelligence and Statistics* 2024. [[paper](https://proceedings.mlr.press/v238/dai24c.html)]
 
+* Self-supervision improves diffusion models for tabular data imputation, in *ICLR Workshop on GenAI4DM*. [[paper](https://www.amazon.science/publications/self-supervision-improves-diffusion-models-for-tabular-data-imputation)]
+
 * DiffsFormer: A Diffusion Transformer on Stock Factor Augmentation, in *ArXiv* 2024. [[paper](https://arxiv.org/abs/2402.06656v1)]
 
 * Self-Supervised Learning of Time Series Representation via Diffusion Process and Imputation-Interpolation-Forecasting Mask, in *ArXiv* 2024. [[paper](https://arxiv.org/abs/2405.05959)] [[official-code](https://github.com/EQTPartners/TSDE)]
+
+* Score-CDM: Score-Weighted Convolutional Diffusion Model for Multivariate Time Series Imputation, in *ArXiv* 2024. [[paper](https://arxiv.org/abs/2405.13075)]
 
 
 ### Anomaly Detection
@@ -332,12 +338,16 @@ We will continue to update this list with the newest resources. If you find any 
 
 * Evaluating Diffusion Models for the Automation of Ultrasonic Nondestructive Evaluation Data Analysis, in *Algorithms* 2024. [[paper](https://www.mdpi.com/1999-4893/17/4/167)]
 
+* CausalConceptTS: Causal Attributions for Time Series Classification using High Fidelity Diffusion Models, in *ArXiv*. [[paper](https://arxiv.org/abs/2405.15871)] [[official-code](https://github.com/ai4healthuol/causalconceptts)]
+
 
 ### Causal Inference
 
 * Diffusion Model in Causal Inference with Unmeasured Confounders, in *ArXiv* 2023. [[paper](https://arxiv.org/abs/2308.03669)] [[official-code](https://github.com/tatsu432/BDCM)]
 
 * Brain Diffuser with Hierarchical Transformer for MCI Causality Analysis, in *ArXiv* 2023. [[paper](https://arxiv.org/abs/2312.09022)]
+
+* CausalConceptTS: Causal Attributions for Time Series Classification using High Fidelity Diffusion Models, in *ArXiv*. [[paper](https://arxiv.org/abs/2405.15871)] [[official-code](https://github.com/ai4healthuol/causalconceptts)]
 
 
 ### Event Prediction and Classification
@@ -411,6 +421,8 @@ We will continue to update this list with the newest resources. If you find any 
 
 * Fault Detection in Mobile Networks Using Diffusion Models, in *ArXiv* 2024. [[paper](https://arxiv.org/pdf/2404.09240)]
 
+* CoNFiLD: Conditional Neural Field Latent Diffusion Model Generating Spatiotemporal Turbulence, in *ArXiv* 2024. [[paper](https://arxiv.org/abs/2403.05940)]
+
   
 ## Diffusion Model for Tabular Data
 
@@ -437,6 +449,8 @@ We will continue to update this list with the newest resources. If you find any 
 * AutoDiff: combining Auto-encoder and Diffusion model for tabular data synthesizing, in *ArXiv* 2023. [[paper](https://arxiv.org/abs/2310.15479)]
 
 * RF-Diffusion: Radio Signal Generation via Time-Frequency Diffusion, in *MobiCom* 2024. [[paper](https://arxiv.org/pdf/2404.09140)] [[official-code](https://github.com/mobicom24/RF-Diffusion)]
+
+* Self-supervision improves diffusion models for tabular data imputation, in *ICLR Workshop on GenAI4DM*. [[paper](https://www.amazon.science/publications/self-supervision-improves-diffusion-models-for-tabular-data-imputation)]
 
 * DiffImpute: Tabular Data Imputation With Denoising Diffusion Probabilistic Model in *ArXiv* 2024. [[paper](https://arxiv.org/pdf/2403.13863)] [[official-code](https://github.com/dendiiiii/diffimpute)]
 
@@ -600,6 +614,8 @@ We will continue to update this list with the newest resources. If you find any 
 * Infinite-dimensional Diffusion Models for Function Spaces, in *ArXiv* 2023. [[paper](https://arxiv.org/abs/2302.10130)]
 
 * Generative Diffusion Learning for Parametric Partial Differential Equations, in *ArXiv* 2023. [[paper](https://arxiv.org/abs/2305.14703)]
+
+* CoNFiLD: Conditional Neural Field Latent Diffusion Model Generating Spatiotemporal Turbulence, in *ArXiv* 2024. [[paper](https://arxiv.org/abs/2403.05940)]
 
 
 ### Finance
