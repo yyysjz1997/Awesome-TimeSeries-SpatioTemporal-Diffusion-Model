@@ -225,6 +225,8 @@ We will continue to update this list with the newest resources. If you find any 
 
 * Generation of synthetic whole-slide image tiles of tumours from RNA-sequencing data via cascaded diffusion models, in *Nature Biomedical Engineering* 2024. [[paper](https://www.nature.com/articles/s41551-024-01193-8#peer-review)] [[official-code](https://rna-cdm.stanford.edu/Download_Code)]
 
+* Mitigating Class Imbalance in Time Series with Enhanced Diffusion Models, in *IWINAC* 2024. [[paper](https://link.springer.com/chapter/10.1007/978-3-031-61137-7_36)]
+
 * Synthesizing EEG Signals from Event-Related Potential Paradigms with Conditional Diffusion Models, in *ArXiv* 2024. [[paper](https://arxiv.org/pdf/2403.18486)]
 
 * Creating synthetic energy meter data using conditional diffusion and building metadata, in *ArXiv* 2024. [[paper](https://arxiv.org/pdf/2404.00525v1)] [[official-code](https://github.com/buds-lab/energy-diffusion)]
