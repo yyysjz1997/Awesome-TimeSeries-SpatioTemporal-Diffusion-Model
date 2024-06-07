@@ -147,7 +147,9 @@ We will continue to update this list with the newest resources. If you find any 
 * CogDPM: Diffusion Probabilistic Models via Cognitive Predictive Coding, in *ArXiv* 2024. [[paper](https://arxiv.org/abs/2405.02384)]
 
 * Self-Supervised Learning of Time Series Representation via Diffusion Process and Imputation-Interpolation-Forecasting Mask, in *ArXiv* 2024. [[paper](https://arxiv.org/abs/2405.05959)] [[official-code](https://github.com/EQTPartners/TSDE)]
-  
+
+* Generative Pre-Trained Diffusion Paradigm for Zero-Shot Time Series Forecasting, in *ArXiv* 2024. [[paper](https://arxiv.org/pdf/2406.02212)]
+
 
 ### Generation
 
@@ -227,6 +229,10 @@ We will continue to update this list with the newest resources. If you find any 
 
 * Mitigating Class Imbalance in Time Series with Enhanced Diffusion Models, in *IWINAC* 2024. [[paper](https://link.springer.com/chapter/10.1007/978-3-031-61137-7_36)]
 
+* Detection and Imputation Based Two-Stage Denoising Diffusion Power System Measurement Recovery Under Cyber-Physical Uncertainties, in *IEEE Transactions on Smart Grid* 2024. [[paper](https://ieeexplore.ieee.org/abstract/document/10542391)]
+
+* A diffusion model-based framework USDDM for random noise elimination of seismic signal, in *Earth Science Informatics* 2024. [[paper](https://link.springer.com/article/10.1007/s12145-024-01333-3)]
+
 * Synthesizing EEG Signals from Event-Related Potential Paradigms with Conditional Diffusion Models, in *ArXiv* 2024. [[paper](https://arxiv.org/pdf/2403.18486)]
 
 * Creating synthetic energy meter data using conditional diffusion and building metadata, in *ArXiv* 2024. [[paper](https://arxiv.org/pdf/2404.00525v1)] [[official-code](https://github.com/buds-lab/energy-diffusion)]
@@ -249,7 +255,9 @@ We will continue to update this list with the newest resources. If you find any 
 
 * Plug-in Diffusion Model for Sequential Recommendation, in *ArXiv* 2024. [[paper](https://arxiv.org/pdf/2401.02913.pdf)][[official-code](https://github.com/hulkima/PDRec)]
 
+* Generating Synthetic Net Load Data with Physics-informed Diffusion Model, in *ArXiv* 2024. [[paper](https://arxiv.org/pdf/2406.01913)]
   
+
 ### Imputation
 
 * CSDI: Conditional Score-based Diffusion Models for Probabilistic Time Series Imputation, in *NeurIPS* 2021. [[paper](https://arxiv.org/abs/2107.03502)] [[official-code](https://github.com/ermongroup/CSDI)]
@@ -602,9 +610,13 @@ We will continue to update this list with the newest resources. If you find any 
 
 * Residential Customer Baseline Load Estimation Based on Conditional Denoising Diffusion Probabilistic Model, in *IEEE 4th International Conference in Power Engineering Applications (ICPEA)* 2024. [[paper](https://ieeexplore.ieee.org/abstract/document/10498265)]
 
+* Detection and Imputation Based Two-Stage Denoising Diffusion Power System Measurement Recovery Under Cyber-Physical Uncertainties, in *IEEE Transactions on Smart Grid* 2024. [[paper](https://ieeexplore.ieee.org/abstract/document/10542391)]
+
 * DiffPLF: A Conditional Diffusion Model for Probabilistic Forecasting of EV Charging Load, in *ArXiv* 2024. [[paper](https://arxiv.org/abs/2402.13548)] [[official-code](https://github.com/LSY-Cython/DiffPLF)]
 
 * Creating synthetic energy meter data using conditional diffusion and building metadata, in *ArXiv* 2024. [[paper](https://arxiv.org/pdf/2404.00525v1)] [[official-code](https://github.com/buds-lab/energy-diffusion)]
+
+* Generating Synthetic Net Load Data with Physics-informed Diffusion Model, in *ArXiv* 2024. [[paper](https://arxiv.org/pdf/2406.01913)]
 
 
 ### Math and Physics
@@ -664,7 +676,9 @@ We will continue to update this list with the newest resources. If you find any 
 
 * Cold Diffusion Model for Seismic Denoising, 2024. [[paper](https://essopenarchive.org/users/750010/articles/721094-cold-diffusion-model-for-seismic-denoising)] [[official-code](https://github.com/Daniele-Trappolini/Diffusion-Model-for-Earthquake)]
 
-* Comparative Analysis of TEC Prediction Models During Geomagnetic Storm and Quiet Conditions Using Diffusion, Transformer, and SARIMA, 2024. [[paper](https://essopenarchive.org/doi/full/10.22541/essoar.171291801.18571788/v1)]  
+* Comparative Analysis of TEC Prediction Models During Geomagnetic Storm and Quiet Conditions Using Diffusion, Transformer, and SARIMA, 2024. [[paper](https://essopenarchive.org/doi/full/10.22541/essoar.171291801.18571788/v1)]
+
+* A diffusion model-based framework USDDM for random noise elimination of seismic signal, in *Earth Science Informatics* 2024. [[paper](https://link.springer.com/article/10.1007/s12145-024-01333-3)]
 
 
 ### Traffic
