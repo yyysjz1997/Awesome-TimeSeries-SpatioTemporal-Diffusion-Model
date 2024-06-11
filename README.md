@@ -138,7 +138,9 @@ We will continue to update this list with the newest resources. If you find any 
 
 * Diff-MGR: Dynamic Causal Graph Attention and Pattern Reproduction Guided Diffusion Model for Multivariate Time Series Probabilistic Forecasting, in *Information Sciences* 2024. [[paper](https://www.sciencedirect.com/science/article/pii/S002002552400656X)]
 
-* Multi-modal transform-based fusion model for new product sales forecasting, in *Engineering Applications of Artificial Intelligence*. [[paper](https://www.sciencedirect.com/science/article/pii/S0952197624007644)]
+* Multi-modal transform-based fusion model for new product sales forecasting, in *Engineering Applications of Artificial Intelligence* 2024. [[paper](https://www.sciencedirect.com/science/article/pii/S0952197624007644)]
+
+* Probabilistic Building Load Forecasting via Conditional Diffusion Model, in *e-Energy* 2024. [[paper](https://dl.acm.org/doi/pdf/10.1145/3632775.3661980)]
 
 * DiffDA: a diffusion model for weather-scale data assimilation, in *ArXiv* 2024. [[paper](https://arxiv.org/abs/2401.05932)]
 
@@ -149,6 +151,8 @@ We will continue to update this list with the newest resources. If you find any 
 * Self-Supervised Learning of Time Series Representation via Diffusion Process and Imputation-Interpolation-Forecasting Mask, in *ArXiv* 2024. [[paper](https://arxiv.org/abs/2405.05959)] [[official-code](https://github.com/EQTPartners/TSDE)]
 
 * Generative Pre-Trained Diffusion Paradigm for Zero-Shot Time Series Forecasting, in *ArXiv* 2024. [[paper](https://arxiv.org/pdf/2406.02212)]
+
+* Stochastic Diffusion: A Diffusion Probabilistic Model for Stochastic Time Series Forecasting, in *ArXiv* 2024. [[paper](https://arxiv.org/pdf/2406.02827)]
 
 
 ### Generation
@@ -417,6 +421,8 @@ We will continue to update this list with the newest resources. If you find any 
 
 * Knowledge Guided Conditional Diffusion Model for Controllable Mobile Traffic Generation, in *WWW* 2024. [[paper](https://dl.acm.org/doi/10.1145/3589335.3651530)]
 
+* STFDiff: Remote sensing image spatiotemporal fusion with diffusion models, in *Information Fusion* 2024. [[paper](https://www.sciencedirect.com/science/article/pii/S1566253524002835)]
+
 * SRNDiff: Short-term Rainfall Nowcasting with Condition Diffusion Model, in *ArXiv* 2024. [[paper](https://arxiv.org/abs/2402.13737)]
 
 * Intention-aware Denoising Diffusion Model for Trajectory Prediction, in *ArXiv* 2024. [[paper](https://arxiv.org/pdf/2403.09190)]
@@ -581,6 +587,8 @@ We will continue to update this list with the newest resources. If you find any 
 
 * WiREDiff: a Wind Resolution-Enhancing Diffusion Model, in *Working Paper* 2023. [[link](https://rupakv.com/wirediff.html#:~:text=WiREDiff%20is%20a%20novel%20application,interval%20of%20predicted%20wind%20velocities.)] [[paper](https://rupakv.com/pdfs/wirediff_report.pdf)] [[official-code](https://github.com/RupaKurinchiVendhan/WiREDiff)]
 
+* STFDiff: Remote sensing image spatiotemporal fusion with diffusion models, in *Information Fusion* 2024. [[paper](https://www.sciencedirect.com/science/article/pii/S1566253524002835)]
+
 * DiffDA: a diffusion model for weather-scale data assimilation, in *ArXiv* 2024. [[paper](https://arxiv.org/abs/2401.05932)]
 
 * SRNDiff: Short-term Rainfall Nowcasting with Condition Diffusion Model, in *ArXiv* 2024. [[paper](https://arxiv.org/abs/2402.13737)]
@@ -611,6 +619,8 @@ We will continue to update this list with the newest resources. If you find any 
 * Residential Customer Baseline Load Estimation Based on Conditional Denoising Diffusion Probabilistic Model, in *IEEE 4th International Conference in Power Engineering Applications (ICPEA)* 2024. [[paper](https://ieeexplore.ieee.org/abstract/document/10498265)]
 
 * Detection and Imputation Based Two-Stage Denoising Diffusion Power System Measurement Recovery Under Cyber-Physical Uncertainties, in *IEEE Transactions on Smart Grid* 2024. [[paper](https://ieeexplore.ieee.org/abstract/document/10542391)]
+
+* Probabilistic Building Load Forecasting via Conditional Diffusion Model, in *e-Energy* 2024. [[paper](https://dl.acm.org/doi/pdf/10.1145/3632775.3661980)]
 
 * DiffPLF: A Conditional Diffusion Model for Probabilistic Forecasting of EV Charging Load, in *ArXiv* 2024. [[paper](https://arxiv.org/abs/2402.13548)] [[official-code](https://github.com/LSY-Cython/DiffPLF)]
 
