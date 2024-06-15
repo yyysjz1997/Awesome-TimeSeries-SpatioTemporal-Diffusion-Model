@@ -142,6 +142,8 @@ We will continue to update this list with the newest resources. If you find any 
 
 * Probabilistic Building Load Forecasting via Conditional Diffusion Model, in *e-Energy* 2024. [[paper](https://dl.acm.org/doi/pdf/10.1145/3632775.3661980)]
 
+* Probabilistic Time Series Modeling with Decomposable Denoising Diffusion Model, in *ICML* 2024. [[paper](https://openreview.net/pdf?id=BNH8spaR3l)]
+
 * DiffDA: a diffusion model for weather-scale data assimilation, in *ArXiv* 2024. [[paper](https://arxiv.org/abs/2401.05932)]
 
 * DiffPLF: A Conditional Diffusion Model for Probabilistic Forecasting of EV Charging Load, in *ArXiv* 2024. [[paper](https://arxiv.org/abs/2402.13548)] [[official-code](https://github.com/LSY-Cython/DiffPLF)]
@@ -237,6 +239,8 @@ We will continue to update this list with the newest resources. If you find any 
 
 * A diffusion model-based framework USDDM for random noise elimination of seismic signal, in *Earth Science Informatics* 2024. [[paper](https://link.springer.com/article/10.1007/s12145-024-01333-3)]
 
+* Fingerprinting in EEG Model IP Protection Using Diffusion Model, in *ICMR* 2024. [[paper](https://dl.acm.org/doi/abs/10.1145/3652583.3658057)]
+
 * Synthesizing EEG Signals from Event-Related Potential Paradigms with Conditional Diffusion Models, in *ArXiv* 2024. [[paper](https://arxiv.org/pdf/2403.18486)]
 
 * Creating synthetic energy meter data using conditional diffusion and building metadata, in *ArXiv* 2024. [[paper](https://arxiv.org/pdf/2404.00525v1)] [[official-code](https://github.com/buds-lab/energy-diffusion)]
@@ -289,6 +293,8 @@ We will continue to update this list with the newest resources. If you find any 
 * SADI: Similarity-Aware Diffusion Model-Based Imputation for Incomplete Temporal EHR Data, in *International Conference on Artificial Intelligence and Statistics* 2024. [[paper](https://proceedings.mlr.press/v238/dai24c.html)]
 
 * Self-supervision improves diffusion models for tabular data imputation, in *ICLR Workshop on GenAI4DM*. [[paper](https://www.amazon.science/publications/self-supervision-improves-diffusion-models-for-tabular-data-imputation)]
+
+* Probabilistic Time Series Modeling with Decomposable Denoising Diffusion Model, in *ICML* 2024. [[paper](https://openreview.net/pdf?id=BNH8spaR3l)]
 
 * DiffsFormer: A Diffusion Transformer on Stock Factor Augmentation, in *ArXiv* 2024. [[paper](https://arxiv.org/abs/2402.06656v1)]
 
@@ -352,7 +358,9 @@ We will continue to update this list with the newest resources. If you find any 
 
 * Evaluating Diffusion Models for the Automation of Ultrasonic Nondestructive Evaluation Data Analysis, in *Algorithms* 2024. [[paper](https://www.mdpi.com/1999-4893/17/4/167)]
 
-* CausalConceptTS: Causal Attributions for Time Series Classification using High Fidelity Diffusion Models, in *ArXiv*. [[paper](https://arxiv.org/abs/2405.15871)] [[official-code](https://github.com/ai4healthuol/causalconceptts)]
+* Fingerprinting in EEG Model IP Protection Using Diffusion Model, in *ICMR* 2024. [[paper](https://dl.acm.org/doi/abs/10.1145/3652583.3658057)]
+
+* CausalConceptTS: Causal Attributions for Time Series Classification using High Fidelity Diffusion Models, in *ArXiv* 2024. [[paper](https://arxiv.org/abs/2405.15871)] [[official-code](https://github.com/ai4healthuol/causalconceptts)]
 
 
 ### Causal Inference
@@ -361,7 +369,7 @@ We will continue to update this list with the newest resources. If you find any 
 
 * Brain Diffuser with Hierarchical Transformer for MCI Causality Analysis, in *ArXiv* 2023. [[paper](https://arxiv.org/abs/2312.09022)]
 
-* CausalConceptTS: Causal Attributions for Time Series Classification using High Fidelity Diffusion Models, in *ArXiv*. [[paper](https://arxiv.org/abs/2405.15871)] [[official-code](https://github.com/ai4healthuol/causalconceptts)]
+* CausalConceptTS: Causal Attributions for Time Series Classification using High Fidelity Diffusion Models, in *ArXiv* 2024. [[paper](https://arxiv.org/abs/2405.15871)] [[official-code](https://github.com/ai4healthuol/causalconceptts)]
 
 
 ### Event Prediction and Classification
@@ -538,6 +546,8 @@ We will continue to update this list with the newest resources. If you find any 
 * ECG Captioning with Prior-Knowledge Transformer and Diffusion Probabilistic Model, in *Journal of Healthcare Informatics Research* 2024. [[paper](https://www.researchsquare.com/article/rs-4070328/v1)]
 
 * SADI: Similarity-Aware Diffusion Model-Based Imputation for Incomplete Temporal EHR Data, in *International Conference on Artificial Intelligence and Statistics* 2024. [[paper](https://proceedings.mlr.press/v238/dai24c.html)]
+
+* Fingerprinting in EEG Model IP Protection Using Diffusion Model, in *ICMR* 2024. [[paper](https://dl.acm.org/doi/abs/10.1145/3652583.3658057)]
 
 * BioDiffusion: A Versatile Diffusion Model for Biomedical Signal Synthesis, in *ArXiv* 2024. [[paper](https://arxiv.org/abs/2401.10282)][[official-code](https://github.com/imics-lab/biodiffusion)]
 
