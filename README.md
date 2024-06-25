@@ -156,6 +156,8 @@ We will continue to update this list with the newest resources. If you find any 
 
 * Stochastic Diffusion: A Diffusion Probabilistic Model for Stochastic Time Series Forecasting, in *ArXiv* 2024. [[paper](https://arxiv.org/pdf/2406.02827)]
 
+* Treeffuser: Probabilistic Predictions via Conditional Diffusions with Gradient-Boosted Trees, in *ArXiv* 2024. [[paper](https://arxiv.org/pdf/2406.07658)] [[official-code](https://github.com/blei-lab/treeffuser)]
+
 
 ### Generation
 
@@ -241,6 +243,8 @@ We will continue to update this list with the newest resources. If you find any 
 
 * Fingerprinting in EEG Model IP Protection Using Diffusion Model, in *ICMR* 2024. [[paper](https://dl.acm.org/doi/abs/10.1145/3652583.3658057)]
 
+* Pre-training Feature Guided Diffusion Model for Speech Enhancement, in *Interspeech* 2024. [[paper](https://arxiv.org/abs/2406.07646)]
+
 * Synthesizing EEG Signals from Event-Related Potential Paradigms with Conditional Diffusion Models, in *ArXiv* 2024. [[paper](https://arxiv.org/pdf/2403.18486)]
 
 * Creating synthetic energy meter data using conditional diffusion and building metadata, in *ArXiv* 2024. [[paper](https://arxiv.org/pdf/2404.00525v1)] [[official-code](https://github.com/buds-lab/energy-diffusion)]
@@ -264,6 +268,8 @@ We will continue to update this list with the newest resources. If you find any 
 * Plug-in Diffusion Model for Sequential Recommendation, in *ArXiv* 2024. [[paper](https://arxiv.org/pdf/2401.02913.pdf)][[official-code](https://github.com/hulkima/PDRec)]
 
 * Generating Synthetic Net Load Data with Physics-informed Diffusion Model, in *ArXiv* 2024. [[paper](https://arxiv.org/pdf/2406.01913)]
+
+* SigDiffusions: Score-Based Diffusion Models for Long Time Series via Log-Signature Embeddings, in *ArXiv* 2024. [[paper](https://arxiv.org/abs/2406.10354)]
   
 
 ### Imputation
@@ -431,6 +437,8 @@ We will continue to update this list with the newest resources. If you find any 
 
 * STFDiff: Remote sensing image spatiotemporal fusion with diffusion models, in *Information Fusion* 2024. [[paper](https://www.sciencedirect.com/science/article/pii/S1566253524002835)]
 
+* DSDRec: Next POI recommendation using deep semantic extraction and diffusion model, in *Information Sciences* 2024. [[paper](https://www.sciencedirect.com/science/article/pii/S0020025524009186)]
+
 * SRNDiff: Short-term Rainfall Nowcasting with Condition Diffusion Model, in *ArXiv* 2024. [[paper](https://arxiv.org/abs/2402.13737)]
 
 * Intention-aware Denoising Diffusion Model for Trajectory Prediction, in *ArXiv* 2024. [[paper](https://arxiv.org/pdf/2403.09190)]
@@ -446,6 +454,10 @@ We will continue to update this list with the newest resources. If you find any 
 * Fault Detection in Mobile Networks Using Diffusion Models, in *ArXiv* 2024. [[paper](https://arxiv.org/pdf/2404.09240)]
 
 * CoNFiLD: Conditional Neural Field Latent Diffusion Model Generating Spatiotemporal Turbulence, in *ArXiv* 2024. [[paper](https://arxiv.org/abs/2403.05940)]
+
+* SatDiffMoE: A Mixture of Estimation Method for Satellite Image Super-resolution with Latent Diffusion Models, in *ArXiv* 2024. [[paper](https://arxiv.org/pdf/2406.10225)]
+
+* Crossfusor: A Cross-Attention Transformer Enhanced Conditional Diffusion Model for Car-Following Trajectory Prediction, in *ArXiv* 2024. [[paper](https://arxiv.org/pdf/2406.11941)]
 
   
 ## Diffusion Model for Tabular Data
@@ -717,6 +729,8 @@ We will continue to update this list with the newest resources. If you find any 
 
 * Knowledge Guided Conditional Diffusion Model for Controllable Mobile Traffic Generation, in *WWW* 2024. [[paper](https://dl.acm.org/doi/10.1145/3589335.3651530)]
 
+* DSDRec: Next POI recommendation using deep semantic extraction and diffusion model, in *Information Sciences* 2024. [[paper](https://www.sciencedirect.com/science/article/pii/S0020025524009186)]
+
 * SpecSTG: A Fast Spectral Diffusion Framework for Probabilistic Spatio-Temporal Traffic Forecasting, in *ArXiv* 2024. [[paper](https://arxiv.org/abs/2401.08119)] [[official-code](https://anonymous.4open.science/r/SpecSTG/)]
   
 * Intention-aware Denoising Diffusion Model for Trajectory Prediction, in *ArXiv* 2024. [[paper](https://arxiv.org/pdf/2403.09190)]
@@ -725,6 +739,9 @@ We will continue to update this list with the newest resources. If you find any 
 
 * Diff-RNTraj: A Structure-aware Diffusion Model for Road Network-constrained Trajectory Generation, in *ArXiv* 2024. [[paper](https://www.arxiv.org/pdf/2402.07369)]
 
+* SatDiffMoE: A Mixture of Estimation Method for Satellite Image Super-resolution with Latent Diffusion Models, in *ArXiv* 2024. [[paper](https://arxiv.org/pdf/2406.10225)]
+
+* Crossfusor: A Cross-Attention Transformer Enhanced Conditional Diffusion Model for Car-Following Trajectory Prediction, in *ArXiv* 2024. [[paper](https://arxiv.org/pdf/2406.11941)]
 
 
 ### Manufacturing
@@ -779,6 +796,8 @@ We will continue to update this list with the newest resources. If you find any 
 * Fast Diffusion GAN Model for Symbolic Music Generation Controlled by Emotions, in *ArXiv* 2023. [[paper](https://arxiv.org/abs/2310.14040)]
 
 * DiffuseRoll: multi-track multi-attribute music generation based on diffusion model, in *Multimedia Systems* 2024. [[paper](https://link.springer.com/article/10.1007/s00530-023-01220-9)] [[official-code](https://github.com/Fairywang9/DiffuseRoll)]
+
+* Pre-training Feature Guided Diffusion Model for Speech Enhancement, in *Interspeech* 2024. [[paper](https://arxiv.org/abs/2406.07646)]
 
 * Long-form music generation with latent diffusion, in *ArXiv* 2024. [[paper](https://arxiv.org/pdf/2404.10301)] [[official-code](https://github.com/Stability-AI/stable-audio-tools/)]
 
