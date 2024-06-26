@@ -144,6 +144,8 @@ We will continue to update this list with the newest resources. If you find any 
 
 * Probabilistic Time Series Modeling with Decomposable Denoising Diffusion Model, in *ICML* 2024. [[paper](https://openreview.net/pdf?id=BNH8spaR3l)]
 
+* Data-driven and knowledge-guided denoising diffusion probabilistic model for runoff uncertainty prediction, in *Journal of Hydrology* 2024. [[paper](https://www.sciencedirect.com/science/article/pii/S0022169424009521)]
+
 * DiffDA: a diffusion model for weather-scale data assimilation, in *ArXiv* 2024. [[paper](https://arxiv.org/abs/2401.05932)]
 
 * DiffPLF: A Conditional Diffusion Model for Probabilistic Forecasting of EV Charging Load, in *ArXiv* 2024. [[paper](https://arxiv.org/abs/2402.13548)] [[official-code](https://github.com/LSY-Cython/DiffPLF)]
@@ -245,6 +247,8 @@ We will continue to update this list with the newest resources. If you find any 
 
 * Pre-training Feature Guided Diffusion Model for Speech Enhancement, in *Interspeech* 2024. [[paper](https://arxiv.org/abs/2406.07646)]
 
+* Multivariate Time-series Diffusion Model-based Generation of Transient Trajectories for Power System Applications, in *IEEE/PES Transmission and Distribution Conference and Exposition (T&D)* 2024. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10556088)]
+
 * Synthesizing EEG Signals from Event-Related Potential Paradigms with Conditional Diffusion Models, in *ArXiv* 2024. [[paper](https://arxiv.org/pdf/2403.18486)]
 
 * Creating synthetic energy meter data using conditional diffusion and building metadata, in *ArXiv* 2024. [[paper](https://arxiv.org/pdf/2404.00525v1)] [[official-code](https://github.com/buds-lab/energy-diffusion)]
@@ -270,6 +274,8 @@ We will continue to update this list with the newest resources. If you find any 
 * Generating Synthetic Net Load Data with Physics-informed Diffusion Model, in *ArXiv* 2024. [[paper](https://arxiv.org/pdf/2406.01913)]
 
 * SigDiffusions: Score-Based Diffusion Models for Long Time Series via Log-Signature Embeddings, in *ArXiv* 2024. [[paper](https://arxiv.org/abs/2406.10354)]
+
+* Deep Temporal Deaggregation: Large-Scale Spatio-Temporal Generative Models, in *ArXiv* 2024. [[paper](https://arxiv.org/pdf/2406.12423)]
   
 
 ### Imputation
@@ -342,6 +348,8 @@ We will continue to update this list with the newest resources. If you find any 
 * A novel stochastic process diffusion model for wind turbines condition monitoring and fault identification with multi-parameter information fusion, in *Mechanical Systems and Signal Processing* 2024. [[paper](https://www.sciencedirect.com/science/article/pii/S0888327024002954#f0030)]
 
 * SOIL: Score Conditioned Diffusion Model for Imbalanced Cloud Failure Prediction, in *WWW* 2024. [[paper](https://dl.acm.org/doi/abs/10.1145/3589335.3648303)]
+
+* Reconstruction-Based Anomaly Detection in Wind Turbine Operation Time Series Using Generative Models, in *Advances in Artificial Intelligence* 2024. [[paper](https://link.springer.com/chapter/10.1007/978-3-031-62799-6_20)]
 
 
 ### Classification and Regression
@@ -459,6 +467,8 @@ We will continue to update this list with the newest resources. If you find any 
 
 * Crossfusor: A Cross-Attention Transformer Enhanced Conditional Diffusion Model for Car-Following Trajectory Prediction, in *ArXiv* 2024. [[paper](https://arxiv.org/pdf/2406.11941)]
 
+* Deep Temporal Deaggregation: Large-Scale Spatio-Temporal Generative Models, in *ArXiv* 2024. [[paper](https://arxiv.org/pdf/2406.12423)]
+
   
 ## Diffusion Model for Tabular Data
 
@@ -491,6 +501,8 @@ We will continue to update this list with the newest resources. If you find any 
 * DiffImpute: Tabular Data Imputation With Denoising Diffusion Probabilistic Model in *ArXiv* 2024. [[paper](https://arxiv.org/pdf/2403.13863)] [[official-code](https://github.com/dendiiiii/diffimpute)]
 
 * Guided Discrete Diffusion for Electronic Health Record Generation, in *ArXiv* 2024. [[paper](https://arxiv.org/pdf/2404.12314)]
+
+* Synthesizing Multimodal Electronic Health Records via Predictive Diffusion Models, in *ArXiv* 2024. [[paper](https://arxiv.org/pdf/2406.13942)]
 
 
 ## Applications
@@ -566,6 +578,8 @@ We will continue to update this list with the newest resources. If you find any 
 * Synthesizing EEG Signals from Event-Related Potential Paradigms with Conditional Diffusion Models, in *ArXiv* 2024. [[paper](https://arxiv.org/pdf/2403.18486)]
 
 * Guided Discrete Diffusion for Electronic Health Record Generation, in *ArXiv* 2024. [[paper](https://arxiv.org/pdf/2404.12314)]
+
+* Synthesizing Multimodal Electronic Health Records via Predictive Diffusion Models, in *ArXiv* 2024. [[paper](https://arxiv.org/pdf/2406.13942)]
   
   
 ### Sequential Recommendation
@@ -643,6 +657,8 @@ We will continue to update this list with the newest resources. If you find any 
 * Detection and Imputation Based Two-Stage Denoising Diffusion Power System Measurement Recovery Under Cyber-Physical Uncertainties, in *IEEE Transactions on Smart Grid* 2024. [[paper](https://ieeexplore.ieee.org/abstract/document/10542391)]
 
 * Probabilistic Building Load Forecasting via Conditional Diffusion Model, in *e-Energy* 2024. [[paper](https://dl.acm.org/doi/pdf/10.1145/3632775.3661980)]
+
+* Multivariate Time-series Diffusion Model-based Generation of Transient Trajectories for Power System Applications, in *IEEE/PES Transmission and Distribution Conference and Exposition (T&D)* 2024. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10556088)]
 
 * DiffPLF: A Conditional Diffusion Model for Probabilistic Forecasting of EV Charging Load, in *ArXiv* 2024. [[paper](https://arxiv.org/abs/2402.13548)] [[official-code](https://github.com/LSY-Cython/DiffPLF)]
 
@@ -767,6 +783,8 @@ We will continue to update this list with the newest resources. If you find any 
 * A novel stochastic process diffusion model for wind turbines condition monitoring and fault identification with multi-parameter information fusion, in *Mechanical Systems and Signal Processing* 2024. [[paper](https://www.sciencedirect.com/science/article/pii/S0888327024002954#f0030)]
 
 * Diffusion Generative Model-Based Learning for Smart Layer-Wise Monitoring of Additive Manufacturing, in *J. Comput. Inf. Sci. Eng.* 2024. [[paper](https://asmedigitalcollection.asme.org/computingengineering/article-abstract/24/6/060903/1198720/Diffusion-Generative-Model-Based-Learning-for?redirectedFrom=PDF)]
+
+* Reconstruction-Based Anomaly Detection in Wind Turbine Operation Time Series Using Generative Models, in *Advances in Artificial Intelligence* 2024. [[paper](https://link.springer.com/chapter/10.1007/978-3-031-62799-6_20)]
   
 
 ### Audio
