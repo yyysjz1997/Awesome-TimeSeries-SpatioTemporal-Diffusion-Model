@@ -276,6 +276,8 @@ We will continue to update this list with the newest resources. If you find any 
 * SigDiffusions: Score-Based Diffusion Models for Long Time Series via Log-Signature Embeddings, in *ArXiv* 2024. [[paper](https://arxiv.org/abs/2406.10354)]
 
 * Deep Temporal Deaggregation: Large-Scale Spatio-Temporal Generative Models, in *ArXiv* 2024. [[paper](https://arxiv.org/pdf/2406.12423)]
+
+* TimeAutoDiff: Combining Autoencoder and Diffusion model for time series tabular data synthesizing, in *ArXiv* 2024. [[paper](https://arxiv.org/pdf/2406.16028)]
   
 
 ### Imputation
@@ -308,11 +310,15 @@ We will continue to update this list with the newest resources. If you find any 
 
 * Probabilistic Time Series Modeling with Decomposable Denoising Diffusion Model, in *ICML* 2024. [[paper](https://openreview.net/pdf?id=BNH8spaR3l)]
 
+* Denoising Diffusion Straightforward Models for Energy Conversion Monitoring Data Imputation, in *IEEE Transactions on Industrial Informatics* 2024. [[paper](https://ieeexplore.ieee.org/abstract/document/10568989)]
+
 * DiffsFormer: A Diffusion Transformer on Stock Factor Augmentation, in *ArXiv* 2024. [[paper](https://arxiv.org/abs/2402.06656v1)]
 
 * Self-Supervised Learning of Time Series Representation via Diffusion Process and Imputation-Interpolation-Forecasting Mask, in *ArXiv* 2024. [[paper](https://arxiv.org/abs/2405.05959)] [[official-code](https://github.com/EQTPartners/TSDE)]
 
 * Score-CDM: Score-Weighted Convolutional Diffusion Model for Multivariate Time Series Imputation, in *ArXiv* 2024. [[paper](https://arxiv.org/abs/2405.13075)]
+
+* Rethinking the Diffusion Models for Numerical Tabular Data Imputation from the Perspective of Wasserstein Gradient Flow, in *ArXiv* 2024. [[paper](https://arxiv.org/pdf/2406.15762)]
 
 
 ### Anomaly Detection
@@ -503,6 +509,11 @@ We will continue to update this list with the newest resources. If you find any 
 * Guided Discrete Diffusion for Electronic Health Record Generation, in *ArXiv* 2024. [[paper](https://arxiv.org/pdf/2404.12314)]
 
 * Synthesizing Multimodal Electronic Health Records via Predictive Diffusion Models, in *ArXiv* 2024. [[paper](https://arxiv.org/pdf/2406.13942)]
+ 
+* TimeAutoDiff: Combining Autoencoder and Diffusion model for time series tabular data synthesizing, in *ArXiv* 2024. [[paper](https://arxiv.org/pdf/2406.16028)]
+
+* Rethinking the Diffusion Models for Numerical Tabular Data Imputation from the Perspective of Wasserstein Gradient Flow, in *ArXiv* 2024. [[paper](https://arxiv.org/pdf/2406.15762)]
+
 
 
 ## Applications
@@ -659,6 +670,8 @@ We will continue to update this list with the newest resources. If you find any 
 * Probabilistic Building Load Forecasting via Conditional Diffusion Model, in *e-Energy* 2024. [[paper](https://dl.acm.org/doi/pdf/10.1145/3632775.3661980)]
 
 * Multivariate Time-series Diffusion Model-based Generation of Transient Trajectories for Power System Applications, in *IEEE/PES Transmission and Distribution Conference and Exposition (T&D)* 2024. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10556088)]
+
+* Denoising Diffusion Straightforward Models for Energy Conversion Monitoring Data Imputation, in *IEEE Transactions on Industrial Informatics* 2024. [[paper](https://ieeexplore.ieee.org/abstract/document/10568989)]
 
 * DiffPLF: A Conditional Diffusion Model for Probabilistic Forecasting of EV Charging Load, in *ArXiv* 2024. [[paper](https://arxiv.org/abs/2402.13548)] [[official-code](https://github.com/LSY-Cython/DiffPLF)]
 
