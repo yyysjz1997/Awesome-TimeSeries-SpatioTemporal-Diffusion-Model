@@ -278,6 +278,8 @@ We will continue to update this list with the newest resources. If you find any 
 * Deep Temporal Deaggregation: Large-Scale Spatio-Temporal Generative Models, in *ArXiv* 2024. [[paper](https://arxiv.org/pdf/2406.12423)]
 
 * TimeAutoDiff: Combining Autoencoder and Diffusion model for time series tabular data synthesizing, in *ArXiv* 2024. [[paper](https://arxiv.org/pdf/2406.16028)]
+
+* Diffusion Forcing: Next-token Prediction Meets Full-Sequence Diffusion, in *ArXiv* 2024. [[paper](https://arxiv.org/abs/2407.01392)][[official-code](https://github.com/buoyancy99/diffusion-forcing)]
   
 
 ### Imputation
@@ -401,7 +403,7 @@ We will continue to update this list with the newest resources. If you find any 
 * Adversarial Purification for Data-Driven Power System Event Classifiers with Diffusion Models, in *ArXiv* 2023. [[paper](https://arxiv.org/abs/2311.07110)]
 
 
-## Diffusion Model for SpatioTemporal Data
+## Diffusion Model for Spatio-Temporal Data
 
 * Spatio-temporal Diffusion Point Processes, in *KDD* 2023. [[paper](https://arxiv.org/abs/2305.12403)] [[official-code](https://github.com/tsinghua-fib-lab/Spatio-temporal-Diffusion-Point-Processes)]
 
@@ -453,6 +455,8 @@ We will continue to update this list with the newest resources. If you find any 
 
 * DSDRec: Next POI recommendation using deep semantic extraction and diffusion model, in *Information Sciences* 2024. [[paper](https://www.sciencedirect.com/science/article/pii/S0020025524009186)]
 
+* Latent Diffusion Model for Generating Ensembles of Climate Simulations, in *ICML workshop* 2024. [[paper](https://arxiv.org/abs/2407.02070)]
+
 * SRNDiff: Short-term Rainfall Nowcasting with Condition Diffusion Model, in *ArXiv* 2024. [[paper](https://arxiv.org/abs/2402.13737)]
 
 * Intention-aware Denoising Diffusion Model for Trajectory Prediction, in *ArXiv* 2024. [[paper](https://arxiv.org/pdf/2403.09190)]
@@ -474,6 +478,8 @@ We will continue to update this list with the newest resources. If you find any 
 * Crossfusor: A Cross-Attention Transformer Enhanced Conditional Diffusion Model for Car-Following Trajectory Prediction, in *ArXiv* 2024. [[paper](https://arxiv.org/pdf/2406.11941)]
 
 * Deep Temporal Deaggregation: Large-Scale Spatio-Temporal Generative Models, in *ArXiv* 2024. [[paper](https://arxiv.org/pdf/2406.12423)]
+
+* Spatio-Temporal Adaptive Diffusion Models for EEG Super-Resolution in Epilepsy Diagnosis, in *ArXiv* 2024. [[paper](https://arxiv.org/abs/2407.03089)]
 
   
 ## Diffusion Model for Tabular Data
@@ -591,6 +597,8 @@ We will continue to update this list with the newest resources. If you find any 
 * Guided Discrete Diffusion for Electronic Health Record Generation, in *ArXiv* 2024. [[paper](https://arxiv.org/pdf/2404.12314)]
 
 * Synthesizing Multimodal Electronic Health Records via Predictive Diffusion Models, in *ArXiv* 2024. [[paper](https://arxiv.org/pdf/2406.13942)]
+
+* Spatio-Temporal Adaptive Diffusion Models for EEG Super-Resolution in Epilepsy Diagnosis, in *ArXiv* 2024. [[paper](https://arxiv.org/abs/2407.03089)]
   
   
 ### Sequential Recommendation
@@ -635,6 +643,8 @@ We will continue to update this list with the newest resources. If you find any 
 * WiREDiff: a Wind Resolution-Enhancing Diffusion Model, in *Working Paper* 2023. [[link](https://rupakv.com/wirediff.html#:~:text=WiREDiff%20is%20a%20novel%20application,interval%20of%20predicted%20wind%20velocities.)] [[paper](https://rupakv.com/pdfs/wirediff_report.pdf)] [[official-code](https://github.com/RupaKurinchiVendhan/WiREDiff)]
 
 * STFDiff: Remote sensing image spatiotemporal fusion with diffusion models, in *Information Fusion* 2024. [[paper](https://www.sciencedirect.com/science/article/pii/S1566253524002835)]
+
+* Latent Diffusion Model for Generating Ensembles of Climate Simulations, in *ICML workshop* 2024. [[paper](https://arxiv.org/abs/2407.02070)]
 
 * DiffDA: a diffusion model for weather-scale data assimilation, in *ArXiv* 2024. [[paper](https://arxiv.org/abs/2401.05932)]
 
