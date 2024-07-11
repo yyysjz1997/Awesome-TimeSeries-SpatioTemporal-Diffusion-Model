@@ -59,6 +59,7 @@ We will continue to update this list with the newest resources. If you find any 
     - [Classification and Regression](#classification-and-regression)
     - [Causal Inference](#causal-inference)
     - [Event Prediction and Classification](#event-prediction-and-classification)
+    - [Foundation Model](#foundation-model)
   - [Diffusion Model for SpatioTemporal Data](#diffusion-model-for-spatiotemporal-data)
   - [Diffusion Model for Tabular Data](#diffusion-model-for-tabular-data)
   - [Applications](#applications)
@@ -249,6 +250,12 @@ We will continue to update this list with the newest resources. If you find any 
 
 * Multivariate Time-series Diffusion Model-based Generation of Transient Trajectories for Power System Applications, in *IEEE/PES Transmission and Distribution Conference and Exposition (T&D)* 2024. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10556088)]
 
+* SeisResoDiff: Seismic resolution enhancement based on a diffusion model, in *Petroleum Science* 2024. [[paper](https://www.sciencedirect.com/science/article/pii/S1995822624001869)]
+
+* Enabling Diffusion Model for Conditioned Time Series Generation, in *Engineering Proceedings* 2024. [[paper](https://www.mdpi.com/2673-4591/68/1/25)]
+
+* Learning Joint 2-D and 3-D Graph Diffusion Models for Complete Molecule Generation, in *IEEE Transactions on Neural Networks and Learning Systems* 2024. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10589299)]
+
 * Synthesizing EEG Signals from Event-Related Potential Paradigms with Conditional Diffusion Models, in *ArXiv* 2024. [[paper](https://arxiv.org/pdf/2403.18486)]
 
 * Creating synthetic energy meter data using conditional diffusion and building metadata, in *ArXiv* 2024. [[paper](https://arxiv.org/pdf/2404.00525v1)] [[official-code](https://github.com/buds-lab/energy-diffusion)]
@@ -280,6 +287,8 @@ We will continue to update this list with the newest resources. If you find any 
 * TimeAutoDiff: Combining Autoencoder and Diffusion model for time series tabular data synthesizing, in *ArXiv* 2024. [[paper](https://arxiv.org/pdf/2406.16028)]
 
 * Diffusion Forcing: Next-token Prediction Meets Full-Sequence Diffusion, in *ArXiv* 2024. [[paper](https://arxiv.org/abs/2407.01392)][[official-code](https://github.com/buoyancy99/diffusion-forcing)]
+
+* TimeLDM: Latent Diffusion Model for Unconditional Time Series Generation, in *ArXiv* 2024. [[paper](https://arxiv.org/pdf/2407.04211)]
   
 
 ### Imputation
@@ -359,6 +368,8 @@ We will continue to update this list with the newest resources. If you find any 
 
 * Reconstruction-Based Anomaly Detection in Wind Turbine Operation Time Series Using Generative Models, in *Advances in Artificial Intelligence* 2024. [[paper](https://link.springer.com/chapter/10.1007/978-3-031-62799-6_20)]
 
+* Unsupervised diffusion based anomaly detection for time series, in *Applied Intelligence* 2024. [[paper](https://link.springer.com/article/10.1007/s10489-024-05341-0)]
+
 
 ### Classification and Regression
 
@@ -401,6 +412,11 @@ We will continue to update this list with the newest resources. If you find any 
 * Add and Thin: Diffusion for Temporal Point Processes, in *ArXiv* 2023. [[paper](https://arxiv.org/abs/2311.01139)] [[official-code](https://www.cs.cit.tum.de/daml/add-thin/)]
 
 * Adversarial Purification for Data-Driven Power System Event Classifiers with Diffusion Models, in *ArXiv* 2023. [[paper](https://arxiv.org/abs/2311.07110)]
+
+
+### Foundation Model
+
+* TimeDiT: General-purpose Diffusion Transformers for Time Series Foundation Model, in *OpenReview* 2024. [[paper](https://openreview.net/pdf?id=DA36Myd4HD)]
 
 
 ## Diffusion Model for Spatio-Temporal Data
@@ -520,6 +536,8 @@ We will continue to update this list with the newest resources. If you find any 
 
 * Rethinking the Diffusion Models for Numerical Tabular Data Imputation from the Perspective of Wasserstein Gradient Flow, in *ArXiv* 2024. [[paper](https://arxiv.org/pdf/2406.15762)]
 
+* Estimating Probability Densities of Tabular Data using a Transformer Model combined with Denoising Diffusion, in *OpenReview* 2024. [[paper](https://openreview.net/pdf?id=hLQnN3frL2)]
+
 
 
 ## Applications
@@ -589,6 +607,8 @@ We will continue to update this list with the newest resources. If you find any 
 * SADI: Similarity-Aware Diffusion Model-Based Imputation for Incomplete Temporal EHR Data, in *International Conference on Artificial Intelligence and Statistics* 2024. [[paper](https://proceedings.mlr.press/v238/dai24c.html)]
 
 * Fingerprinting in EEG Model IP Protection Using Diffusion Model, in *ICMR* 2024. [[paper](https://dl.acm.org/doi/abs/10.1145/3652583.3658057)]
+
+* Learning Joint 2-D and 3-D Graph Diffusion Models for Complete Molecule Generation, in *IEEE Transactions on Neural Networks and Learning Systems* 2024. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10589299)]
 
 * BioDiffusion: A Versatile Diffusion Model for Biomedical Signal Synthesis, in *ArXiv* 2024. [[paper](https://arxiv.org/abs/2401.10282)][[official-code](https://github.com/imics-lab/biodiffusion)]
 
@@ -750,6 +770,8 @@ We will continue to update this list with the newest resources. If you find any 
 * Comparative Analysis of TEC Prediction Models During Geomagnetic Storm and Quiet Conditions Using Diffusion, Transformer, and SARIMA, 2024. [[paper](https://essopenarchive.org/doi/full/10.22541/essoar.171291801.18571788/v1)]
 
 * A diffusion model-based framework USDDM for random noise elimination of seismic signal, in *Earth Science Informatics* 2024. [[paper](https://link.springer.com/article/10.1007/s12145-024-01333-3)]
+
+* SeisResoDiff: Seismic resolution enhancement based on a diffusion model, in *Petroleum Science* 2024. [[paper](https://www.sciencedirect.com/science/article/pii/S1995822624001869)]
 
 
 ### Traffic
