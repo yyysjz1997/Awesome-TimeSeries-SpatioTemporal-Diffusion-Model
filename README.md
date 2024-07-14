@@ -256,6 +256,10 @@ We will continue to update this list with the newest resources. If you find any 
 
 * Learning Joint 2-D and 3-D Graph Diffusion Models for Complete Molecule Generation, in *IEEE Transactions on Neural Networks and Learning Systems* 2024. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10589299)]
 
+* DiffusionLSTM: A Framework for Image Sequence Generation and its Application to Oil Spill Monitoring and Prediction, in *IEEE Transactions on Geoscience and Remote Sensing* 2024. [[paper](https://ieeexplore.ieee.org/abstract/document/10589663/)]
+
+* Parameter sharing fault data generation method based on diffusion model under imbalance data, in *Measurement Science and Technology* 2024. [[paper](https://iopscience.iop.org/article/10.1088/1361-6501/ad5de9)]
+
 * Synthesizing EEG Signals from Event-Related Potential Paradigms with Conditional Diffusion Models, in *ArXiv* 2024. [[paper](https://arxiv.org/pdf/2403.18486)]
 
 * Creating synthetic energy meter data using conditional diffusion and building metadata, in *ArXiv* 2024. [[paper](https://arxiv.org/pdf/2404.00525v1)] [[official-code](https://github.com/buds-lab/energy-diffusion)]
@@ -703,6 +707,8 @@ We will continue to update this list with the newest resources. If you find any 
 
 * Denoising Diffusion Straightforward Models for Energy Conversion Monitoring Data Imputation, in *IEEE Transactions on Industrial Informatics* 2024. [[paper](https://ieeexplore.ieee.org/abstract/document/10568989)]
 
+* DiffusionLSTM: A Framework for Image Sequence Generation and its Application to Oil Spill Monitoring and Prediction, in *IEEE Transactions on Geoscience and Remote Sensing* 2024. [[paper](https://ieeexplore.ieee.org/abstract/document/10589663/)]
+
 * DiffPLF: A Conditional Diffusion Model for Probabilistic Forecasting of EV Charging Load, in *ArXiv* 2024. [[paper](https://arxiv.org/abs/2402.13548)] [[official-code](https://github.com/LSY-Cython/DiffPLF)]
 
 * Creating synthetic energy meter data using conditional diffusion and building metadata, in *ArXiv* 2024. [[paper](https://arxiv.org/pdf/2404.00525v1)] [[official-code](https://github.com/buds-lab/energy-diffusion)]
@@ -830,7 +836,9 @@ We will continue to update this list with the newest resources. If you find any 
 * Diffusion Generative Model-Based Learning for Smart Layer-Wise Monitoring of Additive Manufacturing, in *J. Comput. Inf. Sci. Eng.* 2024. [[paper](https://asmedigitalcollection.asme.org/computingengineering/article-abstract/24/6/060903/1198720/Diffusion-Generative-Model-Based-Learning-for?redirectedFrom=PDF)]
 
 * Reconstruction-Based Anomaly Detection in Wind Turbine Operation Time Series Using Generative Models, in *Advances in Artificial Intelligence* 2024. [[paper](https://link.springer.com/chapter/10.1007/978-3-031-62799-6_20)]
-  
+
+* Parameter sharing fault data generation method based on diffusion model under imbalance data, in *Measurement Science and Technology* 2024. [[paper](https://iopscience.iop.org/article/10.1088/1361-6501/ad5de9)]
+
 
 ### Audio
 
