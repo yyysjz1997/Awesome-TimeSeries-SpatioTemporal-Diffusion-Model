@@ -439,7 +439,7 @@ We will continue to update this list with the newest resources. If you find any 
 
 * DiffTraj: Generating GPS Trajectory with Diffusion Probabilistic Model, in *NeurIPS* 2023. [[paper](https://arxiv.org/abs/2304.11582)] [[official-code](https://github.com/Yasoz/DiffTraj)]
 
-* ControlTraj: Controllable Trajectory Generation with Topology-Constrained Diffusion Model, in *ArXiv* 2024. [[paper](https://arxiv.org/pdf/2404.15380)]  [[official-code](https://github.com/aimiokab/MISR-S2)]
+* ControlTraj: Controllable Trajectory Generation with Topology-Constrained Diffusion Model, in *ArXiv* 2024. [[paper](https://arxiv.org/pdf/2404.15380)]
   
 * Diff-RNTraj: A Structure-aware Diffusion Model for Road Network-constrained Trajectory Generation, in *ArXiv* 2024. [[paper](https://arxiv.org/pdf/2402.07369)]
 
