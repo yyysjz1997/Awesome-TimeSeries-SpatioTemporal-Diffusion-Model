@@ -293,6 +293,14 @@ We will continue to update this list with the newest resources. If you find any 
 * Diffusion Forcing: Next-token Prediction Meets Full-Sequence Diffusion, in *ArXiv* 2024. [[paper](https://arxiv.org/abs/2407.01392)][[official-code](https://github.com/buoyancy99/diffusion-forcing)]
 
 * TimeLDM: Latent Diffusion Model for Unconditional Time Series Generation, in *ArXiv* 2024. [[paper](https://arxiv.org/pdf/2407.04211)]
+
+* Latent Diffusion for Neural Spiking Data, in *ArXiv* 2024. [[paper](https://arxiv.org/pdf/2407.08751)][[official-code](https://github.com/mackelab/LDNS)]
+
+* Diff-MTS: Temporal-Augmented Conditional Diffusion-based AIGC for Industrial Time Series Towards the Large Model Era, in *ArXiv* 2024. [[paper](https://arxiv.org/pdf/2407.11501)]
+
+* SSSD-ECG-nle: New Label Embeddings with Structured State-Space Models for ECG generation, in *ArXiv* 2024. [[paper](https://arxiv.org/pdf/2407.11108)][[official-code](https://github.com/ispras/EcgLib)]
+
+* EnergyDiff: Universal Time-Series Energy Data Generation using Diffusion Models, in *ArXiv* 2024. [[paper](https://arxiv.org/pdf/2407.13538)]
   
 
 ### Imputation
@@ -326,6 +334,8 @@ We will continue to update this list with the newest resources. If you find any 
 * Probabilistic Time Series Modeling with Decomposable Denoising Diffusion Model, in *ICML* 2024. [[paper](https://openreview.net/pdf?id=BNH8spaR3l)]
 
 * Denoising Diffusion Straightforward Models for Energy Conversion Monitoring Data Imputation, in *IEEE Transactions on Industrial Informatics* 2024. [[paper](https://ieeexplore.ieee.org/abstract/document/10568989)]
+
+* Filling of Fetal Heart Rate Signal: Diffusion Model Based on Dimension Construction and Period Segmentation, in *IEEE Transactions on Consumer Electronics* 2024. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10591727)]
 
 * DiffsFormer: A Diffusion Transformer on Stock Factor Augmentation, in *ArXiv* 2024. [[paper](https://arxiv.org/abs/2402.06656v1)]
 
@@ -374,6 +384,8 @@ We will continue to update this list with the newest resources. If you find any 
 
 * Unsupervised diffusion based anomaly detection for time series, in *Applied Intelligence* 2024. [[paper](https://link.springer.com/article/10.1007/s10489-024-05341-0)]
 
+* Attention-enhanced conditional-diffusion-based data synthesis for data augmentation in machine fault diagnosis, in *Engineering Applications of Artificial Intelligence* 2024. [[paper](https://dl.acm.org/doi/abs/10.1016/j.engappai.2023.107696)]
+
 
 ### Classification and Regression
 
@@ -396,6 +408,8 @@ We will continue to update this list with the newest resources. If you find any 
 * Evaluating Diffusion Models for the Automation of Ultrasonic Nondestructive Evaluation Data Analysis, in *Algorithms* 2024. [[paper](https://www.mdpi.com/1999-4893/17/4/167)]
 
 * Fingerprinting in EEG Model IP Protection Using Diffusion Model, in *ICMR* 2024. [[paper](https://dl.acm.org/doi/abs/10.1145/3652583.3658057)]
+
+* Diffusion Model-Based Contrastive Learning for Human Activity Recognition, in *IEEE Internet of Things Journal* 2024. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10599540)] [[official-code](https://github.com/ChunjingXiao/CLAR)]
 
 * CausalConceptTS: Causal Attributions for Time Series Classification using High Fidelity Diffusion Models, in *ArXiv* 2024. [[paper](https://arxiv.org/abs/2405.15871)] [[official-code](https://github.com/ai4healthuol/causalconceptts)]
 
@@ -476,6 +490,8 @@ We will continue to update this list with the newest resources. If you find any 
 * DSDRec: Next POI recommendation using deep semantic extraction and diffusion model, in *Information Sciences* 2024. [[paper](https://www.sciencedirect.com/science/article/pii/S0020025524009186)]
 
 * Latent Diffusion Model for Generating Ensembles of Climate Simulations, in *ICML workshop* 2024. [[paper](https://arxiv.org/abs/2407.02070)]
+
+* Diffusion probabilistic model for bike-sharing demand recovery with factual knowledge fusion, in *Neural Networks* 2024. [[paper](https://www.sciencedirect.com/science/article/pii/S0893608024004623)]
 
 * SRNDiff: Short-term Rainfall Nowcasting with Condition Diffusion Model, in *ArXiv* 2024. [[paper](https://arxiv.org/abs/2402.13737)]
 
@@ -614,6 +630,8 @@ We will continue to update this list with the newest resources. If you find any 
 
 * Learning Joint 2-D and 3-D Graph Diffusion Models for Complete Molecule Generation, in *IEEE Transactions on Neural Networks and Learning Systems* 2024. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10589299)]
 
+* Filling of Fetal Heart Rate Signal: Diffusion Model Based on Dimension Construction and Period Segmentation, in *IEEE Transactions on Consumer Electronics* 2024. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10591727)]
+
 * BioDiffusion: A Versatile Diffusion Model for Biomedical Signal Synthesis, in *ArXiv* 2024. [[paper](https://arxiv.org/abs/2401.10282)][[official-code](https://github.com/imics-lab/biodiffusion)]
 
 * Synthesizing EEG Signals from Event-Related Potential Paradigms with Conditional Diffusion Models, in *ArXiv* 2024. [[paper](https://arxiv.org/pdf/2403.18486)]
@@ -623,6 +641,8 @@ We will continue to update this list with the newest resources. If you find any 
 * Synthesizing Multimodal Electronic Health Records via Predictive Diffusion Models, in *ArXiv* 2024. [[paper](https://arxiv.org/pdf/2406.13942)]
 
 * Spatio-Temporal Adaptive Diffusion Models for EEG Super-Resolution in Epilepsy Diagnosis, in *ArXiv* 2024. [[paper](https://arxiv.org/abs/2407.03089)]
+
+* SSSD-ECG-nle: New Label Embeddings with Structured State-Space Models for ECG generation, in *ArXiv* 2024. [[paper](https://arxiv.org/pdf/2407.11108)][[official-code](https://github.com/ispras/EcgLib)]
   
   
 ### Sequential Recommendation
@@ -715,6 +735,8 @@ We will continue to update this list with the newest resources. If you find any 
 
 * Generating Synthetic Net Load Data with Physics-informed Diffusion Model, in *ArXiv* 2024. [[paper](https://arxiv.org/pdf/2406.01913)]
 
+* EnergyDiff: Universal Time-Series Energy Data Generation using Diffusion Models, in *ArXiv* 2024. [[paper](https://arxiv.org/pdf/2407.13538)]
+
 
 ### Math and Physics
 
@@ -798,6 +820,8 @@ We will continue to update this list with the newest resources. If you find any 
 
 * DSDRec: Next POI recommendation using deep semantic extraction and diffusion model, in *Information Sciences* 2024. [[paper](https://www.sciencedirect.com/science/article/pii/S0020025524009186)]
 
+* Diffusion probabilistic model for bike-sharing demand recovery with factual knowledge fusion, in *Neural Networks* 2024. [[paper](https://www.sciencedirect.com/science/article/pii/S0893608024004623)]
+
 * SpecSTG: A Fast Spectral Diffusion Framework for Probabilistic Spatio-Temporal Traffic Forecasting, in *ArXiv* 2024. [[paper](https://arxiv.org/abs/2401.08119)] [[official-code](https://anonymous.4open.science/r/SpecSTG/)]
   
 * Intention-aware Denoising Diffusion Model for Trajectory Prediction, in *ArXiv* 2024. [[paper](https://arxiv.org/pdf/2403.09190)]
@@ -839,6 +863,10 @@ We will continue to update this list with the newest resources. If you find any 
 
 * Parameter sharing fault data generation method based on diffusion model under imbalance data, in *Measurement Science and Technology* 2024. [[paper](https://iopscience.iop.org/article/10.1088/1361-6501/ad5de9)]
 
+* Attention-enhanced conditional-diffusion-based data synthesis for data augmentation in machine fault diagnosis, in *Engineering Applications of Artificial Intelligence* 2024. [[paper](https://dl.acm.org/doi/abs/10.1016/j.engappai.2023.107696)]
+
+* Diff-MTS: Temporal-Augmented Conditional Diffusion-based AIGC for Industrial Time Series Towards the Large Model Era, in *ArXiv* 2024. [[paper](https://arxiv.org/pdf/2407.11501)]
+
 
 ### Audio
 
@@ -875,6 +903,8 @@ We will continue to update this list with the newest resources. If you find any 
 ### Biology
 
 * Generation of synthetic whole-slide image tiles of tumours from RNA-sequencing data via cascaded diffusion models, in *Nature Biomedical Engineering* 2024. [[paper](https://www.nature.com/articles/s41551-024-01193-8#peer-review)] [[official-code](https://rna-cdm.stanford.edu/Download_Code)]
+
+* Latent Diffusion for Neural Spiking Data, in *ArXiv* 2024. [[paper](https://arxiv.org/pdf/2407.08751)][[official-code](https://github.com/mackelab/LDNS)]
 
 
 
