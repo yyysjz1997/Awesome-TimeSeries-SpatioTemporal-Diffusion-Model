@@ -264,6 +264,10 @@ We will continue to update this list with the newest resources. If you find any 
 
 * Combining audio control and style transfer using latent diffusion, in *ISMIR* 2024. [[paper](https://arxiv.org/pdf/2408.00196)] [[official-code](https://github.com/NilsDem/control-transfer-diffusion/)]
 
+* DiffPhys: Enhancing Signal-to-Noise Ratio in Remote Photoplethysmography Signal Using a Diffusion Model Approach, in *Bioengineering* 2024. [[paper](https://www.mdpi.com/2306-5354/11/8/743)
+
+* Data augmentation based on diffusion probabilistic model for remaining useful life estimation of aero-engines, in *Reliability Engineering and System Safety* 2024. [[paper](https://www.sciencedirect.com/science/article/pii/S0951832024004666)
+
 * Synthesizing EEG Signals from Event-Related Potential Paradigms with Conditional Diffusion Models, in *ArXiv* 2024. [[paper](https://arxiv.org/pdf/2403.18486)]
 
 * Creating synthetic energy meter data using conditional diffusion and building metadata, in *ArXiv* 2024. [[paper](https://arxiv.org/pdf/2404.00525v1)] [[official-code](https://github.com/buds-lab/energy-diffusion)]
@@ -652,6 +656,8 @@ We will continue to update this list with the newest resources. If you find any 
 
 * Synthesizing EEG Signals from Event-Related Potential Paradigms with Conditional Diffusion Models, in *ArXiv* 2024. [[paper](https://arxiv.org/pdf/2403.18486)]
 
+* DiffPhys: Enhancing Signal-to-Noise Ratio in Remote Photoplethysmography Signal Using a Diffusion Model Approach, in *Bioengineering* 2024. [[paper](https://www.mdpi.com/2306-5354/11/8/743)
+
 * Guided Discrete Diffusion for Electronic Health Record Generation, in *ArXiv* 2024. [[paper](https://arxiv.org/pdf/2404.12314)]
 
 * Synthesizing Multimodal Electronic Health Records via Predictive Diffusion Models, in *ArXiv* 2024. [[paper](https://arxiv.org/pdf/2406.13942)]
@@ -890,6 +896,8 @@ We will continue to update this list with the newest resources. If you find any 
 * Attention-enhanced conditional-diffusion-based data synthesis for data augmentation in machine fault diagnosis, in *Engineering Applications of Artificial Intelligence* 2024. [[paper](https://dl.acm.org/doi/abs/10.1016/j.engappai.2023.107696)]
 
 * DF-CDM: Conditional diffusion model with data fusion for structural dynamic response reconstruction, in *Mechanical Systems and Signal Processing* 2024. [[paper](https://www.sciencedirect.com/science/article/pii/S0888327024006812)]
+
+* Data augmentation based on diffusion probabilistic model for remaining useful life estimation of aero-engines, in *Reliability Engineering and System Safety* 2024. [[paper](https://www.sciencedirect.com/science/article/pii/S0951832024004666)
 
 * Diff-MTS: Temporal-Augmented Conditional Diffusion-based AIGC for Industrial Time Series Towards the Large Model Era, in *ArXiv* 2024. [[paper](https://arxiv.org/pdf/2407.11501)]
 
