@@ -262,6 +262,8 @@ We will continue to update this list with the newest resources. If you find any 
 
 * DF-CDM: Conditional diffusion model with data fusion for structural dynamic response reconstruction, in *Mechanical Systems and Signal Processing* 2024. [[paper](https://www.sciencedirect.com/science/article/pii/S0888327024006812)]
 
+* Combining audio control and style transfer using latent diffusion, in *ISMIR* 2024. [[paper](https://arxiv.org/pdf/2408.00196)] [[official-code](https://github.com/NilsDem/control-transfer-diffusion/)]
+
 * Synthesizing EEG Signals from Event-Related Potential Paradigms with Conditional Diffusion Models, in *ArXiv* 2024. [[paper](https://arxiv.org/pdf/2403.18486)]
 
 * Creating synthetic energy meter data using conditional diffusion and building metadata, in *ArXiv* 2024. [[paper](https://arxiv.org/pdf/2404.00525v1)] [[official-code](https://github.com/buds-lab/energy-diffusion)]
@@ -338,6 +340,8 @@ We will continue to update this list with the newest resources. If you find any 
 * Denoising Diffusion Straightforward Models for Energy Conversion Monitoring Data Imputation, in *IEEE Transactions on Industrial Informatics* 2024. [[paper](https://ieeexplore.ieee.org/abstract/document/10568989)]
 
 * Filling of Fetal Heart Rate Signal: Diffusion Model Based on Dimension Construction and Period Segmentation, in *IEEE Transactions on Consumer Electronics* 2024. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10591727)]
+
+* MTSCI: A Conditional Diffusion Model for Multivariate Time Series Consistent Imputation, in *CIKM* 2024. [[paper](https://arxiv.org/pdf/2408.05740)] [[official-code](https://github.com/JeremyChou28/MTSCI)]
 
 * DiffsFormer: A Diffusion Transformer on Stock Factor Augmentation, in *ArXiv* 2024. [[paper](https://arxiv.org/abs/2402.06656v1)]
 
@@ -642,6 +646,8 @@ We will continue to update this list with the newest resources. If you find any 
 
 * Filling of Fetal Heart Rate Signal: Diffusion Model Based on Dimension Construction and Period Segmentation, in *IEEE Transactions on Consumer Electronics* 2024. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10591727)]
 
+* Diffusion based comprehensive approach for highly contaminated electrocardiogram segmentation, in *Biomedical Signal Processing and Control* 2024. [[paper](https://www.sciencedirect.com/science/article/pii/S1746809424007511)]
+
 * BioDiffusion: A Versatile Diffusion Model for Biomedical Signal Synthesis, in *ArXiv* 2024. [[paper](https://arxiv.org/abs/2401.10282)][[official-code](https://github.com/imics-lab/biodiffusion)]
 
 * Synthesizing EEG Signals from Event-Related Potential Paradigms with Conditional Diffusion Models, in *ArXiv* 2024. [[paper](https://arxiv.org/pdf/2403.18486)]
@@ -918,7 +924,10 @@ We will continue to update this list with the newest resources. If you find any 
 
 * Pre-training Feature Guided Diffusion Model for Speech Enhancement, in *Interspeech* 2024. [[paper](https://arxiv.org/abs/2406.07646)]
 
-* Long-form music generation with latent diffusion, in *ArXiv* 2024. [[paper](https://arxiv.org/pdf/2404.10301)] [[official-code](https://github.com/Stability-AI/stable-audio-tools/)]
+* Combining audio control and style transfer using latent diffusion, in *ISMIR* 2024. [[paper](https://arxiv.org/pdf/2408.00196)] [[official-code](https://github.com/NilsDem/control-transfer-diffusion/)]
+
+* Long-form music generation with latent diffusion, in *ArXiv* 2024. [[paper](https://arxiv.org/pdf/2404.10301)] [[official-code](https://github.com/Stability-AI/stable-audio-tools/)] 
+
 
 ### Biology
 
