@@ -493,6 +493,8 @@ We will continue to update this list with the newest resources. If you find any 
 
 * Diffusion probabilistic model for bike-sharing demand recovery with factual knowledge fusion, in *Neural Networks* 2024. [[paper](https://www.sciencedirect.com/science/article/pii/S0893608024004623)]
 
+* A conditional diffusion model for probabilistic estimation of traffic states at sensor-free locations, in *Transportation Research Part C* 2024. [[paper](https://www.sciencedirect.com/science/article/pii/S0968090X2400319X)]
+
 * SRNDiff: Short-term Rainfall Nowcasting with Condition Diffusion Model, in *ArXiv* 2024. [[paper](https://arxiv.org/abs/2402.13737)]
 
 * Intention-aware Denoising Diffusion Model for Trajectory Prediction, in *ArXiv* 2024. [[paper](https://arxiv.org/pdf/2403.09190)]
@@ -516,6 +518,8 @@ We will continue to update this list with the newest resources. If you find any 
 * Deep Temporal Deaggregation: Large-Scale Spatio-Temporal Generative Models, in *ArXiv* 2024. [[paper](https://arxiv.org/pdf/2406.12423)]
 
 * Spatio-Temporal Adaptive Diffusion Models for EEG Super-Resolution in Epilepsy Diagnosis, in *ArXiv* 2024. [[paper](https://arxiv.org/abs/2407.03089)]
+
+* Map2Traj: Street Map Piloted Zero-shot Trajectory Generation with Diffusion Model, in *ArXiv* 2024. [[paper](https://arxiv.org/pdf/2407.19765)]
 
   
 ## Diffusion Model for Tabular Data
@@ -822,6 +826,8 @@ We will continue to update this list with the newest resources. If you find any 
 
 * Diffusion probabilistic model for bike-sharing demand recovery with factual knowledge fusion, in *Neural Networks* 2024. [[paper](https://www.sciencedirect.com/science/article/pii/S0893608024004623)]
 
+* A conditional diffusion model for probabilistic estimation of traffic states at sensor-free locations, in *Transportation Research Part C* 2024. [[paper](https://www.sciencedirect.com/science/article/pii/S0968090X2400319X)]
+
 * SpecSTG: A Fast Spectral Diffusion Framework for Probabilistic Spatio-Temporal Traffic Forecasting, in *ArXiv* 2024. [[paper](https://arxiv.org/abs/2401.08119)] [[official-code](https://anonymous.4open.science/r/SpecSTG/)]
   
 * Intention-aware Denoising Diffusion Model for Trajectory Prediction, in *ArXiv* 2024. [[paper](https://arxiv.org/pdf/2403.09190)]
@@ -833,6 +839,8 @@ We will continue to update this list with the newest resources. If you find any 
 * SatDiffMoE: A Mixture of Estimation Method for Satellite Image Super-resolution with Latent Diffusion Models, in *ArXiv* 2024. [[paper](https://arxiv.org/pdf/2406.10225)]
 
 * Crossfusor: A Cross-Attention Transformer Enhanced Conditional Diffusion Model for Car-Following Trajectory Prediction, in *ArXiv* 2024. [[paper](https://arxiv.org/pdf/2406.11941)]
+
+* Map2Traj: Street Map Piloted Zero-shot Trajectory Generation with Diffusion Model, in *ArXiv* 2024. [[paper](https://arxiv.org/pdf/2407.19765)]
 
 
 ### Manufacturing
