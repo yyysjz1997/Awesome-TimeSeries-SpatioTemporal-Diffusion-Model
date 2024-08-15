@@ -260,6 +260,8 @@ We will continue to update this list with the newest resources. If you find any 
 
 * Parameter sharing fault data generation method based on diffusion model under imbalance data, in *Measurement Science and Technology* 2024. [[paper](https://iopscience.iop.org/article/10.1088/1361-6501/ad5de9)]
 
+* DF-CDM: Conditional diffusion model with data fusion for structural dynamic response reconstruction, in *Mechanical Systems and Signal Processing* 2024. [[paper](https://www.sciencedirect.com/science/article/pii/S0888327024006812)]
+
 * Synthesizing EEG Signals from Event-Related Potential Paradigms with Conditional Diffusion Models, in *ArXiv* 2024. [[paper](https://arxiv.org/pdf/2403.18486)]
 
 * Creating synthetic energy meter data using conditional diffusion and building metadata, in *ArXiv* 2024. [[paper](https://arxiv.org/pdf/2404.00525v1)] [[official-code](https://github.com/buds-lab/energy-diffusion)]
@@ -386,6 +388,8 @@ We will continue to update this list with the newest resources. If you find any 
 
 * Attention-enhanced conditional-diffusion-based data synthesis for data augmentation in machine fault diagnosis, in *Engineering Applications of Artificial Intelligence* 2024. [[paper](https://dl.acm.org/doi/abs/10.1016/j.engappai.2023.107696)]
 
+* Dynamic Splitting of Diffusion Models for Multivariate Time Series Anomaly Detection in a JointCloud Environment, in *Knowledge Science, Engineering and Management* 2024. [[paper](https://link.springer.com/chapter/10.1007/978-981-97-5498-4_3)]
+
 
 ### Classification and Regression
 
@@ -412,6 +416,8 @@ We will continue to update this list with the newest resources. If you find any 
 * Diffusion Model-Based Contrastive Learning for Human Activity Recognition, in *IEEE Internet of Things Journal* 2024. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10599540)] [[official-code](https://github.com/ChunjingXiao/CLAR)]
 
 * CausalConceptTS: Causal Attributions for Time Series Classification using High Fidelity Diffusion Models, in *ArXiv* 2024. [[paper](https://arxiv.org/abs/2405.15871)] [[official-code](https://github.com/ai4healthuol/causalconceptts)]
+
+* Improving EEG Classification Through Randomly Reassembling Original and Generated Data with Transformer-based Diffusion Models, in *ArXiv* 2024. [[paper](https://arxiv.org/pdf/2407.20253)]
 
 
 ### Causal Inference
@@ -647,6 +653,8 @@ We will continue to update this list with the newest resources. If you find any 
 * Spatio-Temporal Adaptive Diffusion Models for EEG Super-Resolution in Epilepsy Diagnosis, in *ArXiv* 2024. [[paper](https://arxiv.org/abs/2407.03089)]
 
 * SSSD-ECG-nle: New Label Embeddings with Structured State-Space Models for ECG generation, in *ArXiv* 2024. [[paper](https://arxiv.org/pdf/2407.11108)][[official-code](https://github.com/ispras/EcgLib)]
+
+* Improving EEG Classification Through Randomly Reassembling Original and Generated Data with Transformer-based Diffusion Models, in *ArXiv* 2024. [[paper](https://arxiv.org/pdf/2407.20253)]
   
   
 ### Sequential Recommendation
@@ -782,6 +790,8 @@ We will continue to update this list with the newest resources. If you find any 
 
 * SOIL: Score Conditioned Diffusion Model for Imbalanced Cloud Failure Prediction, in *WWW* 2024. [[paper](https://dl.acm.org/doi/abs/10.1145/3589335.3648303)]
 
+* Dynamic Splitting of Diffusion Models for Multivariate Time Series Anomaly Detection in a JointCloud Environment, in *Knowledge Science, Engineering and Management* 2024. [[paper](https://link.springer.com/chapter/10.1007/978-981-97-5498-4_3)]
+
 
 ### Environment
 
@@ -872,6 +882,8 @@ We will continue to update this list with the newest resources. If you find any 
 * Parameter sharing fault data generation method based on diffusion model under imbalance data, in *Measurement Science and Technology* 2024. [[paper](https://iopscience.iop.org/article/10.1088/1361-6501/ad5de9)]
 
 * Attention-enhanced conditional-diffusion-based data synthesis for data augmentation in machine fault diagnosis, in *Engineering Applications of Artificial Intelligence* 2024. [[paper](https://dl.acm.org/doi/abs/10.1016/j.engappai.2023.107696)]
+
+* DF-CDM: Conditional diffusion model with data fusion for structural dynamic response reconstruction, in *Mechanical Systems and Signal Processing* 2024. [[paper](https://www.sciencedirect.com/science/article/pii/S0888327024006812)]
 
 * Diff-MTS: Temporal-Augmented Conditional Diffusion-based AIGC for Industrial Time Series Towards the Large Model Era, in *ArXiv* 2024. [[paper](https://arxiv.org/pdf/2407.11501)]
 
