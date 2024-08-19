@@ -309,7 +309,9 @@ We will continue to update this list with the newest resources. If you find any 
 * SSSD-ECG-nle: New Label Embeddings with Structured State-Space Models for ECG generation, in *ArXiv* 2024. [[paper](https://arxiv.org/pdf/2407.11108)][[official-code](https://github.com/ispras/EcgLib)]
 
 * EnergyDiff: Universal Time-Series Energy Data Generation using Diffusion Models, in *ArXiv* 2024. [[paper](https://arxiv.org/pdf/2407.13538)]
-  
+
+* Unsupervised Blind Joint Dereverberation and Room Acoustics Estimation with Diffusion Models, in *ArXiv* 2024. [[paper](https://arxiv.org/pdf/2408.07472)][[official-code](https://github.com/sp-uhh/buddy)]
+
 
 ### Imputation
 
@@ -354,6 +356,8 @@ We will continue to update this list with the newest resources. If you find any 
 * Score-CDM: Score-Weighted Convolutional Diffusion Model for Multivariate Time Series Imputation, in *ArXiv* 2024. [[paper](https://arxiv.org/abs/2405.13075)]
 
 * Rethinking the Diffusion Models for Numerical Tabular Data Imputation from the Perspective of Wasserstein Gradient Flow, in *ArXiv* 2024. [[paper](https://arxiv.org/pdf/2406.15762)]
+
+* Pretrained-Guided Conditional Diffusion Models for Microbiome Data Analysis, in *ArXiv* 2024. [[paper](https://arxiv.org/pdf/2408.07709)][[official-code](https://github.com/wenwenmin/mbVDiT)]
 
 
 ### Anomaly Detection
@@ -934,7 +938,9 @@ We will continue to update this list with the newest resources. If you find any 
 
 * Combining audio control and style transfer using latent diffusion, in *ISMIR* 2024. [[paper](https://arxiv.org/pdf/2408.00196)] [[official-code](https://github.com/NilsDem/control-transfer-diffusion/)]
 
-* Long-form music generation with latent diffusion, in *ArXiv* 2024. [[paper](https://arxiv.org/pdf/2404.10301)] [[official-code](https://github.com/Stability-AI/stable-audio-tools/)] 
+* Long-form music generation with latent diffusion, in *ArXiv* 2024. [[paper](https://arxiv.org/pdf/2404.10301)] [[official-code](https://github.com/Stability-AI/stable-audio-tools/)]
+
+* Unsupervised Blind Joint Dereverberation and Room Acoustics Estimation with Diffusion Models, in *ArXiv* 2024. [[paper](https://arxiv.org/pdf/2408.07472)][[official-code](https://github.com/sp-uhh/buddy)]
 
 
 ### Biology
@@ -942,6 +948,8 @@ We will continue to update this list with the newest resources. If you find any 
 * Generation of synthetic whole-slide image tiles of tumours from RNA-sequencing data via cascaded diffusion models, in *Nature Biomedical Engineering* 2024. [[paper](https://www.nature.com/articles/s41551-024-01193-8#peer-review)] [[official-code](https://rna-cdm.stanford.edu/Download_Code)]
 
 * Latent Diffusion for Neural Spiking Data, in *ArXiv* 2024. [[paper](https://arxiv.org/pdf/2407.08751)][[official-code](https://github.com/mackelab/LDNS)]
+
+* Pretrained-Guided Conditional Diffusion Models for Microbiome Data Analysis, in *ArXiv* 2024. [[paper](https://arxiv.org/pdf/2408.07709)][[official-code](https://github.com/wenwenmin/mbVDiT)]
 
 
 
