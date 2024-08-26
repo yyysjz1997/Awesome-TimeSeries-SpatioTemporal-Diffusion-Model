@@ -269,6 +269,10 @@ We will continue to update this list with the newest resources. If you find any 
 
 * Data augmentation based on diffusion probabilistic model for remaining useful life estimation of aero-engines, in *Reliability Engineering and System Safety* 2024. [[paper](https://www.sciencedirect.com/science/article/pii/S0951832024004666)
 
+* ECGDiff: Conditional Diffusion Model for ECG Reconstruction from Doppler Signals, in *IEEE International Conference on Communications* 2024. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10622196)]
+
+* NetDiff: A Service-Guided Hierarchical Diffusion Model for Network Flow Trace Generation, in *https://dl.acm.org/doi/pdf/10.1145/3676870* 2024. [[paper](https://dl.acm.org/doi/pdf/10.1145/3676870)]
+
 * Synthesizing EEG Signals from Event-Related Potential Paradigms with Conditional Diffusion Models, in *ArXiv* 2024. [[paper](https://arxiv.org/pdf/2403.18486)]
 
 * Creating synthetic energy meter data using conditional diffusion and building metadata, in *ArXiv* 2024. [[paper](https://arxiv.org/pdf/2404.00525v1)] [[official-code](https://github.com/buds-lab/energy-diffusion)]
@@ -403,6 +407,8 @@ We will continue to update this list with the newest resources. If you find any 
 
 * Dynamic Splitting of Diffusion Models for Multivariate Time Series Anomaly Detection in a JointCloud Environment, in *Knowledge Science, Engineering and Management* 2024. [[paper](https://link.springer.com/chapter/10.1007/978-981-97-5498-4_3)]
 
+* Multi-source domain adaptation using diffusion denoising for bearing fault diagnosis under variable working conditions, in *Knowledge-Based Systems* 2024. [[paper](https://www.sciencedirect.com/science/article/pii/S095070512401030X)]
+
 
 ### Classification and Regression
 
@@ -514,6 +520,12 @@ We will continue to update this list with the newest resources. If you find any 
 
 * A conditional diffusion model for probabilistic estimation of traffic states at sensor-free locations, in *Transportation Research Part C* 2024. [[paper](https://www.sciencedirect.com/science/article/pii/S0968090X2400319X)]
 
+* Spacetime Separable Latent Diffusion Model with Intensity Structure Information for Precipitation Nowcasting, in *IEEE Transactions on Geoscience and Remote Sensing* 2024. [[paper](https://ieeexplore.ieee.org/abstract/document/10638096)] [[official-code](https://github.com/ybu-lxd/SISLDM-ISI)]
+
+* DifTraj: Diffusion Inspired by Intrinsic Intention and Extrinsic Interaction for Multi-Modal Trajectory Prediction, in *IJCAI* 2024. [[paper](https://www.ijcai.org/proceedings/2024/0125.pdf)]
+
+* CDSTraj: Characterized Diffusion and Spatial-Temporal Interaction Network for Trajectory Prediction in Autonomous Driving, in *IJCAI* 2024. [[paper](https://www.ijcai.org/proceedings/2024/0811.pdf)]
+
 * SRNDiff: Short-term Rainfall Nowcasting with Condition Diffusion Model, in *ArXiv* 2024. [[paper](https://arxiv.org/abs/2402.13737)]
 
 * Intention-aware Denoising Diffusion Model for Trajectory Prediction, in *ArXiv* 2024. [[paper](https://arxiv.org/pdf/2403.09190)]
@@ -539,6 +551,9 @@ We will continue to update this list with the newest resources. If you find any 
 * Spatio-Temporal Adaptive Diffusion Models for EEG Super-Resolution in Epilepsy Diagnosis, in *ArXiv* 2024. [[paper](https://arxiv.org/abs/2407.03089)]
 
 * Map2Traj: Street Map Piloted Zero-shot Trajectory Generation with Diffusion Model, in *ArXiv* 2024. [[paper](https://arxiv.org/pdf/2407.19765)]
+
+* RadioDiff: An Effective Generative Diffusion Model for Sampling-Free Dynamic Radio Map Construction, in *ArXiv* 2024. [[paper](https://arxiv.org/pdf/2408.08593)] [[official-code](https://github.com/UNIC-Lab/RadioDiff)]
+
 
   
 ## Diffusion Model for Tabular Data
@@ -657,6 +672,8 @@ We will continue to update this list with the newest resources. If you find any 
 
 * Diffusion based comprehensive approach for highly contaminated electrocardiogram segmentation, in *Biomedical Signal Processing and Control* 2024. [[paper](https://www.sciencedirect.com/science/article/pii/S1746809424007511)]
 
+* ECGDiff: Conditional Diffusion Model for ECG Reconstruction from Doppler Signals, in *IEEE International Conference on Communications* 2024. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10622196)]
+
 * BioDiffusion: A Versatile Diffusion Model for Biomedical Signal Synthesis, in *ArXiv* 2024. [[paper](https://arxiv.org/abs/2401.10282)][[official-code](https://github.com/imics-lab/biodiffusion)]
 
 * Synthesizing EEG Signals from Event-Related Potential Paradigms with Conditional Diffusion Models, in *ArXiv* 2024. [[paper](https://arxiv.org/pdf/2403.18486)]
@@ -696,6 +713,8 @@ We will continue to update this list with the newest resources. If you find any 
 
 * Generate What You Prefer: Reshaping Sequential Recommendation via Guided Diffusion, in *NeurIPS* 2024. [[paper](https://arxiv.org/abs/2310.20453)] [[official-code](https://github.com/yangzhengyi98/dreamrec)]
 
+* NetDiff: A Service-Guided Hierarchical Diffusion Model for Network Flow Trace Generation, in *https://dl.acm.org/doi/pdf/10.1145/3676870* 2024. [[paper](https://dl.acm.org/doi/pdf/10.1145/3676870)]
+
 * Plug-in Diffusion Model for Sequential Recommendation, in *ArXiv* 2024. [[paper](https://arxiv.org/pdf/2401.02913.pdf)][[official-code](https://github.com/hulkima/PDRec)]
 
 
@@ -718,6 +737,8 @@ We will continue to update this list with the newest resources. If you find any 
 * STFDiff: Remote sensing image spatiotemporal fusion with diffusion models, in *Information Fusion* 2024. [[paper](https://www.sciencedirect.com/science/article/pii/S1566253524002835)]
 
 * Latent Diffusion Model for Generating Ensembles of Climate Simulations, in *ICML workshop* 2024. [[paper](https://arxiv.org/abs/2407.02070)]
+
+* Spacetime Separable Latent Diffusion Model with Intensity Structure Information for Precipitation Nowcasting, in *IEEE Transactions on Geoscience and Remote Sensing* 2024. [[paper](https://ieeexplore.ieee.org/abstract/document/10638096)] [[official-code](https://github.com/ybu-lxd/SISLDM-ISI)]
 
 * DiffDA: a diffusion model for weather-scale data assimilation, in *ArXiv* 2024. [[paper](https://arxiv.org/abs/2401.05932)]
 
@@ -765,6 +786,8 @@ We will continue to update this list with the newest resources. If you find any 
 * Generating Synthetic Net Load Data with Physics-informed Diffusion Model, in *ArXiv* 2024. [[paper](https://arxiv.org/pdf/2406.01913)]
 
 * EnergyDiff: Universal Time-Series Energy Data Generation using Diffusion Models, in *ArXiv* 2024. [[paper](https://arxiv.org/pdf/2407.13538)]
+
+* RadioDiff: An Effective Generative Diffusion Model for Sampling-Free Dynamic Radio Map Construction, in *ArXiv* 2024. [[paper](https://arxiv.org/pdf/2408.08593)] [[official-code](https://github.com/UNIC-Lab/RadioDiff)]
 
 
 ### Math and Physics
@@ -855,6 +878,10 @@ We will continue to update this list with the newest resources. If you find any 
 
 * A conditional diffusion model for probabilistic estimation of traffic states at sensor-free locations, in *Transportation Research Part C* 2024. [[paper](https://www.sciencedirect.com/science/article/pii/S0968090X2400319X)]
 
+* DifTraj: Diffusion Inspired by Intrinsic Intention and Extrinsic Interaction for Multi-Modal Trajectory Prediction, in *IJCAI* 2024. [[paper](https://www.ijcai.org/proceedings/2024/0125.pdf)]
+
+* CDSTraj: Characterized Diffusion and Spatial-Temporal Interaction Network for Trajectory Prediction in Autonomous Driving, in *IJCAI* 2024. [[paper](https://www.ijcai.org/proceedings/2024/0811.pdf)]
+
 * SpecSTG: A Fast Spectral Diffusion Framework for Probabilistic Spatio-Temporal Traffic Forecasting, in *ArXiv* 2024. [[paper](https://arxiv.org/abs/2401.08119)] [[official-code](https://anonymous.4open.science/r/SpecSTG/)]
   
 * Intention-aware Denoising Diffusion Model for Trajectory Prediction, in *ArXiv* 2024. [[paper](https://arxiv.org/pdf/2403.09190)]
@@ -903,6 +930,8 @@ We will continue to update this list with the newest resources. If you find any 
 * DF-CDM: Conditional diffusion model with data fusion for structural dynamic response reconstruction, in *Mechanical Systems and Signal Processing* 2024. [[paper](https://www.sciencedirect.com/science/article/pii/S0888327024006812)]
 
 * Data augmentation based on diffusion probabilistic model for remaining useful life estimation of aero-engines, in *Reliability Engineering and System Safety* 2024. [[paper](https://www.sciencedirect.com/science/article/pii/S0951832024004666)
+
+* Multi-source domain adaptation using diffusion denoising for bearing fault diagnosis under variable working conditions, in *Knowledge-Based Systems* 2024. [[paper](https://www.sciencedirect.com/science/article/pii/S095070512401030X)]
 
 * Diff-MTS: Temporal-Augmented Conditional Diffusion-based AIGC for Industrial Time Series Towards the Large Model Era, in *ArXiv* 2024. [[paper](https://arxiv.org/pdf/2407.11501)]
 
