@@ -275,7 +275,7 @@ We will continue to update this list with the newest resources. If you find any 
 
 * ECGDiff: Conditional Diffusion Model for ECG Reconstruction from Doppler Signals, in *IEEE International Conference on Communications* 2024. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10622196)]
 
-* NetDiff: A Service-Guided Hierarchical Diffusion Model for Network Flow Trace Generation, in *https://dl.acm.org/doi/pdf/10.1145/3676870* 2024. [[paper](https://dl.acm.org/doi/pdf/10.1145/3676870)]
+* NetDiff: A Service-Guided Hierarchical Diffusion Model for Network Flow Trace Generation, in *Proceedings of the ACM on Networking* 2024. [[paper](https://dl.acm.org/doi/pdf/10.1145/3676870)]
 
 * Synthesizing EEG Signals from Event-Related Potential Paradigms with Conditional Diffusion Models, in *ArXiv* 2024. [[paper](https://arxiv.org/pdf/2403.18486)]
 
@@ -743,7 +743,7 @@ We will continue to update this list with the newest resources. If you find any 
 
 * Generate What You Prefer: Reshaping Sequential Recommendation via Guided Diffusion, in *NeurIPS* 2024. [[paper](https://arxiv.org/abs/2310.20453)] [[official-code](https://github.com/yangzhengyi98/dreamrec)]
 
-* NetDiff: A Service-Guided Hierarchical Diffusion Model for Network Flow Trace Generation, in *https://dl.acm.org/doi/pdf/10.1145/3676870* 2024. [[paper](https://dl.acm.org/doi/pdf/10.1145/3676870)]
+* NetDiff: A Service-Guided Hierarchical Diffusion Model for Network Flow Trace Generation, in *Proceedings of the ACM on Networking* 2024. [[paper](https://dl.acm.org/doi/pdf/10.1145/3676870)]
 
 * Plug-in Diffusion Model for Sequential Recommendation, in *ArXiv* 2024. [[paper](https://arxiv.org/pdf/2401.02913.pdf)][[official-code](https://github.com/hulkima/PDRec)]
 
