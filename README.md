@@ -164,6 +164,8 @@ We will continue to update this list with the newest resources. If you find any 
 
 * DiffLoad: Uncertainty Quantification in Electrical Load Forecasting with the Diffusion Model, in *IEEE Transactions on Power Systems* 2024. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10645307)] [[official-code](https://github.com/hkuedl/DiffLoad-Uncertainty-Quantification-Load-Forecasting)]
 
+* A novel wind power forecast diffusion model based on prior knowledge, in *IET Renewable Power Generation* 2024. [[paper](https://ietresearch.onlinelibrary.wiley.com/doi/pdf/10.1049/rpg2.13087)]
+
 
 ### Generation
 
@@ -319,6 +321,14 @@ We will continue to update this list with the newest resources. If you find any 
 
 * Unsupervised Blind Joint Dereverberation and Room Acoustics Estimation with Diffusion Models, in *ArXiv* 2024. [[paper](https://arxiv.org/pdf/2408.07472)][[official-code](https://github.com/sp-uhh/buddy)]
 
+* PatchEMG: Few-Shot EMG Signal Generation With Diffusion Models for Data Augmentation to Improve Classification Performance, in *IEEE Transactions on Instrumentation and Measurement* 2024. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10648713)]
+
+* A Financial Time Series Denoiser Based on Diffusion Model, in *ArXiv* 2024. [[paper](https://arxiv.org/pdf/2409.02138)]
+
+* DiffEyeSyn: Diffusion-based User-specific Eye Movement Synthesis, in *ArXiv* 2024. [[paper](https://arxiv.org/pdf/2409.01240)]
+
+* Classification of imbalanced ECGs through segmentation models and augmented by conditional diffusion model, in *Peer J Computer Science* 2024. [[paper](https://peerj.com/articles/cs-2299/)]
+
 
 ### Imputation
 
@@ -410,6 +420,10 @@ We will continue to update this list with the newest resources. If you find any 
 * Dynamic Splitting of Diffusion Models for Multivariate Time Series Anomaly Detection in a JointCloud Environment, in *Knowledge Science, Engineering and Management* 2024. [[paper](https://link.springer.com/chapter/10.1007/978-981-97-5498-4_3)]
 
 * Multi-source domain adaptation using diffusion denoising for bearing fault diagnosis under variable working conditions, in *Knowledge-Based Systems* 2024. [[paper](https://www.sciencedirect.com/science/article/pii/S095070512401030X)]
+
+* Diffusion Model in Normal Gathering Latent Space for Time Series Anomaly Detection, in *ECML PKDD* 2024. [[paper](https://link.springer.com/chapter/10.1007/978-3-031-70352-2_17)] [[official-code](https://github.com/h-jiashu/NGLS-Diff)]
+
+* Classifier-Free Diffusion-Based Weakly-Supervised Approach for Health Indicator Derivation in Rotating Machines: Advancing Early Fault Detection and Condition Monitoring, in *ArXiv* 2024. [[paper](https://arxiv.org/pdf/2409.01676)]
 
 
 ### Classification and Regression
@@ -699,6 +713,12 @@ We will continue to update this list with the newest resources. If you find any 
 * SSSD-ECG-nle: New Label Embeddings with Structured State-Space Models for ECG generation, in *ArXiv* 2024. [[paper](https://arxiv.org/pdf/2407.11108)][[official-code](https://github.com/ispras/EcgLib)]
 
 * Improving EEG Classification Through Randomly Reassembling Original and Generated Data with Transformer-based Diffusion Models, in *ArXiv* 2024. [[paper](https://arxiv.org/pdf/2407.20253)]
+
+* PatchEMG: Few-Shot EMG Signal Generation With Diffusion Models for Data Augmentation to Improve Classification Performance, in *IEEE Transactions on Instrumentation and Measurement* 2024. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10648713)]
+
+* DiffEyeSyn: Diffusion-based User-specific Eye Movement Synthesis, in *ArXiv* 2024. [[paper](https://arxiv.org/pdf/2409.01240)]
+
+* Classification of imbalanced ECGs through segmentation models and augmented by conditional diffusion model, in *Peer J Computer Science* 2024. [[paper](https://peerj.com/articles/cs-2299/)]
   
   
 ### Sequential Recommendation
@@ -801,6 +821,8 @@ We will continue to update this list with the newest resources. If you find any 
 
 * DiffLoad: Uncertainty Quantification in Electrical Load Forecasting with the Diffusion Model, in *IEEE Transactions on Power Systems* 2024. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10645307)] [[official-code](https://github.com/hkuedl/DiffLoad-Uncertainty-Quantification-Load-Forecasting)]
 
+* A novel wind power forecast diffusion model based on prior knowledge, in *IET Renewable Power Generation* 2024. [[paper](https://ietresearch.onlinelibrary.wiley.com/doi/pdf/10.1049/rpg2.13087)]
+
 
 ### Math and Physics
 
@@ -830,6 +852,9 @@ We will continue to update this list with the newest resources. If you find any 
 * Synthetic Asset Price Paths Generation Using Denoising Diffusion Probabilistic Model, in *SCML* 2024. [[paper](http://scml.jp/2024/paper/8/CameraReady/scml2024.pdf)]
 
 * DiffsFormer: A Diffusion Transformer on Stock Factor Augmentation, in *ArXiv* 2024. [[paper](https://arxiv.org/abs/2402.06656v1)]
+
+* A Financial Time Series Denoiser Based on Diffusion Model, in *ArXiv* 2024. [[paper](https://arxiv.org/pdf/2409.02138)]
+
 
 
 ### AIOps
@@ -955,6 +980,8 @@ We will continue to update this list with the newest resources. If you find any 
 
 * Diff-MTS: Temporal-Augmented Conditional Diffusion-based AIGC for Industrial Time Series Towards the Large Model Era, in *ArXiv* 2024. [[paper](https://arxiv.org/pdf/2407.11501)]
 
+* Classifier-Free Diffusion-Based Weakly-Supervised Approach for Health Indicator Derivation in Rotating Machines: Advancing Early Fault Detection and Condition Monitoring, in *ArXiv* 2024. [[paper](https://arxiv.org/pdf/2409.01676)]
+  
 
 ### Audio
 
