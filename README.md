@@ -162,6 +162,8 @@ We will continue to update this list with the newest resources. If you find any 
 
 * Treeffuser: Probabilistic Predictions via Conditional Diffusions with Gradient-Boosted Trees, in *ArXiv* 2024. [[paper](https://arxiv.org/pdf/2406.07658)] [[official-code](https://github.com/blei-lab/treeffuser)]
 
+* DiffLoad: Uncertainty Quantification in Electrical Load Forecasting with the Diffusion Model, in *IEEE Transactions on Power Systems* 2024. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10645307)] [[official-code](https://github.com/hkuedl/DiffLoad-Uncertainty-Quantification-Load-Forecasting)]
+
 
 ### Generation
 
@@ -554,6 +556,14 @@ We will continue to update this list with the newest resources. If you find any 
 
 * RadioDiff: An Effective Generative Diffusion Model for Sampling-Free Dynamic Radio Map Construction, in *ArXiv* 2024. [[paper](https://arxiv.org/pdf/2408.08593)] [[official-code](https://github.com/UNIC-Lab/RadioDiff)]
 
+* Long-Term Vessel Trajectory Imputation with Physics-Guided Diffusion Probabilistic Model, in *KDD* 2024. [[paper](https://dl.acm.org/doi/abs/10.1145/3637528.3672086)]
+
+* DiffCrime: A Multimodal Conditional Diffusion Model for Crime Risk Map Inference, in *KDD* 2024. [[paper](https://dl.acm.org/doi/pdf/10.1145/3637528.3671843)] [[official-code](https://github.com/IvoPan93/DiffCrime)]
+
+* Diffusion Model-based Mobile Traffic Generation with Open Data for Network Planning and Optimization, in *KDD* 2024. [[paper](https://dl.acm.org/doi/pdf/10.1145/3637528.3671544)] [[official-code](https://github.com/impchai/OpenDiff-diffusion-model-with-open-data)]
+
+* TrajWeaver: Trajectory Recovery with State Propagation Diffusion Model, in *ArXiv* 2024. [[paper](https://arxiv.org/pdf/2409.02124)] [[official-code](https://anonymous.4open.science/r/TrajWeaver/)]
+
 
   
 ## Diffusion Model for Tabular Data
@@ -789,6 +799,8 @@ We will continue to update this list with the newest resources. If you find any 
 
 * RadioDiff: An Effective Generative Diffusion Model for Sampling-Free Dynamic Radio Map Construction, in *ArXiv* 2024. [[paper](https://arxiv.org/pdf/2408.08593)] [[official-code](https://github.com/UNIC-Lab/RadioDiff)]
 
+* DiffLoad: Uncertainty Quantification in Electrical Load Forecasting with the Diffusion Model, in *IEEE Transactions on Power Systems* 2024. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10645307)] [[official-code](https://github.com/hkuedl/DiffLoad-Uncertainty-Quantification-Load-Forecasting)]
+
 
 ### Math and Physics
 
@@ -895,6 +907,14 @@ We will continue to update this list with the newest resources. If you find any 
 * Crossfusor: A Cross-Attention Transformer Enhanced Conditional Diffusion Model for Car-Following Trajectory Prediction, in *ArXiv* 2024. [[paper](https://arxiv.org/pdf/2406.11941)]
 
 * Map2Traj: Street Map Piloted Zero-shot Trajectory Generation with Diffusion Model, in *ArXiv* 2024. [[paper](https://arxiv.org/pdf/2407.19765)]
+
+* Long-Term Vessel Trajectory Imputation with Physics-Guided Diffusion Probabilistic Model, in *KDD* 2024. [[paper](https://dl.acm.org/doi/abs/10.1145/3637528.3672086)]
+
+* DiffCrime: A Multimodal Conditional Diffusion Model for Crime Risk Map Inference, in *KDD* 2024. [[paper](https://dl.acm.org/doi/pdf/10.1145/3637528.3671843)] [[official-code](https://github.com/IvoPan93/DiffCrime)]
+
+* Diffusion Model-based Mobile Traffic Generation with Open Data for Network Planning and Optimization, in *KDD* 2024. [[paper](https://dl.acm.org/doi/pdf/10.1145/3637528.3671544)] [[official-code](https://github.com/impchai/OpenDiff-diffusion-model-with-open-data)]
+
+* TrajWeaver: Trajectory Recovery with State Propagation Diffusion Model, in *ArXiv* 2024. [[paper](https://arxiv.org/pdf/2409.02124)] [[official-code](https://anonymous.4open.science/r/TrajWeaver/)]
 
 
 ### Manufacturing
