@@ -329,6 +329,8 @@ We will continue to update this list with the newest resources. If you find any 
 
 * Classification of imbalanced ECGs through segmentation models and augmented by conditional diffusion model, in *Peer J Computer Science* 2024. [[paper](https://peerj.com/articles/cs-2299/)]
 
+* Protecting Activity Sensing Data Privacy Using Hierarchical Information Dissociation, in *ArXiv* 2024. [[paper](https://arxiv.org/pdf/2409.03796)]
+
 
 ### Imputation
 
@@ -424,6 +426,8 @@ We will continue to update this list with the newest resources. If you find any 
 * Diffusion Model in Normal Gathering Latent Space for Time Series Anomaly Detection, in *ECML PKDD* 2024. [[paper](https://link.springer.com/chapter/10.1007/978-3-031-70352-2_17)] [[official-code](https://github.com/h-jiashu/NGLS-Diff)]
 
 * Classifier-Free Diffusion-Based Weakly-Supervised Approach for Health Indicator Derivation in Rotating Machines: Advancing Early Fault Detection and Condition Monitoring, in *ArXiv* 2024. [[paper](https://arxiv.org/pdf/2409.01676)]
+
+* ProDiffAD: Progressively Distilled Diffusion Models for Multivariate Time Series Anomaly Detection in JointCloud Environment, in *IJCNN* 2024. [[paper](https://ieeexplore.ieee.org/abstract/document/10650364)] [[official-code](https://github.com/AiShare-WHU/ProDiffAD)]
 
 
 ### Classification and Regression
@@ -577,6 +581,10 @@ We will continue to update this list with the newest resources. If you find any 
 * Diffusion Model-based Mobile Traffic Generation with Open Data for Network Planning and Optimization, in *KDD* 2024. [[paper](https://dl.acm.org/doi/pdf/10.1145/3637528.3671544)] [[official-code](https://github.com/impchai/OpenDiff-diffusion-model-with-open-data)]
 
 * TrajWeaver: Trajectory Recovery with State Propagation Diffusion Model, in *ArXiv* 2024. [[paper](https://arxiv.org/pdf/2409.02124)] [[official-code](https://anonymous.4open.science/r/TrajWeaver/)]
+
+* A Spatial-Temporal Large Language Model with Diffusion (STLLM-DF) for Enhanced Multi-Mode Traffic System Forecasting, in *ArXiv* 2024. [[paper](https://arxiv.org/pdf/2409.05921)]
+
+* DM-BDD: Real-time Vessel Trajectory Prediction Based on Diffusion Probability Model Balancing Diversity and Determinacy, in *IJCNN* 2024. [[paper](https://ieeexplore.ieee.org/abstract/document/10649942)]
 
 
   
@@ -869,6 +877,9 @@ We will continue to update this list with the newest resources. If you find any 
 
 * Dynamic Splitting of Diffusion Models for Multivariate Time Series Anomaly Detection in a JointCloud Environment, in *Knowledge Science, Engineering and Management* 2024. [[paper](https://link.springer.com/chapter/10.1007/978-981-97-5498-4_3)]
 
+* ProDiffAD: Progressively Distilled Diffusion Models for Multivariate Time Series Anomaly Detection in JointCloud Environment, in *IJCNN* 2024. [[paper](https://ieeexplore.ieee.org/abstract/document/10650364)] [[official-code](https://github.com/AiShare-WHU/ProDiffAD)]
+
+
 
 ### Environment
 
@@ -940,6 +951,10 @@ We will continue to update this list with the newest resources. If you find any 
 * Diffusion Model-based Mobile Traffic Generation with Open Data for Network Planning and Optimization, in *KDD* 2024. [[paper](https://dl.acm.org/doi/pdf/10.1145/3637528.3671544)] [[official-code](https://github.com/impchai/OpenDiff-diffusion-model-with-open-data)]
 
 * TrajWeaver: Trajectory Recovery with State Propagation Diffusion Model, in *ArXiv* 2024. [[paper](https://arxiv.org/pdf/2409.02124)] [[official-code](https://anonymous.4open.science/r/TrajWeaver/)]
+
+* A Spatial-Temporal Large Language Model with Diffusion (STLLM-DF) for Enhanced Multi-Mode Traffic System Forecasting, in *ArXiv* 2024. [[paper](https://arxiv.org/pdf/2409.05921)]
+
+* DM-BDD: Real-time Vessel Trajectory Prediction Based on Diffusion Probability Model Balancing Diversity and Determinacy, in *IJCNN* 2024. [[paper](https://ieeexplore.ieee.org/abstract/document/10649942)]
 
 
 ### Manufacturing
