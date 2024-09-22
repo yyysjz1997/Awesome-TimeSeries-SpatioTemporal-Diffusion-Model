@@ -166,6 +166,8 @@ We will continue to update this list with the newest resources. If you find any 
 
 * A novel wind power forecast diffusion model based on prior knowledge, in *IET Renewable Power Generation* 2024. [[paper](https://ietresearch.onlinelibrary.wiley.com/doi/pdf/10.1049/rpg2.13087)]
 
+* RespDiff: An End-to-End Multi-scale RNN Diffusion Model for Respiratory Waveform Estimation from PPG Signals, in *ArXiv* 2024. [[paper](https://www.researchgate.net/publication/383988916_RespDiff_An_End-to-End_Multi-scale_RNN_Diffusion_Model_for_Respiratory_Waveform_Estimation_from_PPG_Signals)]
+
 
 ### Generation
 
@@ -331,6 +333,8 @@ We will continue to update this list with the newest resources. If you find any 
 
 * Protecting Activity Sensing Data Privacy Using Hierarchical Information Dissociation, in *ArXiv* 2024. [[paper](https://arxiv.org/pdf/2409.03796)]
 
+* * Few-Shot PPG Signal Generation via Guided Diffusion Models, in *IEEE Sensors Journal* 2024. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10680298)]
+
 
 ### Imputation
 
@@ -377,6 +381,8 @@ We will continue to update this list with the newest resources. If you find any 
 * Rethinking the Diffusion Models for Numerical Tabular Data Imputation from the Perspective of Wasserstein Gradient Flow, in *ArXiv* 2024. [[paper](https://arxiv.org/pdf/2406.15762)]
 
 * Pretrained-Guided Conditional Diffusion Models for Microbiome Data Analysis, in *ArXiv* 2024. [[paper](https://arxiv.org/pdf/2408.07709)][[official-code](https://github.com/wenwenmin/mbVDiT)]
+
+* Latent Space Score-based Diffusion Model for Probabilistic Multivariate Time Series Imputation, in *ArXiv* 2024. [[paper](https://arxiv.org/pdf/2409.08917)]
 
 
 ### Anomaly Detection
@@ -586,6 +592,8 @@ We will continue to update this list with the newest resources. If you find any 
 
 * DM-BDD: Real-time Vessel Trajectory Prediction Based on Diffusion Probability Model Balancing Diversity and Determinacy, in *IJCNN* 2024. [[paper](https://ieeexplore.ieee.org/abstract/document/10649942)]
 
+* DreamHead: Learning Spatial-Temporal Correspondence via Hierarchical Diffusion for Audio-driven Talking Head Synthesis, in *ArXiv* 2024. [[paper](https://arxiv.org/pdf/2409.10281)]
+
 
   
 ## Diffusion Model for Tabular Data
@@ -727,6 +735,10 @@ We will continue to update this list with the newest resources. If you find any 
 * DiffEyeSyn: Diffusion-based User-specific Eye Movement Synthesis, in *ArXiv* 2024. [[paper](https://arxiv.org/pdf/2409.01240)]
 
 * Classification of imbalanced ECGs through segmentation models and augmented by conditional diffusion model, in *Peer J Computer Science* 2024. [[paper](https://peerj.com/articles/cs-2299/)]
+
+* Few-Shot PPG Signal Generation via Guided Diffusion Models, in *IEEE Sensors Journal* 2024. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10680298)]
+
+* RespDiff: An End-to-End Multi-scale RNN Diffusion Model for Respiratory Waveform Estimation from PPG Signals, in *ArXiv* 2024. [[paper](https://www.researchgate.net/publication/383988916_RespDiff_An_End-to-End_Multi-scale_RNN_Diffusion_Model_for_Respiratory_Waveform_Estimation_from_PPG_Signals)]
   
   
 ### Sequential Recommendation
@@ -1033,6 +1045,8 @@ We will continue to update this list with the newest resources. If you find any 
 * Long-form music generation with latent diffusion, in *ArXiv* 2024. [[paper](https://arxiv.org/pdf/2404.10301)] [[official-code](https://github.com/Stability-AI/stable-audio-tools/)]
 
 * Unsupervised Blind Joint Dereverberation and Room Acoustics Estimation with Diffusion Models, in *ArXiv* 2024. [[paper](https://arxiv.org/pdf/2408.07472)][[official-code](https://github.com/sp-uhh/buddy)]
+
+* DreamHead: Learning Spatial-Temporal Correspondence via Hierarchical Diffusion for Audio-driven Talking Head Synthesis, in *ArXiv* 2024. [[paper](https://arxiv.org/pdf/2409.10281)]
 
 
 ### Biology
