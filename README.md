@@ -168,6 +168,10 @@ We will continue to update this list with the newest resources. If you find any 
 
 * RespDiff: An End-to-End Multi-scale RNN Diffusion Model for Respiratory Waveform Estimation from PPG Signals, in *ArXiv* 2024. [[paper](https://www.researchgate.net/publication/383988916_RespDiff_An_End-to-End_Multi-scale_RNN_Diffusion_Model_for_Respiratory_Waveform_Estimation_from_PPG_Signals)]
 
+* PV-Diff: Probability Prediction of Short-term Photovoltaic Power Interval Based on Conditional Diffusion Model, in *Chinese Control Conference* 2024. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10661972)]
+
+* BP-Diff: a conditional diffusion model for cuffless continuous BP waveform estimation using U-Net, in *Physiological Measurement* 2024. [[paper](https://iopscience.iop.org/article/10.1088/1361-6579/ad7fcc/meta)]
+
 
 ### Generation
 
@@ -333,7 +337,7 @@ We will continue to update this list with the newest resources. If you find any 
 
 * Protecting Activity Sensing Data Privacy Using Hierarchical Information Dissociation, in *ArXiv* 2024. [[paper](https://arxiv.org/pdf/2409.03796)]
 
-* * Few-Shot PPG Signal Generation via Guided Diffusion Models, in *IEEE Sensors Journal* 2024. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10680298)]
+* Few-Shot PPG Signal Generation via Guided Diffusion Models, in *IEEE Sensors Journal* 2024. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10680298)]
 
 
 ### Imputation
@@ -463,6 +467,10 @@ We will continue to update this list with the newest resources. If you find any 
 * CausalConceptTS: Causal Attributions for Time Series Classification using High Fidelity Diffusion Models, in *ArXiv* 2024. [[paper](https://arxiv.org/abs/2405.15871)] [[official-code](https://github.com/ai4healthuol/causalconceptts)]
 
 * Improving EEG Classification Through Randomly Reassembling Original and Generated Data with Transformer-based Diffusion Models, in *ArXiv* 2024. [[paper](https://arxiv.org/pdf/2407.20253)]
+ 
+* Adaptive Diffusion Model-Based Data Augmentation for Unbalanced Time Series Classification, in *Chinese Control Conference* 2024. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10661965)]
+
+* Analysis of Human Activity Recognition by Diffusion Models, in *UbiComp* 2024. [[paper](https://dl.acm.org/doi/abs/10.1145/3675094.3678439)]
 
 
 ### Causal Inference
@@ -739,6 +747,8 @@ We will continue to update this list with the newest resources. If you find any 
 * Few-Shot PPG Signal Generation via Guided Diffusion Models, in *IEEE Sensors Journal* 2024. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10680298)]
 
 * RespDiff: An End-to-End Multi-scale RNN Diffusion Model for Respiratory Waveform Estimation from PPG Signals, in *ArXiv* 2024. [[paper](https://www.researchgate.net/publication/383988916_RespDiff_An_End-to-End_Multi-scale_RNN_Diffusion_Model_for_Respiratory_Waveform_Estimation_from_PPG_Signals)]
+
+* BP-Diff: a conditional diffusion model for cuffless continuous BP waveform estimation using U-Net, in *Physiological Measurement* 2024. [[paper](https://iopscience.iop.org/article/10.1088/1361-6579/ad7fcc/meta)]
   
   
 ### Sequential Recommendation
@@ -842,6 +852,8 @@ We will continue to update this list with the newest resources. If you find any 
 * DiffLoad: Uncertainty Quantification in Electrical Load Forecasting with the Diffusion Model, in *IEEE Transactions on Power Systems* 2024. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10645307)] [[official-code](https://github.com/hkuedl/DiffLoad-Uncertainty-Quantification-Load-Forecasting)]
 
 * A novel wind power forecast diffusion model based on prior knowledge, in *IET Renewable Power Generation* 2024. [[paper](https://ietresearch.onlinelibrary.wiley.com/doi/pdf/10.1049/rpg2.13087)]
+
+* PV-Diff: Probability Prediction of Short-term Photovoltaic Power Interval Based on Conditional Diffusion Model, in *Chinese Control Conference* 2024. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10661972)]
 
 
 ### Math and Physics
@@ -1008,6 +1020,8 @@ We will continue to update this list with the newest resources. If you find any 
 * Diff-MTS: Temporal-Augmented Conditional Diffusion-based AIGC for Industrial Time Series Towards the Large Model Era, in *ArXiv* 2024. [[paper](https://arxiv.org/pdf/2407.11501)]
 
 * Classifier-Free Diffusion-Based Weakly-Supervised Approach for Health Indicator Derivation in Rotating Machines: Advancing Early Fault Detection and Condition Monitoring, in *ArXiv* 2024. [[paper](https://arxiv.org/pdf/2409.01676)]
+
+* Analysis of Human Activity Recognition by Diffusion Models, in *UbiComp* 2024. [[paper](https://dl.acm.org/doi/abs/10.1145/3675094.3678439)]
   
 
 ### Audio
