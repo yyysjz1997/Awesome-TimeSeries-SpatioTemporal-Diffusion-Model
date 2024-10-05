@@ -172,6 +172,8 @@ We will continue to update this list with the newest resources. If you find any 
 
 * BP-Diff: a conditional diffusion model for cuffless continuous BP waveform estimation using U-Net, in *Physiological Measurement* 2024. [[paper](https://iopscience.iop.org/article/10.1088/1361-6579/ad7fcc/meta)]
 
+* Treating Brain-inspired Memories as Priors for Diffusion Model to Forecast Multivariate Time Series, in *ArXiv* 2024. [[paper](https://arxiv.org/pdf/2409.18491)]
+
 
 ### Generation
 
