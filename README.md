@@ -174,6 +174,11 @@ We will continue to update this list with the newest resources. If you find any 
 
 * Treating Brain-inspired Memories as Priors for Diffusion Model to Forecast Multivariate Time Series, in *ArXiv* 2024. [[paper](https://arxiv.org/pdf/2409.18491)]
 
+* Channel-aware Contrastive Conditional Diffusion for Multivariate Probabilistic Time Series Forecasting, in *ArXiv* 2024. [[paper](https://arxiv.org/pdf/2410.02168)] [[official-code](https://github.com/LSY-Cython/CCDM)]
+
+* DifFaiRec: Generative Fair Recommender with Conditional Diffusion Model, in *ArXiv* 2024. [[paper](https://arxiv.org/pdf/2410.02791)]
+
+
 
 ### Generation
 
@@ -341,6 +346,10 @@ We will continue to update this list with the newest resources. If you find any 
 
 * Few-Shot PPG Signal Generation via Guided Diffusion Models, in *IEEE Sensors Journal* 2024. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10680298)]
 
+* Enhancing EEG Signal Generation through a Hybrid Approach Integrating Reinforcement Learning and Diffusion Models, in *ArXiv* 2024. [[paper](https://arxiv.org/pdf/2410.00013)]
+
+* GADM: Data augmentation using Generative Adversarial Diffusion Model for pulse-based disease identification, in *Biomedical Signal Processing and Control* 2024. [[paper](https://www.sciencedirect.com/science/article/pii/S1746809424010632)] [[official-code](https://github.com/dreaming12138/GADM-Generative-Adversarial-Diffusion-Model)]
+
 
 ### Imputation
 
@@ -440,6 +449,8 @@ We will continue to update this list with the newest resources. If you find any 
 * Classifier-Free Diffusion-Based Weakly-Supervised Approach for Health Indicator Derivation in Rotating Machines: Advancing Early Fault Detection and Condition Monitoring, in *ArXiv* 2024. [[paper](https://arxiv.org/pdf/2409.01676)]
 
 * ProDiffAD: Progressively Distilled Diffusion Models for Multivariate Time Series Anomaly Detection in JointCloud Environment, in *IJCNN* 2024. [[paper](https://ieeexplore.ieee.org/abstract/document/10650364)] [[official-code](https://github.com/AiShare-WHU/ProDiffAD)]
+
+* A bearing fault data augmentation method based on hybrid-diversity loss diffusion model and parameter transfer, in *Reliability Engineering & System Safety* 2024. [[paper](https://www.sciencedirect.com/science/article/pii/S0951832024006392)]
 
 
 ### Classification and Regression
@@ -751,6 +762,10 @@ We will continue to update this list with the newest resources. If you find any 
 * RespDiff: An End-to-End Multi-scale RNN Diffusion Model for Respiratory Waveform Estimation from PPG Signals, in *ArXiv* 2024. [[paper](https://www.researchgate.net/publication/383988916_RespDiff_An_End-to-End_Multi-scale_RNN_Diffusion_Model_for_Respiratory_Waveform_Estimation_from_PPG_Signals)]
 
 * BP-Diff: a conditional diffusion model for cuffless continuous BP waveform estimation using U-Net, in *Physiological Measurement* 2024. [[paper](https://iopscience.iop.org/article/10.1088/1361-6579/ad7fcc/meta)]
+
+* Enhancing EEG Signal Generation through a Hybrid Approach Integrating Reinforcement Learning and Diffusion Models, in *ArXiv* 2024. [[paper](https://arxiv.org/pdf/2410.00013)]
+
+* GADM: Data augmentation using Generative Adversarial Diffusion Model for pulse-based disease identification, in *Biomedical Signal Processing and Control* 2024. [[paper](https://www.sciencedirect.com/science/article/pii/S1746809424010632)] [[official-code](https://github.com/dreaming12138/GADM-Generative-Adversarial-Diffusion-Model)]
   
   
 ### Sequential Recommendation
@@ -778,6 +793,8 @@ We will continue to update this list with the newest resources. If you find any 
 * NetDiff: A Service-Guided Hierarchical Diffusion Model for Network Flow Trace Generation, in *Proceedings of the ACM on Networking* 2024. [[paper](https://dl.acm.org/doi/pdf/10.1145/3676870)]
 
 * Plug-in Diffusion Model for Sequential Recommendation, in *ArXiv* 2024. [[paper](https://arxiv.org/pdf/2401.02913.pdf)][[official-code](https://github.com/hulkima/PDRec)]
+
+* DifFaiRec: Generative Fair Recommender with Conditional Diffusion Model, in *ArXiv* 2024. [[paper](https://arxiv.org/pdf/2410.02791)]
 
 
 ### Weather
@@ -1024,6 +1041,9 @@ We will continue to update this list with the newest resources. If you find any 
 * Classifier-Free Diffusion-Based Weakly-Supervised Approach for Health Indicator Derivation in Rotating Machines: Advancing Early Fault Detection and Condition Monitoring, in *ArXiv* 2024. [[paper](https://arxiv.org/pdf/2409.01676)]
 
 * Analysis of Human Activity Recognition by Diffusion Models, in *UbiComp* 2024. [[paper](https://dl.acm.org/doi/abs/10.1145/3675094.3678439)]
+
+* A bearing fault data augmentation method based on hybrid-diversity loss diffusion model and parameter transfer, in *Reliability Engineering & System Safety* 2024. [[paper](https://www.sciencedirect.com/science/article/pii/S0951832024006392)]
+
   
 
 ### Audio
