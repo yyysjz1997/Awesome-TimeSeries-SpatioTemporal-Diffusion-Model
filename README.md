@@ -399,6 +399,10 @@ We will continue to update this list with the newest resources. If you find any 
 
 * Latent Space Score-based Diffusion Model for Probabilistic Multivariate Time Series Imputation, in *ArXiv* 2024. [[paper](https://arxiv.org/pdf/2409.08917)]
 
+* TIMBA: Time series Imputation with Bi-directional Mamba Blocks and Diffusion models, in *ArXiv* 2024. [[paper](https://arxiv.org/pdf/2410.05916)]
+
+* DiffImp: Efficient Diffusion Model for Probabilistic Time Series Imputation with Bidirectional Mamba Backbone, in *ArXiv* 2024. [[paper](https://arxiv.org/pdf/2410.13338)]
+
 
 ### Anomaly Detection
 
@@ -452,6 +456,8 @@ We will continue to update this list with the newest resources. If you find any 
 
 * A bearing fault data augmentation method based on hybrid-diversity loss diffusion model and parameter transfer, in *Reliability Engineering & System Safety* 2024. [[paper](https://www.sciencedirect.com/science/article/pii/S0951832024006392)]
 
+* Extremely imbalanced data intelligent fault diagnosis of rotating impeller with improved denoising diffusion probabilistic models, in *Proceedings of the Institution of Mechanical Engineers, Part B: Journal of Engineering Manufacture* 2024. [[paper](https://journals.sagepub.com/doi/abs/10.1177/09544054241289981)]
+
 
 ### Classification and Regression
 
@@ -485,6 +491,10 @@ We will continue to update this list with the newest resources. If you find any 
 
 * Analysis of Human Activity Recognition by Diffusion Models, in *UbiComp* 2024. [[paper](https://dl.acm.org/doi/abs/10.1145/3675094.3678439)]
 
+* A Two-Stage Earthquake Event Classification Model Based on Diffusion Probability Model, in *IEEE Transactions on Geoscience and Remote Sensing* 2024. [[paper](https://ieeexplore.ieee.org/abstract/document/10716442)]
+
+* Denoising Diffusion Probabilistic Model Enhanced Tool Condition Monitoring Method Under Imbalanced Conditions, in *Measurement Science and Technology* 2024. [[paper](https://iopscience.iop.org/article/10.1088/1361-6501/ad86d5/meta)]
+
 
 ### Causal Inference
 
@@ -493,6 +503,8 @@ We will continue to update this list with the newest resources. If you find any 
 * Brain Diffuser with Hierarchical Transformer for MCI Causality Analysis, in *ArXiv* 2023. [[paper](https://arxiv.org/abs/2312.09022)]
 
 * CausalConceptTS: Causal Attributions for Time Series Classification using High Fidelity Diffusion Models, in *ArXiv* 2024. [[paper](https://arxiv.org/abs/2405.15871)] [[official-code](https://github.com/ai4healthuol/causalconceptts)]
+
+* DiffPO: A causal diffusion model for learning distributions of potential outcomes, in *ArXiv* 2024. [[paper](https://arxiv.org/pdf/2410.08924)] [[official-code](https://github.com/yccm/DiffPO)]
 
 
 ### Event Prediction and Classification
@@ -614,6 +626,10 @@ We will continue to update this list with the newest resources. If you find any 
 * DM-BDD: Real-time Vessel Trajectory Prediction Based on Diffusion Probability Model Balancing Diversity and Determinacy, in *IJCNN* 2024. [[paper](https://ieeexplore.ieee.org/abstract/document/10649942)]
 
 * DreamHead: Learning Spatial-Temporal Correspondence via Hierarchical Diffusion for Audio-driven Talking Head Synthesis, in *ArXiv* 2024. [[paper](https://arxiv.org/pdf/2409.10281)]
+
+* DiffuTraj: A Stochastic Vessel Trajectory Prediction Approach via Guided Diffusion Process, in *ArXiv* 2024. [[paper](https://arxiv.org/pdf/2410.09550)]
+
+* Precipitation Nowcasting Using Diffusion Transformer with Causal Attention, in *ArXiv* 2024. [[paper](https://arxiv.org/pdf/2410.13314)]
 
 
   
@@ -766,6 +782,8 @@ We will continue to update this list with the newest resources. If you find any 
 * Enhancing EEG Signal Generation through a Hybrid Approach Integrating Reinforcement Learning and Diffusion Models, in *ArXiv* 2024. [[paper](https://arxiv.org/pdf/2410.00013)]
 
 * GADM: Data augmentation using Generative Adversarial Diffusion Model for pulse-based disease identification, in *Biomedical Signal Processing and Control* 2024. [[paper](https://www.sciencedirect.com/science/article/pii/S1746809424010632)] [[official-code](https://github.com/dreaming12138/GADM-Generative-Adversarial-Diffusion-Model)]
+
+* DiffPO: A causal diffusion model for learning distributions of potential outcomes, in *ArXiv* 2024. [[paper](https://arxiv.org/pdf/2410.08924)] [[official-code](https://github.com/yccm/DiffPO)]
   
   
 ### Sequential Recommendation
@@ -822,6 +840,8 @@ We will continue to update this list with the newest resources. If you find any 
 * DiffDA: a diffusion model for weather-scale data assimilation, in *ArXiv* 2024. [[paper](https://arxiv.org/abs/2401.05932)]
 
 * SRNDiff: Short-term Rainfall Nowcasting with Condition Diffusion Model, in *ArXiv* 2024. [[paper](https://arxiv.org/abs/2402.13737)]
+
+* Precipitation Nowcasting Using Diffusion Transformer with Causal Attention, in *ArXiv* 2024. [[paper](https://arxiv.org/pdf/2410.13314)]
 
 
 ### Energy and Electricity
@@ -999,6 +1019,8 @@ We will continue to update this list with the newest resources. If you find any 
 
 * DM-BDD: Real-time Vessel Trajectory Prediction Based on Diffusion Probability Model Balancing Diversity and Determinacy, in *IJCNN* 2024. [[paper](https://ieeexplore.ieee.org/abstract/document/10649942)]
 
+* DiffuTraj: A Stochastic Vessel Trajectory Prediction Approach via Guided Diffusion Process, in *ArXiv* 2024. [[paper](https://arxiv.org/pdf/2410.09550)]
+
 
 ### Manufacturing
 
@@ -1043,6 +1065,8 @@ We will continue to update this list with the newest resources. If you find any 
 * Analysis of Human Activity Recognition by Diffusion Models, in *UbiComp* 2024. [[paper](https://dl.acm.org/doi/abs/10.1145/3675094.3678439)]
 
 * A bearing fault data augmentation method based on hybrid-diversity loss diffusion model and parameter transfer, in *Reliability Engineering & System Safety* 2024. [[paper](https://www.sciencedirect.com/science/article/pii/S0951832024006392)]
+
+* Extremely imbalanced data intelligent fault diagnosis of rotating impeller with improved denoising diffusion probabilistic models, in *Proceedings of the Institution of Mechanical Engineers, Part B: Journal of Engineering Manufacture* 2024. [[paper](https://journals.sagepub.com/doi/abs/10.1177/09544054241289981)]
 
   
 
