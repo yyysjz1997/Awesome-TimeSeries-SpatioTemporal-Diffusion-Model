@@ -18,7 +18,7 @@ We will continue to update this list with the newest resources. If you find any 
 **[<a href="https://mp.weixin.qq.com/s/yUo6NDDeMRHAqoKk5RPZdg">专知 中文解读</a>]**
 **[<a href="https://mp.weixin.qq.com/s/bWEckT9eXfrr-AWehPOYtw">时序人 中文解读</a>]**
 **[<a href="https://zhuanlan.zhihu.com/p/696930711">知乎 中文解读</a>]**
-**[[All summarized and categorized Papers](https://docs.google.com/spreadsheets/d/1X5ujA-yXCzkzz4Uu9ErP8mu_Jg2zWk4fwZrwrMcqMoI/edit#gid=0)]**
+**[[All Summarized and Categorized Papers](https://docs.google.com/spreadsheets/d/1X5ujA-yXCzkzz4Uu9ErP8mu_Jg2zWk4fwZrwrMcqMoI/edit#gid=0)]**
 
 </div>
 
