@@ -178,6 +178,10 @@ We will continue to update this list with the newest resources. If you find any 
 
 * DifFaiRec: Generative Fair Recommender with Conditional Diffusion Model, in *ArXiv* 2024. [[paper](https://arxiv.org/pdf/2410.02791)]
 
+* EEG-DIF: Early Warning of Epileptic Seizures through Generative Diffusion Model-based Multi-channel EEG Signals Forecasting, in *ArXiv* 2024. [[paper](https://arxiv.org/pdf/2410.17343)] [[official-code](https://github.com/JZK00/EEG-DIF)]
+
+* Retrieval-Augmented Diffusion Models for Time Series Forecasting, in *ArXiv* 2024. [[paper](https://arxiv.org/pdf/2410.18712)] [[official-code](https://github.com/stanliu96/RATD)]
+
 
 
 ### Generation
@@ -350,6 +354,8 @@ We will continue to update this list with the newest resources. If you find any 
 
 * GADM: Data augmentation using Generative Adversarial Diffusion Model for pulse-based disease identification, in *Biomedical Signal Processing and Control* 2024. [[paper](https://www.sciencedirect.com/science/article/pii/S1746809424010632)] [[official-code](https://github.com/dreaming12138/GADM-Generative-Adversarial-Diffusion-Model)]
 
+* Generation of synthetic financial time series by diffusion models, in *ArXiv* 2024. [[paper](https://arxiv.org/pdf/2410.18897)]
+
 
 ### Imputation
 
@@ -457,6 +463,8 @@ We will continue to update this list with the newest resources. If you find any 
 * A bearing fault data augmentation method based on hybrid-diversity loss diffusion model and parameter transfer, in *Reliability Engineering & System Safety* 2024. [[paper](https://www.sciencedirect.com/science/article/pii/S0951832024006392)]
 
 * Extremely imbalanced data intelligent fault diagnosis of rotating impeller with improved denoising diffusion probabilistic models, in *Proceedings of the Institution of Mechanical Engineers, Part B: Journal of Engineering Manufacture* 2024. [[paper](https://journals.sagepub.com/doi/abs/10.1177/09544054241289981)]
+
+* Denoising diffusion probabilistic model-enabled data augmentation method for intelligent machine fault diagnosis, in *Engineering Applications of Artificial Intelligence* 2024. [[paper](https://www.sciencedirect.com/science/article/pii/S0952197624016786)]
 
 
 ### Classification and Regression
@@ -631,6 +639,14 @@ We will continue to update this list with the newest resources. If you find any 
 
 * Precipitation Nowcasting Using Diffusion Transformer with Causal Attention, in *ArXiv* 2024. [[paper](https://arxiv.org/pdf/2410.13314)]
 
+* ImmerseDiffusion: A Generative Spatial Audio Latent Diffusion Model, in *ArXiv* 2024. [[paper](https://arxiv.org/pdf/2410.14945)]
+
+* A Spatio-Temporal Diffusion Model for Missing and Real-Time Financial Data Inference, in *CIKM* 2024. [[paper](https://dl.acm.org/doi/abs/10.1145/3627673.3679806)]
+
+* Traj-Explainer: An Explainable and Robust Multi-modal Trajectory Prediction Approach, in *ArXiv* 2024. [[paper](https://arxiv.org/abs/2410.16795)]
+
+* FoMo: A Foundation Model for Mobile Traffic Forecasting with Diffusion Model, in *ArXiv* 2024. [[paper](https://arxiv.org/pdf/2410.15322)]
+
 
   
 ## Diffusion Model for Tabular Data
@@ -784,6 +800,8 @@ We will continue to update this list with the newest resources. If you find any 
 * GADM: Data augmentation using Generative Adversarial Diffusion Model for pulse-based disease identification, in *Biomedical Signal Processing and Control* 2024. [[paper](https://www.sciencedirect.com/science/article/pii/S1746809424010632)] [[official-code](https://github.com/dreaming12138/GADM-Generative-Adversarial-Diffusion-Model)]
 
 * DiffPO: A causal diffusion model for learning distributions of potential outcomes, in *ArXiv* 2024. [[paper](https://arxiv.org/pdf/2410.08924)] [[official-code](https://github.com/yccm/DiffPO)]
+
+* EEG-DIF: Early Warning of Epileptic Seizures through Generative Diffusion Model-based Multi-channel EEG Signals Forecasting, in *ArXiv* 2024. [[paper](https://arxiv.org/pdf/2410.17343)] [[official-code](https://github.com/JZK00/EEG-DIF)]
   
   
 ### Sequential Recommendation
@@ -926,6 +944,10 @@ We will continue to update this list with the newest resources. If you find any 
 
 * A Financial Time Series Denoiser Based on Diffusion Model, in *ArXiv* 2024. [[paper](https://arxiv.org/pdf/2409.02138)]
 
+* A Spatio-Temporal Diffusion Model for Missing and Real-Time Financial Data Inference, in *CIKM* 2024. [[paper](https://dl.acm.org/doi/abs/10.1145/3627673.3679806)]
+
+* Generation of synthetic financial time series by diffusion models, in *ArXiv* 2024. [[paper](https://arxiv.org/pdf/2410.18897)]
+
 
 
 ### AIOps
@@ -1021,6 +1043,11 @@ We will continue to update this list with the newest resources. If you find any 
 
 * DiffuTraj: A Stochastic Vessel Trajectory Prediction Approach via Guided Diffusion Process, in *ArXiv* 2024. [[paper](https://arxiv.org/pdf/2410.09550)]
 
+* Traj-Explainer: An Explainable and Robust Multi-modal Trajectory Prediction Approach, in *ArXiv* 2024. [[paper](https://arxiv.org/abs/2410.16795)]
+
+* FoMo: A Foundation Model for Mobile Traffic Forecasting with Diffusion Model, in *ArXiv* 2024. [[paper](https://arxiv.org/pdf/2410.15322)]
+
+
 
 ### Manufacturing
 
@@ -1068,6 +1095,9 @@ We will continue to update this list with the newest resources. If you find any 
 
 * Extremely imbalanced data intelligent fault diagnosis of rotating impeller with improved denoising diffusion probabilistic models, in *Proceedings of the Institution of Mechanical Engineers, Part B: Journal of Engineering Manufacture* 2024. [[paper](https://journals.sagepub.com/doi/abs/10.1177/09544054241289981)]
 
+* Denoising diffusion probabilistic model-enabled data augmentation method for intelligent machine fault diagnosis, in *Engineering Applications of Artificial Intelligence* 2024. [[paper](https://www.sciencedirect.com/science/article/pii/S0952197624016786)]
+
+
   
 
 ### Audio
@@ -1107,6 +1137,8 @@ We will continue to update this list with the newest resources. If you find any 
 * Unsupervised Blind Joint Dereverberation and Room Acoustics Estimation with Diffusion Models, in *ArXiv* 2024. [[paper](https://arxiv.org/pdf/2408.07472)][[official-code](https://github.com/sp-uhh/buddy)]
 
 * DreamHead: Learning Spatial-Temporal Correspondence via Hierarchical Diffusion for Audio-driven Talking Head Synthesis, in *ArXiv* 2024. [[paper](https://arxiv.org/pdf/2409.10281)]
+
+* ImmerseDiffusion: A Generative Spatial Audio Latent Diffusion Model, in *ArXiv* 2024. [[paper](https://arxiv.org/pdf/2410.14945)]
 
 
 ### Biology
