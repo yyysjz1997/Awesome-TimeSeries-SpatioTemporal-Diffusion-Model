@@ -182,6 +182,9 @@ We will continue to update this list with the newest resources. If you find any 
 
 * Retrieval-Augmented Diffusion Models for Time Series Forecasting, in *ArXiv* 2024. [[paper](https://arxiv.org/pdf/2410.18712)] [[official-code](https://github.com/stanliu96/RATD)]
 
+* Diffusion-driven Incomplete Multimodal Learning for Air Quality Prediction, in *ACM Transactions on Internet of Things*, 2024. [[paper](https://dl.acm.org/doi/abs/10.1145/3702243)] [[official-code](https://github.com/pestasu/IMMAir)]
+
+
 
 
 ### Generation
@@ -356,6 +359,11 @@ We will continue to update this list with the newest resources. If you find any 
 
 * Generation of synthetic financial time series by diffusion models, in *ArXiv* 2024. [[paper](https://arxiv.org/pdf/2410.18897)]
 
+* Utilizing Image Transforms and Diffusion Models for Generative Modeling of Short and Long Time Series, in *ArXiv*, 2024. [[paper](https://arxiv.org/pdf/2410.19538)] [[official-code](https://github.com/azencot-group/ImagenTime)]
+
+* Federated Time Series Generation on Feature and Temporally Misaligned Data, in *ArXiv*, 2024. [[paper](https://arxiv.org/pdf/2410.21072)]
+
+
 
 ### Imputation
 
@@ -503,6 +511,8 @@ We will continue to update this list with the newest resources. If you find any 
 
 * Denoising Diffusion Probabilistic Model Enhanced Tool Condition Monitoring Method Under Imbalanced Conditions, in *Measurement Science and Technology* 2024. [[paper](https://iopscience.iop.org/article/10.1088/1361-6501/ad86d5/meta)]
 
+* EEGCiD: EEG Condensation Into Diffusion Model, in *IEEE Transactions on Automation Science and Engineering*, 2024. [[paper](https://ieeexplore.ieee.org/abstract/document/10738504)] [[official-code](https://github.com/JunFuChen/EEGCiD)]
+
 
 ### Causal Inference
 
@@ -646,6 +656,11 @@ We will continue to update this list with the newest resources. If you find any 
 * Traj-Explainer: An Explainable and Robust Multi-modal Trajectory Prediction Approach, in *ArXiv* 2024. [[paper](https://arxiv.org/abs/2410.16795)]
 
 * FoMo: A Foundation Model for Mobile Traffic Forecasting with Diffusion Model, in *ArXiv* 2024. [[paper](https://arxiv.org/pdf/2410.15322)]
+
+* DiffLight: A Partial Rewards Conditioned Diffusion Model for Traffic Signal Control with Missing Data, in *NeurIPS*, 2024. [[paper](https://arxiv.org/pdf/2410.22938)] [[official-code](https://github.com/lokol5579/DiffLight-release)]
+
+* Predicting Trajectory Destinations Based on Diffusion Model Integrating Spatiotemporal Features and Urban Contexts, in *International Journal of Digital Earth*, 2024. [[paper](https://www.tandfonline.com/doi/pdf/10.1080/17538947.2024.2421955)]
+
 
 
   
@@ -802,6 +817,9 @@ We will continue to update this list with the newest resources. If you find any 
 * DiffPO: A causal diffusion model for learning distributions of potential outcomes, in *ArXiv* 2024. [[paper](https://arxiv.org/pdf/2410.08924)] [[official-code](https://github.com/yccm/DiffPO)]
 
 * EEG-DIF: Early Warning of Epileptic Seizures through Generative Diffusion Model-based Multi-channel EEG Signals Forecasting, in *ArXiv* 2024. [[paper](https://arxiv.org/pdf/2410.17343)] [[official-code](https://github.com/JZK00/EEG-DIF)]
+
+* EEGCiD: EEG Condensation Into Diffusion Model, in *IEEE Transactions on Automation Science and Engineering*, 2024. [[paper](https://ieeexplore.ieee.org/abstract/document/10738504)] [[official-code](https://github.com/JunFuChen/EEGCiD)]
+
   
   
 ### Sequential Recommendation
@@ -1047,6 +1065,11 @@ We will continue to update this list with the newest resources. If you find any 
 
 * FoMo: A Foundation Model for Mobile Traffic Forecasting with Diffusion Model, in *ArXiv* 2024. [[paper](https://arxiv.org/pdf/2410.15322)]
 
+* DiffLight: A Partial Rewards Conditioned Diffusion Model for Traffic Signal Control with Missing Data, in *NeurIPS*, 2024. [[paper](https://arxiv.org/pdf/2410.22938)] [[official-code](https://github.com/lokol5579/DiffLight-release)]
+
+* Predicting Trajectory Destinations Based on Diffusion Model Integrating Spatiotemporal Features and Urban Contexts, in *International Journal of Digital Earth*, 2024. [[paper](https://www.tandfonline.com/doi/pdf/10.1080/17538947.2024.2421955)]
+
+
 
 
 ### Manufacturing
@@ -1096,6 +1119,8 @@ We will continue to update this list with the newest resources. If you find any 
 * Extremely imbalanced data intelligent fault diagnosis of rotating impeller with improved denoising diffusion probabilistic models, in *Proceedings of the Institution of Mechanical Engineers, Part B: Journal of Engineering Manufacture* 2024. [[paper](https://journals.sagepub.com/doi/abs/10.1177/09544054241289981)]
 
 * Denoising diffusion probabilistic model-enabled data augmentation method for intelligent machine fault diagnosis, in *Engineering Applications of Artificial Intelligence* 2024. [[paper](https://www.sciencedirect.com/science/article/pii/S0952197624016786)]
+
+* Diffusion-driven Incomplete Multimodal Learning for Air Quality Prediction, in *ACM Transactions on Internet of Things*, 2024. [[paper](https://dl.acm.org/doi/abs/10.1145/3702243)] [[official-code](https://github.com/pestasu/IMMAir)]
 
 
   
