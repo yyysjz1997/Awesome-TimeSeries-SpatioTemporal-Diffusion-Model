@@ -184,6 +184,10 @@ We will continue to update this list with the newest resources. If you find any 
 
 * Diffusion-driven Incomplete Multimodal Learning for Air Quality Prediction, in *ACM Transactions on Internet of Things*, 2024. [[paper](https://dl.acm.org/doi/abs/10.1145/3702243)] [[official-code](https://github.com/pestasu/IMMAir)]
 
+* DiffBatt: A Diffusion Model for Battery Degradation Prediction and Synthesis, in *ArXiv* 2024. [[paper](https://arxiv.org/pdf/2410.23893)] [[official-code]( https://github.com/HamidrezaEiv/DiffBatt.git)]
+
+* Time Series Prediction Based on the Probability Diffusion Model, in *IEEE Information Technology, Networking, Electronic and Automation Control Conference* 2024. [[paper](https://ieeexplore.ieee.org/document/10733342)]
+
 
 
 
@@ -363,6 +367,8 @@ We will continue to update this list with the newest resources. If you find any 
 
 * Federated Time Series Generation on Feature and Temporally Misaligned Data, in *ArXiv*, 2024. [[paper](https://arxiv.org/pdf/2410.21072)]
 
+* Towards Editing Time Series, in *Openreview* 2024. [[paper](https://openreview.net/pdf?id=qu5NTwZtxA)] )] [[official-code]( https://seqml.github.io/tse/)]
+
 
 
 ### Imputation
@@ -416,6 +422,8 @@ We will continue to update this list with the newest resources. If you find any 
 * TIMBA: Time series Imputation with Bi-directional Mamba Blocks and Diffusion models, in *ArXiv* 2024. [[paper](https://arxiv.org/pdf/2410.05916)]
 
 * DiffImp: Efficient Diffusion Model for Probabilistic Time Series Imputation with Bidirectional Mamba Backbone, in *ArXiv* 2024. [[paper](https://arxiv.org/pdf/2410.13338)]
+
+* Self-attention-based Diffusion Model for Time-series Imputation, in *AAAI Fall Symposium Series* 2024. [[paper](https://ojs.aaai.org/index.php/AAAI-SS/article/view/31827)]
 
 
 ### Anomaly Detection
@@ -512,6 +520,8 @@ We will continue to update this list with the newest resources. If you find any 
 * Denoising Diffusion Probabilistic Model Enhanced Tool Condition Monitoring Method Under Imbalanced Conditions, in *Measurement Science and Technology* 2024. [[paper](https://iopscience.iop.org/article/10.1088/1361-6501/ad86d5/meta)]
 
 * EEGCiD: EEG Condensation Into Diffusion Model, in *IEEE Transactions on Automation Science and Engineering*, 2024. [[paper](https://ieeexplore.ieee.org/abstract/document/10738504)] [[official-code](https://github.com/JunFuChen/EEGCiD)]
+
+* IMUDiffusion: A Diffusion Model for Multivariate Time Series Synthetisation for Inertial Motion Capturing Systems, in *ArXiv* 2024. [[paper](https://arxiv.org/pdf/2411.02954)]
 
 
 ### Causal Inference
@@ -660,6 +670,11 @@ We will continue to update this list with the newest resources. If you find any 
 * DiffLight: A Partial Rewards Conditioned Diffusion Model for Traffic Signal Control with Missing Data, in *NeurIPS*, 2024. [[paper](https://arxiv.org/pdf/2410.22938)] [[official-code](https://github.com/lokol5579/DiffLight-release)]
 
 * Predicting Trajectory Destinations Based on Diffusion Model Integrating Spatiotemporal Features and Urban Contexts, in *International Journal of Digital Earth*, 2024. [[paper](https://www.tandfonline.com/doi/pdf/10.1080/17538947.2024.2421955)]
+
+* ProGen: Revisiting Probabilistic Spatial-Temporal Time Series Forecasting from a Continuous Generative Perspective Using Stochastic Differential Equations, in *ArXiv* 2024. [[paper](https://arxiv.org/abs/2411.01267)]
+  
+* DiffWT: Diffusion-Based Pedestrian Trajectory Prediction With Time-frequency Wavelet Transform, in *IEEE Internet of Things Journal* 2024. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10742074)]
+
 
 
 
@@ -930,6 +945,8 @@ We will continue to update this list with the newest resources. If you find any 
 
 * PV-Diff: Probability Prediction of Short-term Photovoltaic Power Interval Based on Conditional Diffusion Model, in *Chinese Control Conference* 2024. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10661972)]
 
+* DiffBatt: A Diffusion Model for Battery Degradation Prediction and Synthesis, in *ArXiv* 2024. [[paper](https://arxiv.org/pdf/2410.23893)] [[official-code]( https://github.com/HamidrezaEiv/DiffBatt.git)]
+
 
 ### Math and Physics
 
@@ -1121,6 +1138,8 @@ We will continue to update this list with the newest resources. If you find any 
 * Denoising diffusion probabilistic model-enabled data augmentation method for intelligent machine fault diagnosis, in *Engineering Applications of Artificial Intelligence* 2024. [[paper](https://www.sciencedirect.com/science/article/pii/S0952197624016786)]
 
 * Diffusion-driven Incomplete Multimodal Learning for Air Quality Prediction, in *ACM Transactions on Internet of Things*, 2024. [[paper](https://dl.acm.org/doi/abs/10.1145/3702243)] [[official-code](https://github.com/pestasu/IMMAir)]
+
+* IMUDiffusion: A Diffusion Model for Multivariate Time Series Synthetisation for Inertial Motion Capturing Systems, in *ArXiv* 2024. [[paper](https://arxiv.org/pdf/2411.02954)]
 
 
   
