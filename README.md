@@ -25,6 +25,8 @@ We will continue to update this list with the newest resources. If you find any 
 
 **Authors**: Yiyuan Yang, Ming Jin, Haomin Wen, Chaoli Zhang, Yuxuan Liang*, Lintao Ma, Yi Wang, Chenghao Liu, Bin Yang, Zenglin Xu, Jiang Bian, Shirui Pan, Qingsong Wen*
 
+![overview](img/overview.pdf)
+
 🙋 Please let us know if you find a mistake or have any suggestions!
 
 ✨ If you found this survey and repository useful, please consider to star this repository and cite our survey paper:
