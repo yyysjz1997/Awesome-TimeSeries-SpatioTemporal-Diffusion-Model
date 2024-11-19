@@ -25,9 +25,9 @@ We will continue to update this list with the newest resources. If you find any 
 
 **Authors**: Yiyuan Yang, Ming Jin, Haomin Wen, Chaoli Zhang, Yuxuan Liang*, Lintao Ma, Yi Wang, Chenghao Liu, Bin Yang, Zenglin Xu, Jiang Bian, Shirui Pan, Qingsong Wen*
 
-<p align="center">
-    <img src="./img/overview.pdf" height="190" alt="Overview Illustration" align="center" />
-</p>
+|![Figure1](img/overview.pdf)|
+|:--:| 
+| *Figure 1. An overview of diffusion models for time series and spatio-temporal data analysis.* |
 
 🙋 Please let us know if you find a mistake or have any suggestions!
 
