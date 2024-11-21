@@ -297,9 +297,9 @@ We will continue to update this list with the newest resources. If you find any 
 
 * Combining audio control and style transfer using latent diffusion, in *ISMIR* 2024. [[paper](https://arxiv.org/pdf/2408.00196)] [[official-code](https://github.com/NilsDem/control-transfer-diffusion/)]
 
-* DiffPhys: Enhancing Signal-to-Noise Ratio in Remote Photoplethysmography Signal Using a Diffusion Model Approach, in *Bioengineering* 2024. [[paper](https://www.mdpi.com/2306-5354/11/8/743)
+* DiffPhys: Enhancing Signal-to-Noise Ratio in Remote Photoplethysmography Signal Using a Diffusion Model Approach, in *Bioengineering* 2024. [[paper](https://www.mdpi.com/2306-5354/11/8/743)]
 
-* Data augmentation based on diffusion probabilistic model for remaining useful life estimation of aero-engines, in *Reliability Engineering and System Safety* 2024. [[paper](https://www.sciencedirect.com/science/article/pii/S0951832024004666)
+* Data augmentation based on diffusion probabilistic model for remaining useful life estimation of aero-engines, in *Reliability Engineering and System Safety* 2024. [[paper](https://www.sciencedirect.com/science/article/pii/S0951832024004666)]
 
 * ECGDiff: Conditional Diffusion Model for ECG Reconstruction from Doppler Signals, in *IEEE International Conference on Communications* 2024. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10622196)]
 
@@ -805,7 +805,7 @@ We will continue to update this list with the newest resources. If you find any 
 
 * Synthesizing EEG Signals from Event-Related Potential Paradigms with Conditional Diffusion Models, in *ArXiv* 2024. [[paper](https://arxiv.org/pdf/2403.18486)]
 
-* DiffPhys: Enhancing Signal-to-Noise Ratio in Remote Photoplethysmography Signal Using a Diffusion Model Approach, in *Bioengineering* 2024. [[paper](https://www.mdpi.com/2306-5354/11/8/743)
+* DiffPhys: Enhancing Signal-to-Noise Ratio in Remote Photoplethysmography Signal Using a Diffusion Model Approach, in *Bioengineering* 2024. [[paper](https://www.mdpi.com/2306-5354/11/8/743)]
 
 * Guided Discrete Diffusion for Electronic Health Record Generation, in *ArXiv* 2024. [[paper](https://arxiv.org/pdf/2404.12314)]
 
@@ -1125,7 +1125,7 @@ We will continue to update this list with the newest resources. If you find any 
 
 * DF-CDM: Conditional diffusion model with data fusion for structural dynamic response reconstruction, in *Mechanical Systems and Signal Processing* 2024. [[paper](https://www.sciencedirect.com/science/article/pii/S0888327024006812)]
 
-* Data augmentation based on diffusion probabilistic model for remaining useful life estimation of aero-engines, in *Reliability Engineering and System Safety* 2024. [[paper](https://www.sciencedirect.com/science/article/pii/S0951832024004666)
+* Data augmentation based on diffusion probabilistic model for remaining useful life estimation of aero-engines, in *Reliability Engineering and System Safety* 2024. [[paper](https://www.sciencedirect.com/science/article/pii/S0951832024004666)]
 
 * Multi-source domain adaptation using diffusion denoising for bearing fault diagnosis under variable working conditions, in *Knowledge-Based Systems* 2024. [[paper](https://www.sciencedirect.com/science/article/pii/S095070512401030X)]
 
