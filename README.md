@@ -373,6 +373,9 @@ We will continue to update this list with the newest resources. If you find any 
 
 * Towards Editing Time Series, in *Openreview* 2024. [[paper](https://openreview.net/pdf?id=qu5NTwZtxA)] )] [[official-code]( https://seqml.github.io/tse/)]
 
+* FIDE: Frequency-Inflated Conditional Diffusion Model for Extreme-Aware Time Series Generation, in *NeurIPS* 2024. [[paper](https://openreview.net/pdf?id=5HQhYiGnYb)] [[official-code](https://github.com/galib19/FIDE)]
+
+
 
 
 ### Imputation
@@ -428,6 +431,9 @@ We will continue to update this list with the newest resources. If you find any 
 * DiffImp: Efficient Diffusion Model for Probabilistic Time Series Imputation with Bidirectional Mamba Backbone, in *ArXiv* 2024. [[paper](https://arxiv.org/pdf/2410.13338)]
 
 * Self-attention-based Diffusion Model for Time-series Imputation, in *AAAI Fall Symposium Series* 2024. [[paper](https://ojs.aaai.org/index.php/AAAI-SS/article/view/31827)]
+
+* Frequency-aware Generative Models for Multivariate Time Series Imputation, in *OpenReview* 2024. [[paper](https://openreview.net/pdf?id=UE6CeRMnq3)]
+
 
 
 ### Anomaly Detection
@@ -485,6 +491,9 @@ We will continue to update this list with the newest resources. If you find any 
 * Extremely imbalanced data intelligent fault diagnosis of rotating impeller with improved denoising diffusion probabilistic models, in *Proceedings of the Institution of Mechanical Engineers, Part B: Journal of Engineering Manufacture* 2024. [[paper](https://journals.sagepub.com/doi/abs/10.1177/09544054241289981)]
 
 * Denoising diffusion probabilistic model-enabled data augmentation method for intelligent machine fault diagnosis, in *Engineering Applications of Artificial Intelligence* 2024. [[paper](https://www.sciencedirect.com/science/article/pii/S0952197624016786)]
+
+* Synthetic Data Generation for Fraud Detection Using Diffusion Models, in *Information and Security* 2024. [[paper](https://www.isij.eu/system/files/download-count/2024-11/5534_Fraud_detection.pdf)]
+
 
 
 ### Classification and Regression
@@ -722,6 +731,13 @@ We will continue to update this list with the newest resources. If you find any 
 * Rethinking the Diffusion Models for Numerical Tabular Data Imputation from the Perspective of Wasserstein Gradient Flow, in *ArXiv* 2024. [[paper](https://arxiv.org/pdf/2406.15762)]
 
 * Estimating Probability Densities of Tabular Data using a Transformer Model combined with Denoising Diffusion, in *OpenReview* 2024. [[paper](https://openreview.net/pdf?id=hLQnN3frL2)]
+
+* Entity-based Financial Tabular Data Synthesis with Diffusion Models, in *ICAIF* 2024. [[paper](https://dl.acm.org/doi/pdf/10.1145/3677052.3698625)]
+
+* Denoising Diffusion Probabilistic Model for Realistic Financial Correlation Matrices, in *ICAIF* 2024. [[paper](https://dl.acm.org/doi/pdf/10.1145/3677052.3698640)] [[official-code](https://github.com/szymkubiak/DDPM-for-Correlation-Matrices)]
+  
+* Imb-FinDiff: Conditional Diffusion Models for Class Imbalance Synthesis of Financial Tabular Data, in *ICAIF* 2024. [[paper](https://dl.acm.org/doi/pdf/10.1145/3677052.3698659)]
+
 
 
 
@@ -986,6 +1002,14 @@ We will continue to update this list with the newest resources. If you find any 
 * A Spatio-Temporal Diffusion Model for Missing and Real-Time Financial Data Inference, in *CIKM* 2024. [[paper](https://dl.acm.org/doi/abs/10.1145/3627673.3679806)]
 
 * Generation of synthetic financial time series by diffusion models, in *ArXiv* 2024. [[paper](https://arxiv.org/pdf/2410.18897)]
+
+* Entity-based Financial Tabular Data Synthesis with Diffusion Models, in *ICAIF* 2024. [[paper](https://dl.acm.org/doi/pdf/10.1145/3677052.3698625)]
+
+* Denoising Diffusion Probabilistic Model for Realistic Financial Correlation Matrices, in *ICAIF* 2024. [[paper](https://dl.acm.org/doi/pdf/10.1145/3677052.3698640)] [[official-code](https://github.com/szymkubiak/DDPM-for-Correlation-Matrices)]
+  
+* Imb-FinDiff: Conditional Diffusion Models for Class Imbalance Synthesis of Financial Tabular Data, in *ICAIF* 2024. [[paper](https://dl.acm.org/doi/pdf/10.1145/3677052.3698659)]
+
+* Synthetic Data Generation for Fraud Detection Using Diffusion Models, in *Information and Security* 2024. [[paper](https://www.isij.eu/system/files/download-count/2024-11/5534_Fraud_detection.pdf)]
 
 
 
