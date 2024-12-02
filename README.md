@@ -192,6 +192,9 @@ We will continue to update this list with the newest resources. If you find any 
 
 * Time Series Prediction Based on the Probability Diffusion Model, in *IEEE Information Technology, Networking, Electronic and Automation Control Conference* 2024. [[paper](https://ieeexplore.ieee.org/document/10733342)]
 
+* RNDiff: Rainfall Nowcasting with Condition Diffusion Model, *Pattern Recognition*, 2024. [[paper](https://www.sciencedirect.com/science/article/pii/S0031320324009440)] [[official-code](https://github.com/ybu-lxd/SRNDiff)]
+
+
 
 
 
@@ -375,6 +378,11 @@ We will continue to update this list with the newest resources. If you find any 
 
 * FIDE: Frequency-Inflated Conditional Diffusion Model for Extreme-Aware Time Series Generation, in *NeurIPS* 2024. [[paper](https://openreview.net/pdf?id=5HQhYiGnYb)] [[official-code](https://github.com/galib19/FIDE)]
 
+* EEGDfus: A Conditional Diffusion Model for Fine-Grained EEG Denoising, *IEEE Journal of Biomedical and Health Informatics*, 2024. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10763506)] [[official-code](https://github.com/XYH0118/EEGDfus)]
+
+* Regional Features Conditioned Diffusion Models for 5G Network Traffic Generation, *SIGSPATIAL*, 2024. [[paper](https://dl.acm.org/doi/pdf/10.1145/3678717.3691312)]
+
+
 
 
 
@@ -493,6 +501,11 @@ We will continue to update this list with the newest resources. If you find any 
 * Denoising diffusion probabilistic model-enabled data augmentation method for intelligent machine fault diagnosis, in *Engineering Applications of Artificial Intelligence* 2024. [[paper](https://www.sciencedirect.com/science/article/pii/S0952197624016786)]
 
 * Synthetic Data Generation for Fraud Detection Using Diffusion Models, in *Information and Security* 2024. [[paper](https://www.isij.eu/system/files/download-count/2024-11/5534_Fraud_detection.pdf)]
+
+* A Network Traffic Data Generation Model Based on AOT-DDPM for Abnormal Traffic Detection, *Evolving Systems*, 2024. [[paper](https://link.springer.com/article/10.1007/s12530-024-09644-y)]
+
+* AdaDiffAD: Adaptively Segmenting Diffusion Models for Time Series Anomaly Detection in Dynamic JointCloud Environment, *IEEE 30th International Conference on Parallel and Distributed Systems*, 2024. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10763788)]
+
 
 
 
@@ -688,6 +701,9 @@ We will continue to update this list with the newest resources. If you find any 
   
 * DiffWT: Diffusion-Based Pedestrian Trajectory Prediction With Time-frequency Wavelet Transform, in *IEEE Internet of Things Journal* 2024. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10742074)]
 
+* Spatiotemporal Imputation of Traffic Emissions With Self-Supervised Diffusion Model, *IEEE Transactions on Neural Networks and Learning Systems*, 2024. [[paper](https://ieeexplore.ieee.org/abstract/document/10758344)]
+
+
 
 
 
@@ -855,6 +871,8 @@ We will continue to update this list with the newest resources. If you find any 
 
 * EEGCiD: EEG Condensation Into Diffusion Model, in *IEEE Transactions on Automation Science and Engineering*, 2024. [[paper](https://ieeexplore.ieee.org/abstract/document/10738504)] [[official-code](https://github.com/JunFuChen/EEGCiD)]
 
+* EEGDfus: A Conditional Diffusion Model for Fine-Grained EEG Denoising, *IEEE Journal of Biomedical and Health Informatics*, 2024. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10763506)] [[official-code](https://github.com/XYH0118/EEGDfus)]
+
   
   
 ### Sequential Recommendation
@@ -913,6 +931,8 @@ We will continue to update this list with the newest resources. If you find any 
 * SRNDiff: Short-term Rainfall Nowcasting with Condition Diffusion Model, in *ArXiv* 2024. [[paper](https://arxiv.org/abs/2402.13737)]
 
 * Precipitation Nowcasting Using Diffusion Transformer with Causal Attention, in *ArXiv* 2024. [[paper](https://arxiv.org/pdf/2410.13314)]
+
+* RNDiff: Rainfall Nowcasting with Condition Diffusion Model, *Pattern Recognition*, 2024. [[paper](https://www.sciencedirect.com/science/article/pii/S0031320324009440)] [[official-code](https://github.com/ybu-lxd/SRNDiff)]
 
 
 ### Energy and Electricity
@@ -1027,6 +1047,8 @@ We will continue to update this list with the newest resources. If you find any 
 
 * ProDiffAD: Progressively Distilled Diffusion Models for Multivariate Time Series Anomaly Detection in JointCloud Environment, in *IJCNN* 2024. [[paper](https://ieeexplore.ieee.org/abstract/document/10650364)] [[official-code](https://github.com/AiShare-WHU/ProDiffAD)]
 
+* AdaDiffAD: Adaptively Segmenting Diffusion Models for Time Series Anomaly Detection in Dynamic JointCloud Environment, *IEEE 30th International Conference on Parallel and Distributed Systems*, 2024. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10763788)]
+
 
 
 ### Environment
@@ -1113,6 +1135,14 @@ We will continue to update this list with the newest resources. If you find any 
 * DiffLight: A Partial Rewards Conditioned Diffusion Model for Traffic Signal Control with Missing Data, in *NeurIPS*, 2024. [[paper](https://arxiv.org/pdf/2410.22938)] [[official-code](https://github.com/lokol5579/DiffLight-release)]
 
 * Predicting Trajectory Destinations Based on Diffusion Model Integrating Spatiotemporal Features and Urban Contexts, in *International Journal of Digital Earth*, 2024. [[paper](https://www.tandfonline.com/doi/pdf/10.1080/17538947.2024.2421955)]
+
+* A Network Traffic Data Generation Model Based on AOT-DDPM for Abnormal Traffic Detection, *Evolving Systems*, 2024. [[paper](https://link.springer.com/article/10.1007/s12530-024-09644-y)]
+
+* Regional Features Conditioned Diffusion Models for 5G Network Traffic Generation, *SIGSPATIAL*, 2024. [[paper](https://dl.acm.org/doi/pdf/10.1145/3678717.3691312)]
+
+* Spatiotemporal Imputation of Traffic Emissions With Self-Supervised Diffusion Model, *IEEE Transactions on Neural Networks and Learning Systems*, 2024. [[paper](https://ieeexplore.ieee.org/abstract/document/10758344)]
+
+
 
 
 
