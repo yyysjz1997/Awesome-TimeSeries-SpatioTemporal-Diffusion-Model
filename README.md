@@ -382,6 +382,15 @@ We will continue to update this list with the newest resources. If you find any 
 
 * Regional Features Conditioned Diffusion Models for 5G Network Traffic Generation, *SIGSPATIAL*, 2024. [[paper](https://dl.acm.org/doi/pdf/10.1145/3678717.3691312)]
 
+* An AIGC-driven Score-Based Diffusion Approach for Industrial Time Series, in *IEEE Internet of Things Journal* 2024. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10785562)]
+
+* Sparsity Measures-Enhanced Targeted Diffusion Probabilistic Model for Acoustic Signal Recovery, in *IEEE Transactions on Instrumentation and Measurement* 2024. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10802969)]
+
+* Guided Diffusion Model for Sensor Data Obfuscation, in *ArXiv* 2024. [[paper](https://arxiv.org/pdf/2412.14499)]
+
+* Population Aware Diffusion for Time Series Generation, in *AAAI* 2025. [[paper](https://arxiv.org/pdf/2501.00910)] [[official-code](https://github.com/wmd3i/PaD-TS)]
+
+* TAMHA-DDPM: A Time-Aware Multi-Head Attention Denoising Diffusion Probability Model for Fuzzy Data Optimization in Intelligent Transportation Systems, in *IEEE Transactions on Intelligent Transportation Systems* 2024. [[paper](https://ieeexplore.ieee.org/abstract/document/10817476)]
 
 
 
@@ -441,6 +450,9 @@ We will continue to update this list with the newest resources. If you find any 
 * Self-attention-based Diffusion Model for Time-series Imputation, in *AAAI Fall Symposium Series* 2024. [[paper](https://ojs.aaai.org/index.php/AAAI-SS/article/view/31827)]
 
 * Frequency-aware Generative Models for Multivariate Time Series Imputation, in *OpenReview* 2024. [[paper](https://openreview.net/pdf?id=UE6CeRMnq3)]
+
+* Boundary-enhanced time series data imputation with long-term dependency diffusion models, in *Knowledge-Based Systems* 2024. [[paper](https://www.sciencedirect.com/science/article/pii/S095070512401551X)]
+
 
 
 
@@ -569,10 +581,16 @@ We will continue to update this list with the newest resources. If you find any 
 
 * Adversarial Purification for Data-Driven Power System Event Classifiers with Diffusion Models, in *ArXiv* 2023. [[paper](https://arxiv.org/abs/2311.07110)]
 
+* Limit Order Book Event Stream Prediction with Diffusion Model, in *ArXiv* 2024. [[paper](https://arxiv.org/pdf/2412.09631)]
+
+
 
 ### Foundation Model
 
 * TimeDiT: General-purpose Diffusion Transformers for Time Series Foundation Model, in *OpenReview* 2024. [[paper](https://openreview.net/pdf?id=DA36Myd4HD)]
+
+* UTSD: Unified Time Series Diffusion Model, in *ArXiv* 2024. [[paper](https://arxiv.org/abs/2412.03068)]
+
 
 
 ## Diffusion Model for Spatio-Temporal Data
@@ -703,6 +721,9 @@ We will continue to update this list with the newest resources. If you find any 
 
 * Spatiotemporal Imputation of Traffic Emissions With Self-Supervised Diffusion Model, *IEEE Transactions on Neural Networks and Learning Systems*, 2024. [[paper](https://ieeexplore.ieee.org/abstract/document/10758344)]
 
+* Spatiotemporally Coherent Probabilistic Generation of Weather from Climate, in *ArXiv* 2024. [[paper](https://arxiv.org/pdf/2412.15361)] [[official-code](https://github.com/schmidtjonathan/Climate2Weather)]
+
+* RDPI: A Refine Diffusion Probability Generation Method for Spatiotemporal Data Imputation, in *ArXiv* 2024. [[paper](https://arxiv.org/pdf/2412.12642)] [[official-code](https://github.com/liuzjin/RDPI)]
 
 
 
@@ -934,6 +955,8 @@ We will continue to update this list with the newest resources. If you find any 
 
 * RNDiff: Rainfall Nowcasting with Condition Diffusion Model, *Pattern Recognition*, 2024. [[paper](https://www.sciencedirect.com/science/article/pii/S0031320324009440)] [[official-code](https://github.com/ybu-lxd/SRNDiff)]
 
+* Spatiotemporally Coherent Probabilistic Generation of Weather from Climate, in *ArXiv* 2024. [[paper](https://arxiv.org/pdf/2412.15361)] [[official-code](https://github.com/schmidtjonathan/Climate2Weather)]
+
 
 ### Energy and Electricity
 
@@ -1030,6 +1053,8 @@ We will continue to update this list with the newest resources. If you find any 
 * Imb-FinDiff: Conditional Diffusion Models for Class Imbalance Synthesis of Financial Tabular Data, in *ICAIF* 2024. [[paper](https://dl.acm.org/doi/pdf/10.1145/3677052.3698659)]
 
 * Synthetic Data Generation for Fraud Detection Using Diffusion Models, in *Information and Security* 2024. [[paper](https://www.isij.eu/system/files/download-count/2024-11/5534_Fraud_detection.pdf)]
+
+* Limit Order Book Event Stream Prediction with Diffusion Model, in *ArXiv* 2024. [[paper](https://arxiv.org/pdf/2412.09631)]
 
 
 
@@ -1142,7 +1167,7 @@ We will continue to update this list with the newest resources. If you find any 
 
 * Spatiotemporal Imputation of Traffic Emissions With Self-Supervised Diffusion Model, *IEEE Transactions on Neural Networks and Learning Systems*, 2024. [[paper](https://ieeexplore.ieee.org/abstract/document/10758344)]
 
-
+* TAMHA-DDPM: A Time-Aware Multi-Head Attention Denoising Diffusion Probability Model for Fuzzy Data Optimization in Intelligent Transportation Systems, in *IEEE Transactions on Intelligent Transportation Systems* 2024. [[paper](https://ieeexplore.ieee.org/abstract/document/10817476)]
 
 
 
@@ -1199,6 +1224,7 @@ We will continue to update this list with the newest resources. If you find any 
 
 * IMUDiffusion: A Diffusion Model for Multivariate Time Series Synthetisation for Inertial Motion Capturing Systems, in *ArXiv* 2024. [[paper](https://arxiv.org/pdf/2411.02954)]
 
+* Guided Diffusion Model for Sensor Data Obfuscation, in *ArXiv* 2024. [[paper](https://arxiv.org/pdf/2412.14499)]
 
   
 
@@ -1241,6 +1267,9 @@ We will continue to update this list with the newest resources. If you find any 
 * DreamHead: Learning Spatial-Temporal Correspondence via Hierarchical Diffusion for Audio-driven Talking Head Synthesis, in *ArXiv* 2024. [[paper](https://arxiv.org/pdf/2409.10281)]
 
 * ImmerseDiffusion: A Generative Spatial Audio Latent Diffusion Model, in *ArXiv* 2024. [[paper](https://arxiv.org/pdf/2410.14945)]
+
+* Sparsity Measures-Enhanced Targeted Diffusion Probabilistic Model for Acoustic Signal Recovery, in *IEEE Transactions on Instrumentation and Measurement* 2024. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10802969)]
+
 
 
 ### Biology
