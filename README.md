@@ -186,13 +186,13 @@ We will continue to update this list with the newest resources. If you find any 
 
 * Retrieval-Augmented Diffusion Models for Time Series Forecasting, in *ArXiv* 2024. [[paper](https://arxiv.org/pdf/2410.18712)] [[official-code](https://github.com/stanliu96/RATD)]
 
-* Diffusion-driven Incomplete Multimodal Learning for Air Quality Prediction, in *ACM Transactions on Internet of Things*, 2024. [[paper](https://dl.acm.org/doi/abs/10.1145/3702243)] [[official-code](https://github.com/pestasu/IMMAir)]
+* Diffusion-driven Incomplete Multimodal Learning for Air Quality Prediction, in *ACM Transactions on Internet of Things* 2024. [[paper](https://dl.acm.org/doi/abs/10.1145/3702243)] [[official-code](https://github.com/pestasu/IMMAir)]
 
 * DiffBatt: A Diffusion Model for Battery Degradation Prediction and Synthesis, in *ArXiv* 2024. [[paper](https://arxiv.org/pdf/2410.23893)] [[official-code]( https://github.com/HamidrezaEiv/DiffBatt.git)]
 
 * Time Series Prediction Based on the Probability Diffusion Model, in *IEEE Information Technology, Networking, Electronic and Automation Control Conference* 2024. [[paper](https://ieeexplore.ieee.org/document/10733342)]
 
-* RNDiff: Rainfall Nowcasting with Condition Diffusion Model, *Pattern Recognition*, 2024. [[paper](https://www.sciencedirect.com/science/article/pii/S0031320324009440)] [[official-code](https://github.com/ybu-lxd/SRNDiff)]
+* RNDiff: Rainfall Nowcasting with Condition Diffusion Model, in *Pattern Recognition* 2024. [[paper](https://www.sciencedirect.com/science/article/pii/S0031320324009440)] [[official-code](https://github.com/ybu-lxd/SRNDiff)]
 
 
 
@@ -514,9 +514,11 @@ We will continue to update this list with the newest resources. If you find any 
 
 * Synthetic Data Generation for Fraud Detection Using Diffusion Models, in *Information and Security* 2024. [[paper](https://www.isij.eu/system/files/download-count/2024-11/5534_Fraud_detection.pdf)]
 
-* A Network Traffic Data Generation Model Based on AOT-DDPM for Abnormal Traffic Detection, *Evolving Systems*, 2024. [[paper](https://link.springer.com/article/10.1007/s12530-024-09644-y)]
+* A Network Traffic Data Generation Model Based on AOT-DDPM for Abnormal Traffic Detection, in *Evolving Systems* 2024. [[paper](https://link.springer.com/article/10.1007/s12530-024-09644-y)]
 
-* AdaDiffAD: Adaptively Segmenting Diffusion Models for Time Series Anomaly Detection in Dynamic JointCloud Environment, *IEEE 30th International Conference on Parallel and Distributed Systems*, 2024. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10763788)]
+* AdaDiffAD: Adaptively Segmenting Diffusion Models for Time Series Anomaly Detection in Dynamic JointCloud Environment, in *IEEE 30th International Conference on Parallel and Distributed Systems* 2024. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10763788)]
+
+* Multivariate Time Series Anomaly Detection using DiffGAN Model, in *ArXiv* 2025. [[paper](https://arxiv.org/pdf/2501.01591)]
 
 
 
@@ -890,9 +892,9 @@ We will continue to update this list with the newest resources. If you find any 
 
 * EEG-DIF: Early Warning of Epileptic Seizures through Generative Diffusion Model-based Multi-channel EEG Signals Forecasting, in *ArXiv* 2024. [[paper](https://arxiv.org/pdf/2410.17343)] [[official-code](https://github.com/JZK00/EEG-DIF)]
 
-* EEGCiD: EEG Condensation Into Diffusion Model, in *IEEE Transactions on Automation Science and Engineering*, 2024. [[paper](https://ieeexplore.ieee.org/abstract/document/10738504)] [[official-code](https://github.com/JunFuChen/EEGCiD)]
+* EEGCiD: EEG Condensation Into Diffusion Model, in *IEEE Transactions on Automation Science and Engineering* 2024. [[paper](https://ieeexplore.ieee.org/abstract/document/10738504)] [[official-code](https://github.com/JunFuChen/EEGCiD)]
 
-* EEGDfus: A Conditional Diffusion Model for Fine-Grained EEG Denoising, *IEEE Journal of Biomedical and Health Informatics*, 2024. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10763506)] [[official-code](https://github.com/XYH0118/EEGDfus)]
+* EEGDfus: A Conditional Diffusion Model for Fine-Grained EEG Denoising, in *IEEE Journal of Biomedical and Health Informatics* 2024. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10763506)] [[official-code](https://github.com/XYH0118/EEGDfus)]
 
   
   
@@ -1072,7 +1074,7 @@ We will continue to update this list with the newest resources. If you find any 
 
 * ProDiffAD: Progressively Distilled Diffusion Models for Multivariate Time Series Anomaly Detection in JointCloud Environment, in *IJCNN* 2024. [[paper](https://ieeexplore.ieee.org/abstract/document/10650364)] [[official-code](https://github.com/AiShare-WHU/ProDiffAD)]
 
-* AdaDiffAD: Adaptively Segmenting Diffusion Models for Time Series Anomaly Detection in Dynamic JointCloud Environment, *IEEE 30th International Conference on Parallel and Distributed Systems*, 2024. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10763788)]
+* AdaDiffAD: Adaptively Segmenting Diffusion Models for Time Series Anomaly Detection in Dynamic JointCloud Environment, in *IEEE 30th International Conference on Parallel and Distributed Systems* 2024. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10763788)]
 
 
 
