@@ -392,6 +392,14 @@ We will continue to update this list with the newest resources. If you find any 
 
 * TAMHA-DDPM: A Time-Aware Multi-Head Attention Denoising Diffusion Probability Model for Fuzzy Data Optimization in Intelligent Transportation Systems, in *IEEE Transactions on Intelligent Transportation Systems* 2024. [[paper](https://ieeexplore.ieee.org/abstract/document/10817476)]
 
+* Biomedically Informed ECG Synthesis: Customizing Cardiac Cycle Phases with Diffusion Model, in *International Conference on Bioinformatics and Biomedicine (BIBM)* 2025. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10821878&casa_token=BZXgxjtGDesAAAAA:5xy7eIq1DJQC5F28lX0nSSz2RzKa4TZBVmstMT383-M0jiBHbexpfutd7T5uZqqalL3QX5g)]
+
+* Generative AI Enables EEG Super-Resolution via Spatio-Temporal Adaptive Diffusion Learning, in *IEEE Transactions on Consumer Electronics* 2025. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10839074)]
+
+* FHRDiff: Leveraging Diffusion Models for Conditional Fetal Heart Rate Signal Generation, in *International Conference on Bioinformatics and Biomedicine (BIBM)* 2024. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10821853&casa_token=KoPfu1SS96YAAAAA:oCg42RkyO96DBmlKlxaFHnA9QqTrEs1MfCF7NWyfuxNP3VQZ3XQx_gRy-LvuAWsyqXyYQMw)]
+
+* TimeDP: Learning to Generate Multi-Domain Time Series with Domain Prompts, in *ArXiv* 2025. [[paper](hhttps://arxiv.org/pdf/2501.05403)]
+
 
 
 
@@ -453,7 +461,7 @@ We will continue to update this list with the newest resources. If you find any 
 
 * Boundary-enhanced time series data imputation with long-term dependency diffusion models, in *Knowledge-Based Systems* 2024. [[paper](https://www.sciencedirect.com/science/article/pii/S095070512401551X)]
 
-
+* DGMI: A diffusion-based generative adversarial framework for multivariate air quality imputation, in *Applied Intelligence* 2025. [[paper](https://link.springer.com/article/10.1007/s10489-025-06240-8)]
 
 
 ### Anomaly Detection
@@ -727,6 +735,9 @@ We will continue to update this list with the newest resources. If you find any 
 
 * RDPI: A Refine Diffusion Probability Generation Method for Spatiotemporal Data Imputation, in *ArXiv* 2024. [[paper](https://arxiv.org/pdf/2412.12642)] [[official-code](https://github.com/liuzjin/RDPI)]
 
+* Spatio-Temporal Knowledge driven Diffusion Model for Mobile Traffic Generation, in *IEEE Transactions on Mobile Computing* 2025. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10836819&casa_token=8HLqfwG7718AAAAA:u8L2LIlxEhLSCVVhlRnqgCHyoI1oIO0Lg2qqsSqxzKdY2fYSaNUUut2P_iJ4x-i13odEwMo)]
+
+* STCDM: Spatio-Temporal Contrastive Diffusion Model for Check-in Sequence Generation, in *IEEE Transactions on Knowledge and Data Engineering* 2025. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10836764&casa_token=F7eMj_BaEVQAAAAA:q-QOdPjYyUqj7MpBN_qFwHPHQlnEnrpjLfPUdA2Rd7wSb_Su3wmXQRMEO4LUBfgRwhwYY6o&tag=1)] [[official-code](https://github.com/LetianGong/STCDM)]
 
 
 
@@ -896,6 +907,12 @@ We will continue to update this list with the newest resources. If you find any 
 
 * EEGDfus: A Conditional Diffusion Model for Fine-Grained EEG Denoising, in *IEEE Journal of Biomedical and Health Informatics* 2024. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10763506)] [[official-code](https://github.com/XYH0118/EEGDfus)]
 
+* Biomedically Informed ECG Synthesis: Customizing Cardiac Cycle Phases with Diffusion Model, in *International Conference on Bioinformatics and Biomedicine (BIBM)* 2025. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10821878&casa_token=BZXgxjtGDesAAAAA:5xy7eIq1DJQC5F28lX0nSSz2RzKa4TZBVmstMT383-M0jiBHbexpfutd7T5uZqqalL3QX5g)]
+
+* Generative AI Enables EEG Super-Resolution via Spatio-Temporal Adaptive Diffusion Learning, in *IEEE Transactions on Consumer Electronics* 2025. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10839074)]
+
+* FHRDiff: Leveraging Diffusion Models for Conditional Fetal Heart Rate Signal Generation, in *International Conference on Bioinformatics and Biomedicine (BIBM)* 2024. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10821853&casa_token=KoPfu1SS96YAAAAA:oCg42RkyO96DBmlKlxaFHnA9QqTrEs1MfCF7NWyfuxNP3VQZ3XQx_gRy-LvuAWsyqXyYQMw)]
+
   
   
 ### Sequential Recommendation
@@ -958,6 +975,8 @@ We will continue to update this list with the newest resources. If you find any 
 * RNDiff: Rainfall Nowcasting with Condition Diffusion Model, *Pattern Recognition*, 2024. [[paper](https://www.sciencedirect.com/science/article/pii/S0031320324009440)] [[official-code](https://github.com/ybu-lxd/SRNDiff)]
 
 * Spatiotemporally Coherent Probabilistic Generation of Weather from Climate, in *ArXiv* 2024. [[paper](https://arxiv.org/pdf/2412.15361)] [[official-code](https://github.com/schmidtjonathan/Climate2Weather)]
+
+* DGMI: A diffusion-based generative adversarial framework for multivariate air quality imputation, in *Applied Intelligence* 2025. [[paper](https://link.springer.com/article/10.1007/s10489-025-06240-8)]
 
 
 ### Energy and Electricity
@@ -1171,7 +1190,10 @@ We will continue to update this list with the newest resources. If you find any 
 
 * TAMHA-DDPM: A Time-Aware Multi-Head Attention Denoising Diffusion Probability Model for Fuzzy Data Optimization in Intelligent Transportation Systems, in *IEEE Transactions on Intelligent Transportation Systems* 2024. [[paper](https://ieeexplore.ieee.org/abstract/document/10817476)]
 
+* Spatio-Temporal Knowledge driven Diffusion Model for Mobile Traffic Generation, in *IEEE Transactions on Mobile Computing* 2025. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10836819&casa_token=8HLqfwG7718AAAAA:u8L2LIlxEhLSCVVhlRnqgCHyoI1oIO0Lg2qqsSqxzKdY2fYSaNUUut2P_iJ4x-i13odEwMo)]
 
+* STCDM: Spatio-Temporal Contrastive Diffusion Model for Check-in Sequence Generation, in *IEEE Transactions on Knowledge and Data Engineering* 2025. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10836764&casa_token=F7eMj_BaEVQAAAAA:q-QOdPjYyUqj7MpBN_qFwHPHQlnEnrpjLfPUdA2Rd7wSb_Su3wmXQRMEO4LUBfgRwhwYY6o&tag=1)] [[official-code](https://github.com/LetianGong/STCDM)]
+  
 
 
 ### Manufacturing
