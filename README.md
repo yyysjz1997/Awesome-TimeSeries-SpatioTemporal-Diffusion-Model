@@ -194,6 +194,8 @@ We will continue to update this list with the newest resources. If you find any 
 
 * RNDiff: Rainfall Nowcasting with Condition Diffusion Model, in *Pattern Recognition* 2024. [[paper](https://www.sciencedirect.com/science/article/pii/S0031320324009440)] [[official-code](https://github.com/ybu-lxd/SRNDiff)]
 
+* A Diffusion–Attention-Enhanced Temporal (DATE-TM) Model: A Multi-Feature-Driven Model for Very-Short-Term Household Load Forecasting, in *Energies * 2025. [[paper](https://www.mdpi.com/1996-1073/18/3/486)] 
+
 
 
 
@@ -528,6 +530,8 @@ We will continue to update this list with the newest resources. If you find any 
 
 * Multivariate Time Series Anomaly Detection using DiffGAN Model, in *ArXiv* 2025. [[paper](https://arxiv.org/pdf/2501.01591)]
 
+* MAFCD: Multi-level and adaptive conditional diffusion model for anomaly detection, in *Information Fusion* 2025. [[paper](https://www.sciencedirect.com/science/article/pii/S1566253525000387)]
+
 
 
 
@@ -739,7 +743,7 @@ We will continue to update this list with the newest resources. If you find any 
 
 * STCDM: Spatio-Temporal Contrastive Diffusion Model for Check-in Sequence Generation, in *IEEE Transactions on Knowledge and Data Engineering* 2025. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10836764&casa_token=F7eMj_BaEVQAAAAA:q-QOdPjYyUqj7MpBN_qFwHPHQlnEnrpjLfPUdA2Rd7wSb_Su3wmXQRMEO4LUBfgRwhwYY6o&tag=1)] [[official-code](https://github.com/LetianGong/STCDM)]
 
-
+* DiffGSL: A Graph Structure Learning Diffusion Model for Dynamic Spatio-Temporal Forecasting, in *IEEE International Conference on Big Data (BigData)* 2025. [[paper](https://ieeexplore.ieee.org/abstract/document/10825558)]
 
   
 ## Diffusion Model for Tabular Data
@@ -1031,6 +1035,8 @@ We will continue to update this list with the newest resources. If you find any 
 
 * DiffBatt: A Diffusion Model for Battery Degradation Prediction and Synthesis, in *ArXiv* 2024. [[paper](https://arxiv.org/pdf/2410.23893)] [[official-code]( https://github.com/HamidrezaEiv/DiffBatt.git)]
 
+* A Diffusion–Attention-Enhanced Temporal (DATE-TM) Model: A Multi-Feature-Driven Model for Very-Short-Term Household Load Forecasting, in *Energies * 2025. [[paper](https://www.mdpi.com/1996-1073/18/3/486)] 
+
 
 ### Math and Physics
 
@@ -1194,6 +1200,8 @@ We will continue to update this list with the newest resources. If you find any 
 
 * STCDM: Spatio-Temporal Contrastive Diffusion Model for Check-in Sequence Generation, in *IEEE Transactions on Knowledge and Data Engineering* 2025. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10836764&casa_token=F7eMj_BaEVQAAAAA:q-QOdPjYyUqj7MpBN_qFwHPHQlnEnrpjLfPUdA2Rd7wSb_Su3wmXQRMEO4LUBfgRwhwYY6o&tag=1)] [[official-code](https://github.com/LetianGong/STCDM)]
   
+* DiffGSL: A Graph Structure Learning Diffusion Model for Dynamic Spatio-Temporal Forecasting, in *IEEE International Conference on Big Data (BigData)* 2025. [[paper](https://ieeexplore.ieee.org/abstract/document/10825558)]
+
 
 
 ### Manufacturing
