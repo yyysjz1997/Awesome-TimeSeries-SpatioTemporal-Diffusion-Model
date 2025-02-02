@@ -195,7 +195,7 @@ We will continue to update this list with the newest resources. If you find any 
 
 * RNDiff: Rainfall Nowcasting with Condition Diffusion Model, in *Pattern Recognition* 2024. [[paper](https://www.sciencedirect.com/science/article/pii/S0031320324009440)] [[official-code](https://github.com/ybu-lxd/SRNDiff)]
 
-* A Diffusion–Attention-Enhanced Temporal (DATE-TM) Model: A Multi-Feature-Driven Model for Very-Short-Term Household Load Forecasting, in *Energies * 2025. [[paper](https://www.mdpi.com/1996-1073/18/3/486)]
+* A Diffusion–Attention-Enhanced Temporal (DATE-TM) Model: A Multi-Feature-Driven Model for Very-Short-Term Household Load Forecasting, in *Energies* 2025. [[paper](https://www.mdpi.com/1996-1073/18/3/486)]
 
 * Unveiling the Power of Noise Priors: Enhancing Diffusion Models for Mobile Traffic Prediction, in *ArXiv* 2025. [[paper](https://arxiv.org/pdf/2501.13794)]
 
@@ -1038,7 +1038,7 @@ We will continue to update this list with the newest resources. If you find any 
 
 * DiffBatt: A Diffusion Model for Battery Degradation Prediction and Synthesis, in *ArXiv* 2024. [[paper](https://arxiv.org/pdf/2410.23893)] [[official-code]( https://github.com/HamidrezaEiv/DiffBatt.git)]
 
-* A Diffusion–Attention-Enhanced Temporal (DATE-TM) Model: A Multi-Feature-Driven Model for Very-Short-Term Household Load Forecasting, in *Energies * 2025. [[paper](https://www.mdpi.com/1996-1073/18/3/486)] 
+* A Diffusion–Attention-Enhanced Temporal (DATE-TM) Model: A Multi-Feature-Driven Model for Very-Short-Term Household Load Forecasting, in *Energies* 2025. [[paper](https://www.mdpi.com/1996-1073/18/3/486)] 
 
 
 ### Math and Physics
