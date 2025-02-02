@@ -80,6 +80,7 @@ We will continue to update this list with the newest resources. If you find any 
     - [Manufacturing](#manufacturing)
     - [Audio](#audio)
     - [Biology](#biology)
+    - [Communication](#communication)
   - [Related Diffusion Model Resources and Surveys](#related-diffusion-model-resources-and-surveys)
 
 
@@ -194,7 +195,9 @@ We will continue to update this list with the newest resources. If you find any 
 
 * RNDiff: Rainfall Nowcasting with Condition Diffusion Model, in *Pattern Recognition* 2024. [[paper](https://www.sciencedirect.com/science/article/pii/S0031320324009440)] [[official-code](https://github.com/ybu-lxd/SRNDiff)]
 
-* A Diffusion–Attention-Enhanced Temporal (DATE-TM) Model: A Multi-Feature-Driven Model for Very-Short-Term Household Load Forecasting, in *Energies * 2025. [[paper](https://www.mdpi.com/1996-1073/18/3/486)] 
+* A Diffusion–Attention-Enhanced Temporal (DATE-TM) Model: A Multi-Feature-Driven Model for Very-Short-Term Household Load Forecasting, in *Energies * 2025. [[paper](https://www.mdpi.com/1996-1073/18/3/486)]
+
+* Unveiling the Power of Noise Priors: Enhancing Diffusion Models for Mobile Traffic Prediction, in *ArXiv* 2025. [[paper](https://arxiv.org/pdf/2501.13794)]
 
 
 
@@ -1311,6 +1314,13 @@ We will continue to update this list with the newest resources. If you find any 
 * Latent Diffusion for Neural Spiking Data, in *ArXiv* 2024. [[paper](https://arxiv.org/pdf/2407.08751)][[official-code](https://github.com/mackelab/LDNS)]
 
 * Pretrained-Guided Conditional Diffusion Models for Microbiome Data Analysis, in *ArXiv* 2024. [[paper](https://arxiv.org/pdf/2408.07709)][[official-code](https://github.com/wenwenmin/mbVDiT)]
+
+
+### Communication
+
+* Unveiling the Power of Noise Priors: Enhancing Diffusion Models for Mobile Traffic Prediction, in *ArXiv* 2025. [[paper](https://arxiv.org/pdf/2501.13794)]
+
+* One Fits All: General Mobility Trajectory Modeling via Masked Conditional Diffusion, in *ArXiv* 2025. [[paper](https://arxiv.org/pdf/2501.13347)]
 
 
 
