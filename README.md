@@ -748,6 +748,8 @@ We will continue to update this list with the newest resources. If you find any 
 
 * DiffGSL: A Graph Structure Learning Diffusion Model for Dynamic Spatio-Temporal Forecasting, in *IEEE International Conference on Big Data (BigData)* 2025. [[paper](https://ieeexplore.ieee.org/abstract/document/10825558)]
 
+* GooDFlight: Goal-Oriented Diffusion Model for Flight Trajectory Prediction, in *IEEE Transactions on Aerospace and Electronic Systems* 2025. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10858371)]
+
   
 ## Diffusion Model for Tabular Data
 
@@ -1204,6 +1206,8 @@ We will continue to update this list with the newest resources. If you find any 
 * STCDM: Spatio-Temporal Contrastive Diffusion Model for Check-in Sequence Generation, in *IEEE Transactions on Knowledge and Data Engineering* 2025. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10836764&casa_token=F7eMj_BaEVQAAAAA:q-QOdPjYyUqj7MpBN_qFwHPHQlnEnrpjLfPUdA2Rd7wSb_Su3wmXQRMEO4LUBfgRwhwYY6o&tag=1)] [[official-code](https://github.com/LetianGong/STCDM)]
   
 * DiffGSL: A Graph Structure Learning Diffusion Model for Dynamic Spatio-Temporal Forecasting, in *IEEE International Conference on Big Data (BigData)* 2025. [[paper](https://ieeexplore.ieee.org/abstract/document/10825558)]
+
+* GooDFlight: Goal-Oriented Diffusion Model for Flight Trajectory Prediction, in *IEEE Transactions on Aerospace and Electronic Systems* 2025. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10858371)]
 
 
 
