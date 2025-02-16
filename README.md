@@ -405,6 +405,8 @@ We will continue to update this list with the newest resources. If you find any 
 
 * TimeDP: Learning to Generate Multi-Domain Time Series with Domain Prompts, in *ArXiv* 2025. [[paper](hhttps://arxiv.org/pdf/2501.05403)]
 
+* TRADES: Generating Realistic Market Simulations with Diffusion Models, in *ArXiv* 2025. [[paper](https://arxiv.org/pdf/2502.07071)] [[official-code](https://github.com/LeonardoBerti00/DeepMarket)]
+
 
 
 
@@ -467,6 +469,9 @@ We will continue to update this list with the newest resources. If you find any 
 * Boundary-enhanced time series data imputation with long-term dependency diffusion models, in *Knowledge-Based Systems* 2024. [[paper](https://www.sciencedirect.com/science/article/pii/S095070512401551X)]
 
 * DGMI: A diffusion-based generative adversarial framework for multivariate air quality imputation, in *Applied Intelligence* 2025. [[paper](https://link.springer.com/article/10.1007/s10489-025-06240-8)]
+
+* CoSTI: Consistency Models for (a faster) Spatio-Temporal Imputation, in *ArXiv* 2025. [[paper](https://arxiv.org/pdf/2501.19364)] [[official-code](https://github.com/javiersgjavi/CoSTI)]
+
 
 
 ### Anomaly Detection
@@ -534,6 +539,8 @@ We will continue to update this list with the newest resources. If you find any 
 * Multivariate Time Series Anomaly Detection using DiffGAN Model, in *ArXiv* 2025. [[paper](https://arxiv.org/pdf/2501.01591)]
 
 * MAFCD: Multi-level and adaptive conditional diffusion model for anomaly detection, in *Information Fusion* 2025. [[paper](https://www.sciencedirect.com/science/article/pii/S1566253525000387)]
+
+* Graph Anomaly Detection via Diffusion Enhanced Multi-View Contrastive Learning, in *Knowledge-Based Systems* 2025. [[paper](https://www.sciencedirect.com/science/article/pii/S0950705125001406)] 
 
 
 
@@ -749,6 +756,11 @@ We will continue to update this list with the newest resources. If you find any 
 * DiffGSL: A Graph Structure Learning Diffusion Model for Dynamic Spatio-Temporal Forecasting, in *IEEE International Conference on Big Data (BigData)* 2025. [[paper](https://ieeexplore.ieee.org/abstract/document/10825558)]
 
 * GooDFlight: Goal-Oriented Diffusion Model for Flight Trajectory Prediction, in *IEEE Transactions on Aerospace and Electronic Systems* 2025. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10858371)]
+
+* CoSTI: Consistency Models for (a faster) Spatio-Temporal Imputation, in *ArXiv* 2025. [[paper](https://arxiv.org/pdf/2501.19364)] [[official-code](https://github.com/javiersgjavi/CoSTI)]
+
+* Graph Anomaly Detection via Diffusion Enhanced Multi-View Contrastive Learning, in *Knowledge-Based Systems* 2025. [[paper](https://www.sciencedirect.com/science/article/pii/S0950705125001406)] 
+
 
   
 ## Diffusion Model for Tabular Data
@@ -1087,6 +1099,8 @@ We will continue to update this list with the newest resources. If you find any 
 * Synthetic Data Generation for Fraud Detection Using Diffusion Models, in *Information and Security* 2024. [[paper](https://www.isij.eu/system/files/download-count/2024-11/5534_Fraud_detection.pdf)]
 
 * Limit Order Book Event Stream Prediction with Diffusion Model, in *ArXiv* 2024. [[paper](https://arxiv.org/pdf/2412.09631)]
+
+* TRADES: Generating Realistic Market Simulations with Diffusion Models, in *ArXiv* 2025. [[paper](https://arxiv.org/pdf/2502.07071)] [[official-code](https://github.com/LeonardoBerti00/DeepMarket)]
 
 
 
