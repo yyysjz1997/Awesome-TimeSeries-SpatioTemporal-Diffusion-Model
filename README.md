@@ -199,6 +199,8 @@ We will continue to update this list with the newest resources. If you find any 
 
 * Unveiling the Power of Noise Priors: Enhancing Diffusion Models for Mobile Traffic Prediction, in *ArXiv* 2025. [[paper](https://arxiv.org/pdf/2501.13794)]
 
+* Collaborative Deterministic-Diffusion Model for Probabilistic Urban Spatiotemporal Prediction, in *ArXiv* 2025. [[paper](https://arxiv.org/pdf/2502.11013)]
+
 
 
 
@@ -407,6 +409,8 @@ We will continue to update this list with the newest resources. If you find any 
 
 * TRADES: Generating Realistic Market Simulations with Diffusion Models, in *ArXiv* 2025. [[paper](https://arxiv.org/pdf/2502.07071)] [[official-code](https://github.com/LeonardoBerti00/DeepMarket)]
 
+* EDDM: A Novel ECG Denoising Method Using Dual-path Diffusion Model, in *IEEE Transactions on Instrumentation and Measurement* 2025. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10891895)]
+
 
 
 
@@ -540,7 +544,9 @@ We will continue to update this list with the newest resources. If you find any 
 
 * MAFCD: Multi-level and adaptive conditional diffusion model for anomaly detection, in *Information Fusion* 2025. [[paper](https://www.sciencedirect.com/science/article/pii/S1566253525000387)]
 
-* Graph Anomaly Detection via Diffusion Enhanced Multi-View Contrastive Learning, in *Knowledge-Based Systems* 2025. [[paper](https://www.sciencedirect.com/science/article/pii/S0950705125001406)] 
+* Graph Anomaly Detection via Diffusion Enhanced Multi-View Contrastive Learning, in *Knowledge-Based Systems* 2025. [[paper](https://www.sciencedirect.com/science/article/pii/S0950705125001406)]
+
+* Frequency domain guided latent diffusion model for domain generalization in cross-machine fault diagnosis, in *Measurement* 2025. [[paper](https://www.sciencedirect.com/science/article/pii/S0263224125003483)]
 
 
 
@@ -759,7 +765,9 @@ We will continue to update this list with the newest resources. If you find any 
 
 * CoSTI: Consistency Models for (a faster) Spatio-Temporal Imputation, in *ArXiv* 2025. [[paper](https://arxiv.org/pdf/2501.19364)] [[official-code](https://github.com/javiersgjavi/CoSTI)]
 
-* Graph Anomaly Detection via Diffusion Enhanced Multi-View Contrastive Learning, in *Knowledge-Based Systems* 2025. [[paper](https://www.sciencedirect.com/science/article/pii/S0950705125001406)] 
+* Graph Anomaly Detection via Diffusion Enhanced Multi-View Contrastive Learning, in *Knowledge-Based Systems* 2025. [[paper](https://www.sciencedirect.com/science/article/pii/S0950705125001406)]
+
+* Collaborative Deterministic-Diffusion Model for Probabilistic Urban Spatiotemporal Prediction, in *ArXiv* 2025. [[paper](https://arxiv.org/pdf/2502.11013)]
 
 
   
@@ -933,6 +941,8 @@ We will continue to update this list with the newest resources. If you find any 
 * Generative AI Enables EEG Super-Resolution via Spatio-Temporal Adaptive Diffusion Learning, in *IEEE Transactions on Consumer Electronics* 2025. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10839074)]
 
 * FHRDiff: Leveraging Diffusion Models for Conditional Fetal Heart Rate Signal Generation, in *International Conference on Bioinformatics and Biomedicine (BIBM)* 2024. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10821853&casa_token=KoPfu1SS96YAAAAA:oCg42RkyO96DBmlKlxaFHnA9QqTrEs1MfCF7NWyfuxNP3VQZ3XQx_gRy-LvuAWsyqXyYQMw)]
+
+* EDDM: A Novel ECG Denoising Method Using Dual-path Diffusion Model, in *IEEE Transactions on Instrumentation and Measurement* 2025. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10891895)]
 
   
   
@@ -1223,6 +1233,8 @@ We will continue to update this list with the newest resources. If you find any 
 
 * GooDFlight: Goal-Oriented Diffusion Model for Flight Trajectory Prediction, in *IEEE Transactions on Aerospace and Electronic Systems* 2025. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10858371)]
 
+* Collaborative Deterministic-Diffusion Model for Probabilistic Urban Spatiotemporal Prediction, in *ArXiv* 2025. [[paper](https://arxiv.org/pdf/2502.11013)]
+
 
 
 ### Manufacturing
@@ -1278,6 +1290,8 @@ We will continue to update this list with the newest resources. If you find any 
 * IMUDiffusion: A Diffusion Model for Multivariate Time Series Synthetisation for Inertial Motion Capturing Systems, in *ArXiv* 2024. [[paper](https://arxiv.org/pdf/2411.02954)]
 
 * Guided Diffusion Model for Sensor Data Obfuscation, in *ArXiv* 2024. [[paper](https://arxiv.org/pdf/2412.14499)]
+
+* Frequency domain guided latent diffusion model for domain generalization in cross-machine fault diagnosis, in *Measurement* 2025. [[paper](https://www.sciencedirect.com/science/article/pii/S0263224125003483)]
 
   
 
