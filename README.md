@@ -476,6 +476,8 @@ We will continue to update this list with the newest resources. If you find any 
 
 * CoSTI: Consistency Models for (a faster) Spatio-Temporal Imputation, in *ArXiv* 2025. [[paper](https://arxiv.org/pdf/2501.19364)] [[official-code](https://github.com/javiersgjavi/CoSTI)]
 
+* A Diffusion Model for Traffic Data Imputation, in *IEEE/CAA Journal of Automatica Sinica* 2025. [[paper](https://www.ieee-jas.net/en/article/id/379d72aa-0d31-46f8-9f36-8764ba22fc7b)]
+
 
 
 ### Anomaly Detection
@@ -547,6 +549,8 @@ We will continue to update this list with the newest resources. If you find any 
 * Graph Anomaly Detection via Diffusion Enhanced Multi-View Contrastive Learning, in *Knowledge-Based Systems* 2025. [[paper](https://www.sciencedirect.com/science/article/pii/S0950705125001406)]
 
 * Frequency domain guided latent diffusion model for domain generalization in cross-machine fault diagnosis, in *Measurement* 2025. [[paper](https://www.sciencedirect.com/science/article/pii/S0263224125003483)]
+
+* Data Augmentation Fault Diagnosis of Rolling Machinery Using Condition Denoising Diffusion Probabilistic Model and Improved CNN, in *IEEE Transactions on Instrumentation and Measurement* 2025. [[paper](https://ieeexplore.ieee.org/abstract/document/10902598)]
 
 
 
@@ -1235,6 +1239,8 @@ We will continue to update this list with the newest resources. If you find any 
 
 * Collaborative Deterministic-Diffusion Model for Probabilistic Urban Spatiotemporal Prediction, in *ArXiv* 2025. [[paper](https://arxiv.org/pdf/2502.11013)]
 
+* A Diffusion Model for Traffic Data Imputation, in *IEEE/CAA Journal of Automatica Sinica* 2025. [[paper](https://www.ieee-jas.net/en/article/id/379d72aa-0d31-46f8-9f36-8764ba22fc7b)]
+
 
 
 ### Manufacturing
@@ -1292,6 +1298,8 @@ We will continue to update this list with the newest resources. If you find any 
 * Guided Diffusion Model for Sensor Data Obfuscation, in *ArXiv* 2024. [[paper](https://arxiv.org/pdf/2412.14499)]
 
 * Frequency domain guided latent diffusion model for domain generalization in cross-machine fault diagnosis, in *Measurement* 2025. [[paper](https://www.sciencedirect.com/science/article/pii/S0263224125003483)]
+
+* Data Augmentation Fault Diagnosis of Rolling Machinery Using Condition Denoising Diffusion Probabilistic Model and Improved CNN, in *IEEE Transactions on Instrumentation and Measurement* 2025. [[paper](https://ieeexplore.ieee.org/abstract/document/10902598)]
 
   
 
