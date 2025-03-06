@@ -552,6 +552,8 @@ We will continue to update this list with the newest resources. If you find any 
 
 * Data Augmentation Fault Diagnosis of Rolling Machinery Using Condition Denoising Diffusion Probabilistic Model and Improved CNN, in *IEEE Transactions on Instrumentation and Measurement* 2025. [[paper](https://ieeexplore.ieee.org/abstract/document/10902598)]
 
+* Adjacent Neighborhood Transformer-based Diffusion Model for Anomaly Detection under Incomplete Industrial Data Sources, in *WSDM* 2025. [[paper](https://dl.acm.org/doi/abs/10.1145/3701551.3703565)]
+
 
 
 
@@ -772,6 +774,8 @@ We will continue to update this list with the newest resources. If you find any 
 * Graph Anomaly Detection via Diffusion Enhanced Multi-View Contrastive Learning, in *Knowledge-Based Systems* 2025. [[paper](https://www.sciencedirect.com/science/article/pii/S0950705125001406)]
 
 * Collaborative Deterministic-Diffusion Model for Probabilistic Urban Spatiotemporal Prediction, in *ArXiv* 2025. [[paper](https://arxiv.org/pdf/2502.11013)]
+
+* LWDF: A lightweight diffusion model for sea surface temperature prediction, in *Stochastic Environmental Research and Risk Assessment* 2025. [[paper](https://link.springer.com/article/10.1007/s00477-025-02940-2)]
 
 
   
@@ -1012,6 +1016,8 @@ We will continue to update this list with the newest resources. If you find any 
 * Spatiotemporally Coherent Probabilistic Generation of Weather from Climate, in *ArXiv* 2024. [[paper](https://arxiv.org/pdf/2412.15361)] [[official-code](https://github.com/schmidtjonathan/Climate2Weather)]
 
 * DGMI: A diffusion-based generative adversarial framework for multivariate air quality imputation, in *Applied Intelligence* 2025. [[paper](https://link.springer.com/article/10.1007/s10489-025-06240-8)]
+
+* LWDF: A lightweight diffusion model for sea surface temperature prediction, in *Stochastic Environmental Research and Risk Assessment* 2025. [[paper](https://link.springer.com/article/10.1007/s00477-025-02940-2)]
 
 
 ### Energy and Electricity
