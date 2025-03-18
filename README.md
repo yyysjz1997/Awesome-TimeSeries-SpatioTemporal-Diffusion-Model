@@ -201,8 +201,9 @@ We will continue to update this list with the newest resources. If you find any 
 
 * Collaborative Deterministic-Diffusion Model for Probabilistic Urban Spatiotemporal Prediction, in *ArXiv* 2025. [[paper](https://arxiv.org/pdf/2502.11013)]
 
+* Generative Diffusion Model-Based Deep Learning Framework for Remaining Useful Life Prediction, in *IEEE Internet of Things Journal* 2025. [[paper](https://ieeexplore.ieee.org/abstract/document/10916662)]
 
-
+* Diffusion Model Based Probabilistic Day-ahead Load Forecasting, in *ArXiv* 2025. [[paper](https://arxiv.org/pdf/2503.06697)] 
 
 
 ### Generation
@@ -410,6 +411,24 @@ We will continue to update this list with the newest resources. If you find any 
 * TRADES: Generating Realistic Market Simulations with Diffusion Models, in *ArXiv* 2025. [[paper](https://arxiv.org/pdf/2502.07071)] [[official-code](https://github.com/LeonardoBerti00/DeepMarket)]
 
 * EDDM: A Novel ECG Denoising Method Using Dual-path Diffusion Model, in *IEEE Transactions on Instrumentation and Measurement* 2025. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10891895)]
+
+* A diffusion model-based framework to enhance the robustness of non-intrusive load disaggregation, in *Energy* 2025. [[paper](https://www.sciencedirect.com/science/article/pii/S0360544225010655)] [[official-code](https://github.com/linfengYang/DiffusionModel_NILM)]
+
+* BRIDGE: Bootstrapping Text to Control Time-Series Generation via Multi-Agent Iterative Optimization and Diffusion Modelling, in *ArXiv* 2025. [[paper](https://arxiv.org/pdf/2503.02445)]
+
+* SMOTE-Diffusion: A Combined Approach for Authentic Data Generation for Time-domain Radar Signal in Intelligent Transportation System, in *IEEE Sensors Journal* 2025. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10909232)]
+
+* A Two-Stage Generative Architecture for Renewable Scenario Generation Based on Temporal Scenario Representation and Diffusion Models, in *Energies* 2025. [[paper](https://www.mdpi.com/1996-1073/18/5/1275)]
+
+* CoFinDiff: Controllable Financial Diffusion Model for Time Series Generation, in *ArXiv* 2025. [[paper](https://arxiv.org/pdf/2503.04164)]
+
+* Essentia: Boosting Artifact Removal from EEG through Semantic Guidance Utilizing Diffusion Model, in *ICASSP* 2025. [[paper](https://ieeexplore.ieee.org/abstract/document/10887905)] [[official-code](https://github.com/NKU-EmbeddedSystem/Essentia)]
+
+* WaveStitch: Flexible and Fast Conditional Time Series Generation with Diffusion Models, in *ArXiv* 2025. [[paper](https://arxiv.org/pdf/2503.06231)] [[official-code](https://github.com/adis98/HierarchicalTS)]
+
+* How to Unlock Time Series Editing? A Diffusion-Driven Approach with Multi-Grained Control, in *ArXiv* 2025. [[paper](https://yhpeter.github.io/assets/pdf/TSE.pdf)]
+
+* CTGDiff: A Conditional Diffusion Model for Cardiotocography Signal Synthesis, in *ICASSP* 2025. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10889762)]
 
 
 
@@ -777,6 +796,8 @@ We will continue to update this list with the newest resources. If you find any 
 
 * LWDF: A lightweight diffusion model for sea surface temperature prediction, in *Stochastic Environmental Research and Risk Assessment* 2025. [[paper](https://link.springer.com/article/10.1007/s00477-025-02940-2)]
 
+* TSGDiff: Traffic state generative diffusion model using multi-source information fusion, in *Transportation Research Part C: Emerging Technologies* 2025. [[paper](https://www.sciencedirect.com/science/article/pii/S0968090X25000853)]
+
 
   
 ## Diffusion Model for Tabular Data
@@ -952,6 +973,10 @@ We will continue to update this list with the newest resources. If you find any 
 
 * EDDM: A Novel ECG Denoising Method Using Dual-path Diffusion Model, in *IEEE Transactions on Instrumentation and Measurement* 2025. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10891895)]
 
+* Essentia: Boosting Artifact Removal from EEG through Semantic Guidance Utilizing Diffusion Model, in *ICASSP* 2025. [[paper](https://ieeexplore.ieee.org/abstract/document/10887905)] [[official-code](https://github.com/NKU-EmbeddedSystem/Essentia)]
+
+* CTGDiff: A Conditional Diffusion Model for Cardiotocography Signal Synthesis, in *ICASSP* 2025. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10889762)]
+
   
   
 ### Sequential Recommendation
@@ -1072,7 +1097,13 @@ We will continue to update this list with the newest resources. If you find any 
 
 * DiffBatt: A Diffusion Model for Battery Degradation Prediction and Synthesis, in *ArXiv* 2024. [[paper](https://arxiv.org/pdf/2410.23893)] [[official-code]( https://github.com/HamidrezaEiv/DiffBatt.git)]
 
-* A Diffusion–Attention-Enhanced Temporal (DATE-TM) Model: A Multi-Feature-Driven Model for Very-Short-Term Household Load Forecasting, in *Energies* 2025. [[paper](https://www.mdpi.com/1996-1073/18/3/486)] 
+* A Diffusion–Attention-Enhanced Temporal (DATE-TM) Model: A Multi-Feature-Driven Model for Very-Short-Term Household Load Forecasting, in *Energies* 2025. [[paper](https://www.mdpi.com/1996-1073/18/3/486)]
+
+* A diffusion model-based framework to enhance the robustness of non-intrusive load disaggregation, in *Energy* 2025. [[paper](https://www.sciencedirect.com/science/article/pii/S0360544225010655)] [[official-code](https://github.com/linfengYang/DiffusionModel_NILM)]
+
+* A Two-Stage Generative Architecture for Renewable Scenario Generation Based on Temporal Scenario Representation and Diffusion Models, in *Energies* 2025. [[paper](https://www.mdpi.com/1996-1073/18/5/1275)]
+
+* Diffusion Model Based Probabilistic Day-ahead Load Forecasting, in *ArXiv* 2025. [[paper](https://arxiv.org/pdf/2503.06697)] 
 
 
 ### Math and Physics
@@ -1121,6 +1152,8 @@ We will continue to update this list with the newest resources. If you find any 
 * Limit Order Book Event Stream Prediction with Diffusion Model, in *ArXiv* 2024. [[paper](https://arxiv.org/pdf/2412.09631)]
 
 * TRADES: Generating Realistic Market Simulations with Diffusion Models, in *ArXiv* 2025. [[paper](https://arxiv.org/pdf/2502.07071)] [[official-code](https://github.com/LeonardoBerti00/DeepMarket)]
+
+* CoFinDiff: Controllable Financial Diffusion Model for Time Series Generation, in *ArXiv* 2025. [[paper](https://arxiv.org/pdf/2503.04164)]
 
 
 
@@ -1247,6 +1280,11 @@ We will continue to update this list with the newest resources. If you find any 
 
 * A Diffusion Model for Traffic Data Imputation, in *IEEE/CAA Journal of Automatica Sinica* 2025. [[paper](https://www.ieee-jas.net/en/article/id/379d72aa-0d31-46f8-9f36-8764ba22fc7b)]
 
+* SMOTE-Diffusion: A Combined Approach for Authentic Data Generation for Time-domain Radar Signal in Intelligent Transportation System, in *IEEE Sensors Journal* 2025. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10909232)]
+
+* TSGDiff: Traffic state generative diffusion model using multi-source information fusion, in *Transportation Research Part C: Emerging Technologies* 2025. [[paper](https://www.sciencedirect.com/science/article/pii/S0968090X25000853)]
+
+
 
 
 ### Manufacturing
@@ -1306,6 +1344,8 @@ We will continue to update this list with the newest resources. If you find any 
 * Frequency domain guided latent diffusion model for domain generalization in cross-machine fault diagnosis, in *Measurement* 2025. [[paper](https://www.sciencedirect.com/science/article/pii/S0263224125003483)]
 
 * Data Augmentation Fault Diagnosis of Rolling Machinery Using Condition Denoising Diffusion Probabilistic Model and Improved CNN, in *IEEE Transactions on Instrumentation and Measurement* 2025. [[paper](https://ieeexplore.ieee.org/abstract/document/10902598)]
+
+* Generative Diffusion Model-Based Deep Learning Framework for Remaining Useful Life Prediction, in *IEEE Internet of Things Journal* 2025. [[paper](https://ieeexplore.ieee.org/abstract/document/10916662)]
 
   
 
