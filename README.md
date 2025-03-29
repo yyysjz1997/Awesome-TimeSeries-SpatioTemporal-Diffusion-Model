@@ -430,7 +430,9 @@ We will continue to update this list with the newest resources. If you find any 
 
 * CTGDiff: A Conditional Diffusion Model for Cardiotocography Signal Synthesis, in *ICASSP* 2025. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10889762)]
 
+* Execution Trace Reconstruction Using Diffusion-Based Generative Models, in *ICSE* 2025. [[paper](https://users.encs.concordia.ca/~abdelw/papers/ICSE2025_TraceConstruction.pdf)] [[official-code](https://github.com/janecekm/TraceReconstruction)]
 
+* A diffusion model-based deep learning approach for denoising acoustic emission signals in concrete, in *Measurement* 2025. [[paper](https://www.sciencedirect.com/science/article/pii/S0263224125005020)]
 
 
 ### Imputation
@@ -573,7 +575,7 @@ We will continue to update this list with the newest resources. If you find any 
 
 * Adjacent Neighborhood Transformer-based Diffusion Model for Anomaly Detection under Incomplete Industrial Data Sources, in *WSDM* 2025. [[paper](https://dl.acm.org/doi/abs/10.1145/3701551.3703565)]
 
-
+* Dual-Control Inference Diffusion Model via Multi-Sensor High-Frequency Signal for Space Transportation Engine Anomaly Detection, in *IEEE Transactions on Intelligent Transportation Systems* 2025. [[paper](https://ieeexplore.ieee.org/abstract/document/10927026)]
 
 
 ### Classification and Regression
@@ -797,6 +799,8 @@ We will continue to update this list with the newest resources. If you find any 
 * LWDF: A lightweight diffusion model for sea surface temperature prediction, in *Stochastic Environmental Research and Risk Assessment* 2025. [[paper](https://link.springer.com/article/10.1007/s00477-025-02940-2)]
 
 * TSGDiff: Traffic state generative diffusion model using multi-source information fusion, in *Transportation Research Part C: Emerging Technologies* 2025. [[paper](https://www.sciencedirect.com/science/article/pii/S0968090X25000853)]
+
+* Enhancing spatiotemporal prediction through the integration of Mamba state space models and Diffusion Transformers Author links open overlay panel, in *Knowledge-Based Systems* 2025. [[paper](https://www.sciencedirect.com/science/article/pii/S0950705125003946)] [[official-code](https://github.com/Hanson1331/KBS-MAD)]
 
 
   
@@ -1173,6 +1177,8 @@ We will continue to update this list with the newest resources. If you find any 
 
 * AdaDiffAD: Adaptively Segmenting Diffusion Models for Time Series Anomaly Detection in Dynamic JointCloud Environment, in *IEEE 30th International Conference on Parallel and Distributed Systems* 2024. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10763788)]
 
+* Execution Trace Reconstruction Using Diffusion-Based Generative Models, in *ICSE* 2025. [[paper](https://users.encs.concordia.ca/~abdelw/papers/ICSE2025_TraceConstruction.pdf)] [[official-code](https://github.com/janecekm/TraceReconstruction)]
+
 
 
 ### Environment
@@ -1347,6 +1353,9 @@ We will continue to update this list with the newest resources. If you find any 
 
 * Generative Diffusion Model-Based Deep Learning Framework for Remaining Useful Life Prediction, in *IEEE Internet of Things Journal* 2025. [[paper](https://ieeexplore.ieee.org/abstract/document/10916662)]
 
+* A diffusion model-based deep learning approach for denoising acoustic emission signals in concrete, in *Measurement* 2025. [[paper](https://www.sciencedirect.com/science/article/pii/S0263224125005020)]
+
+* Dual-Control Inference Diffusion Model via Multi-Sensor High-Frequency Signal for Space Transportation Engine Anomaly Detection, in *IEEE Transactions on Intelligent Transportation Systems* 2025. [[paper](https://ieeexplore.ieee.org/abstract/document/10927026)]
   
 
 ### Audio
