@@ -203,7 +203,9 @@ We will continue to update this list with the newest resources. If you find any 
 
 * Generative Diffusion Model-Based Deep Learning Framework for Remaining Useful Life Prediction, in *IEEE Internet of Things Journal* 2025. [[paper](https://ieeexplore.ieee.org/abstract/document/10916662)]
 
-* Diffusion Model Based Probabilistic Day-ahead Load Forecasting, in *ArXiv* 2025. [[paper](https://arxiv.org/pdf/2503.06697)] 
+* Diffusion Model Based Probabilistic Day-ahead Load Forecasting, in *ArXiv* 2025. [[paper](https://arxiv.org/pdf/2503.06697)]
+
+* DHMoE: Diffusion Generated Hierarchical Multi-Granular Expertise for Stock Prediction, in *AAAI* 2025. [[paper](https://ojs.aaai.org/index.php/AAAI/issue/view/634)]
 
 
 ### Generation
@@ -576,6 +578,8 @@ We will continue to update this list with the newest resources. If you find any 
 * Adjacent Neighborhood Transformer-based Diffusion Model for Anomaly Detection under Incomplete Industrial Data Sources, in *WSDM* 2025. [[paper](https://dl.acm.org/doi/abs/10.1145/3701551.3703565)]
 
 * Dual-Control Inference Diffusion Model via Multi-Sensor High-Frequency Signal for Space Transportation Engine Anomaly Detection, in *IEEE Transactions on Intelligent Transportation Systems* 2025. [[paper](https://ieeexplore.ieee.org/abstract/document/10927026)]
+
+* Augmentation Framework for HVAC Fault Diagnosis Based on Denoising Diffusion Models, in *Journal of Building Engineering* 2025. [[paper](https://www.sciencedirect.com/science/article/pii/S2352710225008836)]
 
 
 ### Classification and Regression
@@ -1159,6 +1163,7 @@ We will continue to update this list with the newest resources. If you find any 
 
 * CoFinDiff: Controllable Financial Diffusion Model for Time Series Generation, in *ArXiv* 2025. [[paper](https://arxiv.org/pdf/2503.04164)]
 
+* DHMoE: Diffusion Generated Hierarchical Multi-Granular Expertise for Stock Prediction, in *AAAI* 2025. [[paper](https://ojs.aaai.org/index.php/AAAI/issue/view/634)]
 
 
 ### AIOps
@@ -1356,6 +1361,8 @@ We will continue to update this list with the newest resources. If you find any 
 * A diffusion model-based deep learning approach for denoising acoustic emission signals in concrete, in *Measurement* 2025. [[paper](https://www.sciencedirect.com/science/article/pii/S0263224125005020)]
 
 * Dual-Control Inference Diffusion Model via Multi-Sensor High-Frequency Signal for Space Transportation Engine Anomaly Detection, in *IEEE Transactions on Intelligent Transportation Systems* 2025. [[paper](https://ieeexplore.ieee.org/abstract/document/10927026)]
+
+* Augmentation Framework for HVAC Fault Diagnosis Based on Denoising Diffusion Models, in *Journal of Building Engineering* 2025. [[paper](https://www.sciencedirect.com/science/article/pii/S2352710225008836)]
   
 
 ### Audio
