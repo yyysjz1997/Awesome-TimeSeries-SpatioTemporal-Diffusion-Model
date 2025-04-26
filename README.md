@@ -436,6 +436,8 @@ We will continue to update this list with the newest resources. If you find any 
 
 * A diffusion model-based deep learning approach for denoising acoustic emission signals in concrete, in *Measurement* 2025. [[paper](https://www.sciencedirect.com/science/article/pii/S0263224125005020)]
 
+* A novel lightweight DDPM-based data augmentation method for rotating machinery fault diagnosis with small sample, in *Mechanical Systems and Signal Processing* 2025. [[paper](https://www.sciencedirect.com/science/article/pii/S088832702500442X)]
+
 
 ### Imputation
 
@@ -500,6 +502,9 @@ We will continue to update this list with the newest resources. If you find any 
 * CoSTI: Consistency Models for (a faster) Spatio-Temporal Imputation, in *ArXiv* 2025. [[paper](https://arxiv.org/pdf/2501.19364)] [[official-code](https://github.com/javiersgjavi/CoSTI)]
 
 * A Diffusion Model for Traffic Data Imputation, in *IEEE/CAA Journal of Automatica Sinica* 2025. [[paper](https://www.ieee-jas.net/en/article/id/379d72aa-0d31-46f8-9f36-8764ba22fc7b)]
+
+* Conditional Time Series Diffusion Model for High-Speed Train Multi-Sensor Signals Imputation, in *IEEE Transactions on Intelligent Transportation Systems* 2025. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10964776)]
+
 
 
 
@@ -1363,6 +1368,11 @@ We will continue to update this list with the newest resources. If you find any 
 * Dual-Control Inference Diffusion Model via Multi-Sensor High-Frequency Signal for Space Transportation Engine Anomaly Detection, in *IEEE Transactions on Intelligent Transportation Systems* 2025. [[paper](https://ieeexplore.ieee.org/abstract/document/10927026)]
 
 * Augmentation Framework for HVAC Fault Diagnosis Based on Denoising Diffusion Models, in *Journal of Building Engineering* 2025. [[paper](https://www.sciencedirect.com/science/article/pii/S2352710225008836)]
+
+* A novel lightweight DDPM-based data augmentation method for rotating machinery fault diagnosis with small sample, in *Mechanical Systems and Signal Processing* 2025. [[paper](https://www.sciencedirect.com/science/article/pii/S088832702500442X)]
+
+* Conditional Time Series Diffusion Model for High-Speed Train Multi-Sensor Signals Imputation, in *IEEE Transactions on Intelligent Transportation Systems* 2025. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10964776)]
+
   
 
 ### Audio
