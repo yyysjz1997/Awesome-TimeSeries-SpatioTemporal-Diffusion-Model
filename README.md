@@ -207,6 +207,8 @@ We will continue to update this list with the newest resources. If you find any 
 
 * DHMoE: Diffusion Generated Hierarchical Multi-Granular Expertise for Stock Prediction, in *AAAI* 2025. [[paper](https://ojs.aaai.org/index.php/AAAI/issue/view/634)]
 
+* Multimodal Conditioned Diffusive Time Series Forecasting, in *ArXiv* 2025. [[paper](https://arxiv.org/pdf/2504.19669)] [[official-code](https://github.com/synlp/MCD-TSF)]
+
 
 ### Generation
 
@@ -586,6 +588,8 @@ We will continue to update this list with the newest resources. If you find any 
 
 * Augmentation Framework for HVAC Fault Diagnosis Based on Denoising Diffusion Models, in *Journal of Building Engineering* 2025. [[paper](https://www.sciencedirect.com/science/article/pii/S2352710225008836)]
 
+* A novel diffusion model with Shapley value analysis for anomaly detection and identification of wind turbine, in *Expert Systems With Applications* 2025. [[paper](https://www.sciencedirect.com/science/article/pii/S0957417425015477)]
+
 
 ### Classification and Regression
 
@@ -810,6 +814,8 @@ We will continue to update this list with the newest resources. If you find any 
 * TSGDiff: Traffic state generative diffusion model using multi-source information fusion, in *Transportation Research Part C: Emerging Technologies* 2025. [[paper](https://www.sciencedirect.com/science/article/pii/S0968090X25000853)]
 
 * Enhancing spatiotemporal prediction through the integration of Mamba state space models and Diffusion Transformers Author links open overlay panel, in *Knowledge-Based Systems* 2025. [[paper](https://www.sciencedirect.com/science/article/pii/S0950705125003946)] [[official-code](https://github.com/Hanson1331/KBS-MAD)]
+ 
+* AutoSTDiff: Autoregressive Spatio-Temporal Denoising Diffusion Model for Asynchronous Trajectory Generation, in *SIAM* 2025. [[paper](https://epubs.siam.org/doi/pdf/10.1137/1.9781611978520.58)] [[official-code](https://github.com/Rongchao98/AutoSTDiff)]
 
 
   
@@ -858,6 +864,8 @@ We will continue to update this list with the newest resources. If you find any 
 * Denoising Diffusion Probabilistic Model for Realistic Financial Correlation Matrices, in *ICAIF* 2024. [[paper](https://dl.acm.org/doi/pdf/10.1145/3677052.3698640)] [[official-code](https://github.com/szymkubiak/DDPM-for-Correlation-Matrices)]
   
 * Imb-FinDiff: Conditional Diffusion Models for Class Imbalance Synthesis of Financial Tabular Data, in *ICAIF* 2024. [[paper](https://dl.acm.org/doi/pdf/10.1145/3677052.3698659)]
+
+* TarDiff: Target-Oriented Diffusion Guidance for Synthetic Electronic Health Record Time Series Generation, in *ArXiv* 2025. [[paper](https://arxiv.org/pdf/2504.17613)]
 
 
 
@@ -1300,6 +1308,8 @@ We will continue to update this list with the newest resources. If you find any 
 
 * TSGDiff: Traffic state generative diffusion model using multi-source information fusion, in *Transportation Research Part C: Emerging Technologies* 2025. [[paper](https://www.sciencedirect.com/science/article/pii/S0968090X25000853)]
 
+* AutoSTDiff: Autoregressive Spatio-Temporal Denoising Diffusion Model for Asynchronous Trajectory Generation, in *SIAM* 2025. [[paper](https://epubs.siam.org/doi/pdf/10.1137/1.9781611978520.58)] [[official-code](https://github.com/Rongchao98/AutoSTDiff)]
+
 
 
 
@@ -1373,6 +1383,7 @@ We will continue to update this list with the newest resources. If you find any 
 
 * Conditional Time Series Diffusion Model for High-Speed Train Multi-Sensor Signals Imputation, in *IEEE Transactions on Intelligent Transportation Systems* 2025. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10964776)]
 
+* A novel diffusion model with Shapley value analysis for anomaly detection and identification of wind turbine, in *Expert Systems With Applications* 2025. [[paper](https://www.sciencedirect.com/science/article/pii/S0957417425015477)]
   
 
 ### Audio
