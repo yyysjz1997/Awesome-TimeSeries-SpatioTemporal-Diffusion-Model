@@ -209,6 +209,8 @@ We will continue to update this list with the newest resources. If you find any 
 
 * Multimodal Conditioned Diffusive Time Series Forecasting, in *ArXiv* 2025. [[paper](https://arxiv.org/pdf/2504.19669)] [[official-code](https://github.com/synlp/MCD-TSF)]
 
+* Non-stationary Diffusion For Probabilistic Time Series Forecasting, in *ICML* 2025. [[paper](https://arxiv.org/pdf/2505.04278)] [[official-code](https://github.com/wwy155/NsDiff)]
+
 
 ### Generation
 
@@ -439,6 +441,8 @@ We will continue to update this list with the newest resources. If you find any 
 * A diffusion model-based deep learning approach for denoising acoustic emission signals in concrete, in *Measurement* 2025. [[paper](https://www.sciencedirect.com/science/article/pii/S0263224125005020)]
 
 * A novel lightweight DDPM-based data augmentation method for rotating machinery fault diagnosis with small sample, in *Mechanical Systems and Signal Processing* 2025. [[paper](https://www.sciencedirect.com/science/article/pii/S088832702500442X)]
+
+* A method for generating wind power output scenarios based on improved conditional generative diffusion model, in *Electric Power Systems Research* 2025. [[paper](https://www.sciencedirect.com/science/article/pii/S0378779625003712)]
 
 
 ### Imputation
@@ -817,6 +821,8 @@ We will continue to update this list with the newest resources. If you find any 
  
 * AutoSTDiff: Autoregressive Spatio-Temporal Denoising Diffusion Model for Asynchronous Trajectory Generation, in *SIAM* 2025. [[paper](https://epubs.siam.org/doi/pdf/10.1137/1.9781611978520.58)] [[official-code](https://github.com/Rongchao98/AutoSTDiff)]
 
+* Denoising Diffusion Probabilistic Models for Coastal Inundation Forecasting, in *ArXiv* 2025. [[paper](https://arxiv.org/pdf/2505.05381)]
+
 
   
 ## Diffusion Model for Tabular Data
@@ -1124,7 +1130,10 @@ We will continue to update this list with the newest resources. If you find any 
 
 * A Two-Stage Generative Architecture for Renewable Scenario Generation Based on Temporal Scenario Representation and Diffusion Models, in *Energies* 2025. [[paper](https://www.mdpi.com/1996-1073/18/5/1275)]
 
-* Diffusion Model Based Probabilistic Day-ahead Load Forecasting, in *ArXiv* 2025. [[paper](https://arxiv.org/pdf/2503.06697)] 
+* Diffusion Model Based Probabilistic Day-ahead Load Forecasting, in *ArXiv* 2025. [[paper](https://arxiv.org/pdf/2503.06697)]
+
+* A method for generating wind power output scenarios based on improved conditional generative diffusion model, in *Electric Power Systems Research* 2025. [[paper](https://www.sciencedirect.com/science/article/pii/S0378779625003712)]
+
 
 
 ### Math and Physics
@@ -1310,7 +1319,7 @@ We will continue to update this list with the newest resources. If you find any 
 
 * AutoSTDiff: Autoregressive Spatio-Temporal Denoising Diffusion Model for Asynchronous Trajectory Generation, in *SIAM* 2025. [[paper](https://epubs.siam.org/doi/pdf/10.1137/1.9781611978520.58)] [[official-code](https://github.com/Rongchao98/AutoSTDiff)]
 
-
+* Denoising Diffusion Probabilistic Models for Coastal Inundation Forecasting, in *ArXiv* 2025. [[paper](https://arxiv.org/pdf/2505.05381)]
 
 
 ### Manufacturing
