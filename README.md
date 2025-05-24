@@ -594,6 +594,10 @@ We will continue to update this list with the newest resources. If you find any 
 
 * A novel diffusion model with Shapley value analysis for anomaly detection and identification of wind turbine, in *Expert Systems With Applications* 2025. [[paper](https://www.sciencedirect.com/science/article/pii/S0957417425015477)]
 
+* CT-DDPM: Anomaly detection of multivariate time series with copula and transformer-based denoising diffusion probabilistic models, in *Information Sciences* 2025. [[paper](https://www.sciencedirect.com/science/article/pii/S0020025525004116)]
+
+* DeAnomaly: Anomaly Detection for Multivariate Time Series Using Robust Decomposition and Memory-Augmented Diffusion Models, in *IEEE Transactions on Instrumentation and Measurement* 2025. [[paper](https://ieeexplore.ieee.org/abstract/document/11005610)]
+
 
 ### Classification and Regression
 
