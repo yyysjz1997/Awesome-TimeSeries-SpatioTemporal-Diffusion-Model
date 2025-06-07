@@ -444,6 +444,10 @@ We will continue to update this list with the newest resources. If you find any 
 
 * A method for generating wind power output scenarios based on improved conditional generative diffusion model, in *Electric Power Systems Research* 2025. [[paper](https://www.sciencedirect.com/science/article/pii/S0378779625003712)]
 
+* Generating Realistic Multi-Beat ECG Signals, in *International Conference on Digital Signal Processing* 2025. [[paper](https://arxiv.org/pdf/2505.18189)]
+
+* SocioDiff: A Socio-Aware Diffusion Model for Residential Electricity Consumption Data Generation, in *IEEE Transactions on Smart Grid* 2025. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11021430)] [[official-code](https://github.com/Intelligame/SocialDiff)]
+
 
 ### Imputation
 
@@ -1008,6 +1012,8 @@ We will continue to update this list with the newest resources. If you find any 
 
 * CTGDiff: A Conditional Diffusion Model for Cardiotocography Signal Synthesis, in *ICASSP* 2025. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10889762)]
 
+* Generating Realistic Multi-Beat ECG Signals, in *International Conference on Digital Signal Processing* 2025. [[paper](https://arxiv.org/pdf/2505.18189)]
+
   
   
 ### Sequential Recommendation
@@ -1137,6 +1143,8 @@ We will continue to update this list with the newest resources. If you find any 
 * Diffusion Model Based Probabilistic Day-ahead Load Forecasting, in *ArXiv* 2025. [[paper](https://arxiv.org/pdf/2503.06697)]
 
 * A method for generating wind power output scenarios based on improved conditional generative diffusion model, in *Electric Power Systems Research* 2025. [[paper](https://www.sciencedirect.com/science/article/pii/S0378779625003712)]
+
+* SocioDiff: A Socio-Aware Diffusion Model for Residential Electricity Consumption Data Generation, in *IEEE Transactions on Smart Grid* 2025. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11021430)] [[official-code](https://github.com/Intelligame/SocialDiff)]
 
 
 
