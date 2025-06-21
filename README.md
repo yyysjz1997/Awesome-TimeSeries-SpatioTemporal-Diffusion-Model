@@ -448,6 +448,10 @@ We will continue to update this list with the newest resources. If you find any 
 
 * SocioDiff: A Socio-Aware Diffusion Model for Residential Electricity Consumption Data Generation, in *IEEE Transactions on Smart Grid* 2025. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11021430)] [[official-code](https://github.com/Intelligame/SocialDiff)]
 
+* Denoising Motion-Corrupted Seismocardiogram Signals Using Score-Based Generative Diffusion Models, in *IEEE Journal of Biomedical and Health Informatics* 2025. [[paper](https://ieeexplore.ieee.org/abstract/document/11027314)]
+
+* GT-NILM: A Generative, Transferable Non-Intrusive Load Monitoring System Based on Conditional Diffusion Models and Convolutional Neural Networks, in *IEEE Transactions on Consumer Electronics* 2025. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11027567)]
+
 
 ### Imputation
 
@@ -514,6 +518,8 @@ We will continue to update this list with the newest resources. If you find any 
 * A Diffusion Model for Traffic Data Imputation, in *IEEE/CAA Journal of Automatica Sinica* 2025. [[paper](https://www.ieee-jas.net/en/article/id/379d72aa-0d31-46f8-9f36-8764ba22fc7b)]
 
 * Conditional Time Series Diffusion Model for High-Speed Train Multi-Sensor Signals Imputation, in *IEEE Transactions on Intelligent Transportation Systems* 2025. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10964776)]
+
+* Cross-Domain Conditional Diffusion Models for Time Series Imputation, in *ArXiv* 2025. [[paper](https://arxiv.org/pdf/2506.12412)] [[official-code](https://github.com/kexin-kxzhang/CD2-TS)]
 
 
 
@@ -602,6 +608,8 @@ We will continue to update this list with the newest resources. If you find any 
 
 * DeAnomaly: Anomaly Detection for Multivariate Time Series Using Robust Decomposition and Memory-Augmented Diffusion Models, in *IEEE Transactions on Instrumentation and Measurement* 2025. [[paper](https://ieeexplore.ieee.org/abstract/document/11005610)]
 
+* DIFF-FECG: A Conditional Diffusion-Based Method for Fetal ECG Extraction from Abdominal ECG, in *IEEE Transactions on Artificial Intelligence* 2025. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11029501)] [[official-code](https://github.com/zhenqinchen/DIFF-FECG)]
+
 
 ### Classification and Regression
 
@@ -642,6 +650,8 @@ We will continue to update this list with the newest resources. If you find any 
 * EEGCiD: EEG Condensation Into Diffusion Model, in *IEEE Transactions on Automation Science and Engineering*, 2024. [[paper](https://ieeexplore.ieee.org/abstract/document/10738504)] [[official-code](https://github.com/JunFuChen/EEGCiD)]
 
 * IMUDiffusion: A Diffusion Model for Multivariate Time Series Synthetisation for Inertial Motion Capturing Systems, in *ArXiv* 2024. [[paper](https://arxiv.org/pdf/2411.02954)]
+
+* Electrooculography signal generation with conditional diffusion models for eye movement classification, in *Biomedical Signal Processing and Control* 2025. [[paper](https://www.sciencedirect.com/science/article/pii/S1746809425007220)]
 
 
 ### Causal Inference
@@ -831,6 +841,10 @@ We will continue to update this list with the newest resources. If you find any 
 
 * Denoising Diffusion Probabilistic Models for Coastal Inundation Forecasting, in *ArXiv* 2025. [[paper](https://arxiv.org/pdf/2505.05381)]
 
+* Filling the Missings: Spatiotemporal Data Imputation by Conditional Diffusion, in *ArXiv* 2025. [[paper](https://arxiv.org/pdf/2506.07099)] [[official-code](https://github.com/joyHJL/CoFILL)]
+
+* LaDCast: A Latent Diffusion Model for Medium-Range Ensemble Weather Forecasting, in *ArXiv* 2025. [[paper](https://arxiv.org/pdf/2506.09193)] [[official-code](https://github.com/tonyzyl/ladcast)]
+
 
   
 ## Diffusion Model for Tabular Data
@@ -1014,6 +1028,12 @@ We will continue to update this list with the newest resources. If you find any 
 
 * Generating Realistic Multi-Beat ECG Signals, in *International Conference on Digital Signal Processing* 2025. [[paper](https://arxiv.org/pdf/2505.18189)]
 
+* Denoising Motion-Corrupted Seismocardiogram Signals Using Score-Based Generative Diffusion Models, in *IEEE Journal of Biomedical and Health Informatics* 2025. [[paper](https://ieeexplore.ieee.org/abstract/document/11027314)]
+
+* DIFF-FECG: A Conditional Diffusion-Based Method for Fetal ECG Extraction from Abdominal ECG, in *IEEE Transactions on Artificial Intelligence* 2025. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11029501)] [[official-code](https://github.com/zhenqinchen/DIFF-FECG)]
+
+* Electrooculography signal generation with conditional diffusion models for eye movement classification, in *Biomedical Signal Processing and Control* 2025. [[paper](https://www.sciencedirect.com/science/article/pii/S1746809425007220)]
+
   
   
 ### Sequential Recommendation
@@ -1145,6 +1165,8 @@ We will continue to update this list with the newest resources. If you find any 
 * A method for generating wind power output scenarios based on improved conditional generative diffusion model, in *Electric Power Systems Research* 2025. [[paper](https://www.sciencedirect.com/science/article/pii/S0378779625003712)]
 
 * SocioDiff: A Socio-Aware Diffusion Model for Residential Electricity Consumption Data Generation, in *IEEE Transactions on Smart Grid* 2025. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11021430)] [[official-code](https://github.com/Intelligame/SocialDiff)]
+
+* GT-NILM: A Generative, Transferable Non-Intrusive Load Monitoring System Based on Conditional Diffusion Models and Convolutional Neural Networks, in *IEEE Transactions on Consumer Electronics* 2025. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11027567)]
 
 
 
