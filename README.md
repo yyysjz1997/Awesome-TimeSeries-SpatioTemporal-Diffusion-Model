@@ -211,6 +211,8 @@ We will continue to update this list with the newest resources. If you find any 
 
 * Non-stationary Diffusion For Probabilistic Time Series Forecasting, in *ICML* 2025. [[paper](https://arxiv.org/pdf/2505.04278)] [[official-code](https://github.com/wwy155/NsDiff)]
 
+* Conditional Diffusion Model with Nonlinear Data Transformation for Time Series Forecasting, in *ICML* 2025. [[paper](https://openreview.net/pdf?id=kcUNMKqrCg)]
+
 
 ### Generation
 
@@ -521,7 +523,7 @@ We will continue to update this list with the newest resources. If you find any 
 
 * Cross-Domain Conditional Diffusion Models for Time Series Imputation, in *ArXiv* 2025. [[paper](https://arxiv.org/pdf/2506.12412)] [[official-code](https://github.com/kexin-kxzhang/CD2-TS)]
 
-
+* LSCD: Lomb-Scargle Conditioned Diffusion for Time series Imputation, in *ICML* 2025. [[paper](https://arxiv.org/pdf/2506.17039)]
 
 
 ### Anomaly Detection
@@ -652,6 +654,8 @@ We will continue to update this list with the newest resources. If you find any 
 * IMUDiffusion: A Diffusion Model for Multivariate Time Series Synthetisation for Inertial Motion Capturing Systems, in *ArXiv* 2024. [[paper](https://arxiv.org/pdf/2411.02954)]
 
 * Electrooculography signal generation with conditional diffusion models for eye movement classification, in *Biomedical Signal Processing and Control* 2025. [[paper](https://www.sciencedirect.com/science/article/pii/S1746809425007220)]
+
+* Adversarial domain adaptation for cross-user activity recognition via noise diffusion model, in *Knowledge-Based Systems* 2025. [[paper](https://www.sciencedirect.com/science/article/pii/S0950705125009979)]
 
 
 ### Causal Inference
