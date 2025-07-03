@@ -454,6 +454,8 @@ We will continue to update this list with the newest resources. If you find any 
 
 * GT-NILM: A Generative, Transferable Non-Intrusive Load Monitoring System Based on Conditional Diffusion Models and Convolutional Neural Networks, in *IEEE Transactions on Consumer Electronics* 2025. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11027567)]
 
+* In-situ dehydration monitoring via a stable diffusion-aided single-lead ECG IoMT: ML/DL models shine while LLMs hallucinate, in *IEEE Internet of Things Journal* 2025. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11050934)]
+
 
 ### Imputation
 
@@ -611,6 +613,8 @@ We will continue to update this list with the newest resources. If you find any 
 * DeAnomaly: Anomaly Detection for Multivariate Time Series Using Robust Decomposition and Memory-Augmented Diffusion Models, in *IEEE Transactions on Instrumentation and Measurement* 2025. [[paper](https://ieeexplore.ieee.org/abstract/document/11005610)]
 
 * DIFF-FECG: A Conditional Diffusion-Based Method for Fetal ECG Extraction from Abdominal ECG, in *IEEE Transactions on Artificial Intelligence* 2025. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11029501)] [[official-code](https://github.com/zhenqinchen/DIFF-FECG)]
+
+* Diffusion model-assisted cross-domain fault diagnosis for rotating machinery under limited data, in *Reliability Engineering and System Safety* 2025. [[paper](https://www.sciencedirect.com/science/article/pii/S0951832025005733)]
 
 
 ### Classification and Regression
@@ -1038,6 +1042,8 @@ We will continue to update this list with the newest resources. If you find any 
 
 * Electrooculography signal generation with conditional diffusion models for eye movement classification, in *Biomedical Signal Processing and Control* 2025. [[paper](https://www.sciencedirect.com/science/article/pii/S1746809425007220)]
 
+* In-situ dehydration monitoring via a stable diffusion-aided single-lead ECG IoMT: ML/DL models shine while LLMs hallucinate, in *IEEE Internet of Things Journal* 2025. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11050934)]
+
   
   
 ### Sequential Recommendation
@@ -1431,6 +1437,8 @@ We will continue to update this list with the newest resources. If you find any 
 * Conditional Time Series Diffusion Model for High-Speed Train Multi-Sensor Signals Imputation, in *IEEE Transactions on Intelligent Transportation Systems* 2025. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10964776)]
 
 * A novel diffusion model with Shapley value analysis for anomaly detection and identification of wind turbine, in *Expert Systems With Applications* 2025. [[paper](https://www.sciencedirect.com/science/article/pii/S0957417425015477)]
+
+* Diffusion model-assisted cross-domain fault diagnosis for rotating machinery under limited data, in *Reliability Engineering and System Safety* 2025. [[paper](https://www.sciencedirect.com/science/article/pii/S0951832025005733)]
   
 
 ### Audio
