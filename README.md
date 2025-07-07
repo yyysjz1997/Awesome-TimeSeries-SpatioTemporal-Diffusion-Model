@@ -853,6 +853,8 @@ We will continue to update this list with the newest resources. If you find any 
 
 * LaDCast: A Latent Diffusion Model for Medium-Range Ensemble Weather Forecasting, in *ArXiv* 2025. [[paper](https://arxiv.org/pdf/2506.09193)] [[official-code](https://github.com/tonyzyl/ladcast)]
 
+* Double-Diffusion: Diffusion Conditioned Diffusion Probabilistic Model For Air Quality Prediction, in *ArXiv* 2025. [[paper](https://arxiv.org/pdf/2506.23053)]
+
 
   
 ## Diffusion Model for Tabular Data
@@ -1110,6 +1112,8 @@ We will continue to update this list with the newest resources. If you find any 
 * DGMI: A diffusion-based generative adversarial framework for multivariate air quality imputation, in *Applied Intelligence* 2025. [[paper](https://link.springer.com/article/10.1007/s10489-025-06240-8)]
 
 * LWDF: A lightweight diffusion model for sea surface temperature prediction, in *Stochastic Environmental Research and Risk Assessment* 2025. [[paper](https://link.springer.com/article/10.1007/s00477-025-02940-2)]
+
+* Double-Diffusion: Diffusion Conditioned Diffusion Probabilistic Model For Air Quality Prediction, in *ArXiv* 2025. [[paper](https://arxiv.org/pdf/2506.23053)]
 
 
 ### Energy and Electricity
