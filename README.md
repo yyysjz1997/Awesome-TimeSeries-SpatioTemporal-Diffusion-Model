@@ -456,6 +456,8 @@ We will continue to update this list with the newest resources. If you find any 
 
 * In-situ dehydration monitoring via a stable diffusion-aided single-lead ECG IoMT: ML/DL models shine while LLMs hallucinate, in *IEEE Internet of Things Journal* 2025. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11050934)]
 
+* ExDiffusion: Classifier-Guidance Diffusion Model for Extreme Load Scenario Generation with Extreme Value Theory, in *IEEE Transactions on Smart Grid* 2025. [[paper](https://ieeexplore.ieee.org/abstract/document/11062498)]
+
 
 ### Imputation
 
@@ -905,6 +907,7 @@ We will continue to update this list with the newest resources. If you find any 
 
 * TarDiff: Target-Oriented Diffusion Guidance for Synthetic Electronic Health Record Time Series Generation, in *ArXiv* 2025. [[paper](https://arxiv.org/pdf/2504.17613)]
 
+* DiffTab: An improved denoising diffusion probabilistic model for generating acidic wastewater sulfidation continuous tabular data, in *Journal of Water Process Engineering* 2025. [[paper](https://www.sciencedirect.com/science/article/pii/S2214714425013455)]
 
 
 
@@ -1181,6 +1184,8 @@ We will continue to update this list with the newest resources. If you find any 
 * SocioDiff: A Socio-Aware Diffusion Model for Residential Electricity Consumption Data Generation, in *IEEE Transactions on Smart Grid* 2025. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11021430)] [[official-code](https://github.com/Intelligame/SocialDiff)]
 
 * GT-NILM: A Generative, Transferable Non-Intrusive Load Monitoring System Based on Conditional Diffusion Models and Convolutional Neural Networks, in *IEEE Transactions on Consumer Electronics* 2025. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11027567)]
+
+* ExDiffusion: Classifier-Guidance Diffusion Model for Extreme Load Scenario Generation with Extreme Value Theory, in *IEEE Transactions on Smart Grid* 2025. [[paper](https://ieeexplore.ieee.org/abstract/document/11062498)]
 
 
 
