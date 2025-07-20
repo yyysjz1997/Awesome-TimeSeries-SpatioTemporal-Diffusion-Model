@@ -213,6 +213,8 @@ We will continue to update this list with the newest resources. If you find any 
 
 * Conditional Diffusion Model with Nonlinear Data Transformation for Time Series Forecasting, in *ICML* 2025. [[paper](https://openreview.net/pdf?id=kcUNMKqrCg)]
 
+* Bridging the Last Mile of Prediction: Enhancing Time Series Forecasting with Conditional Guided Flow Matching, in *ArXiv* 2025. [[paper](https://arxiv.org/pdf/2507.07192)]
+
 
 ### Generation
 
@@ -662,6 +664,9 @@ We will continue to update this list with the newest resources. If you find any 
 * Electrooculography signal generation with conditional diffusion models for eye movement classification, in *Biomedical Signal Processing and Control* 2025. [[paper](https://www.sciencedirect.com/science/article/pii/S1746809425007220)]
 
 * Adversarial domain adaptation for cross-user activity recognition via noise diffusion model, in *Knowledge-Based Systems* 2025. [[paper](https://www.sciencedirect.com/science/article/pii/S0950705125009979)]
+
+* Multi-domain Consistent Augmentation via Diffusion Models for Imbalanced Time Series Classification, in *IEEE Data Driven Control and Learning Systems Conference* 2025. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11065686)]
+
 
 
 ### Causal Inference
