@@ -460,6 +460,11 @@ We will continue to update this list with the newest resources. If you find any 
 
 * ExDiffusion: Classifier-Guidance Diffusion Model for Extreme Load Scenario Generation with Extreme Value Theory, in *IEEE Transactions on Smart Grid* 2025. [[paper](https://ieeexplore.ieee.org/abstract/document/11062498)]
 
+* Controllable renewable energy scenario generation based on pattern-guided diffusion models, in *Applied Energy* 2025. [[paper](https://www.sciencedirect.com/science/article/pii/S0306261925011766)]
+
+* A Diffusion Model Based on Hilbert-Huang Reconstruction for Pathological Voice Generation, in *IEEE Transactions on Audio, Speech and Language Processing* 2025. [[paper](https://ieeexplore.ieee.org/abstract/document/11082429)]
+
+
 
 ### Imputation
 
@@ -530,6 +535,8 @@ We will continue to update this list with the newest resources. If you find any 
 * Cross-Domain Conditional Diffusion Models for Time Series Imputation, in *ArXiv* 2025. [[paper](https://arxiv.org/pdf/2506.12412)] [[official-code](https://github.com/kexin-kxzhang/CD2-TS)]
 
 * LSCD: Lomb-Scargle Conditioned Diffusion for Time series Imputation, in *ICML* 2025. [[paper](https://arxiv.org/pdf/2506.17039)]
+
+* IoT Data Imputation Accuracy Enhancement: A Spatiotemporal Causal Mamba-Diffusion Imputation Model, in *IEEE Internet of Things Journal* 2025. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11084917)]
 
 
 ### Anomaly Detection
@@ -619,6 +626,9 @@ We will continue to update this list with the newest resources. If you find any 
 * DIFF-FECG: A Conditional Diffusion-Based Method for Fetal ECG Extraction from Abdominal ECG, in *IEEE Transactions on Artificial Intelligence* 2025. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11029501)] [[official-code](https://github.com/zhenqinchen/DIFF-FECG)]
 
 * Diffusion model-assisted cross-domain fault diagnosis for rotating machinery under limited data, in *Reliability Engineering and System Safety* 2025. [[paper](https://www.sciencedirect.com/science/article/pii/S0951832025005733)]
+
+* A health monitoring and early fault detection method of rotating machines based on latent variables of diffusion model, in *Mechanical Systems and Signal Processing* 2025. [[paper](https://www.sciencedirect.com/science/article/pii/S0888327025008234)]
+
 
 
 ### Classification and Regression
@@ -861,6 +871,8 @@ We will continue to update this list with the newest resources. If you find any 
 * LaDCast: A Latent Diffusion Model for Medium-Range Ensemble Weather Forecasting, in *ArXiv* 2025. [[paper](https://arxiv.org/pdf/2506.09193)] [[official-code](https://github.com/tonyzyl/ladcast)]
 
 * Double-Diffusion: Diffusion Conditioned Diffusion Probabilistic Model For Air Quality Prediction, in *ArXiv* 2025. [[paper](https://arxiv.org/pdf/2506.23053)]
+
+* Spatio-Temporal Probabilistic Forecasting of Wind Speed Using Transformer-Based Diffusion Models, in *IEEE Transactions on Sustainable Energy* 2025. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11091547)]
 
 
   
@@ -1192,6 +1204,10 @@ We will continue to update this list with the newest resources. If you find any 
 
 * ExDiffusion: Classifier-Guidance Diffusion Model for Extreme Load Scenario Generation with Extreme Value Theory, in *IEEE Transactions on Smart Grid* 2025. [[paper](https://ieeexplore.ieee.org/abstract/document/11062498)]
 
+* Controllable renewable energy scenario generation based on pattern-guided diffusion models, in *Applied Energy* 2025. [[paper](https://www.sciencedirect.com/science/article/pii/S0306261925011766)]
+
+* Spatio-Temporal Probabilistic Forecasting of Wind Speed Using Transformer-Based Diffusion Models, in *IEEE Transactions on Sustainable Energy* 2025. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11091547)]
+
 
 
 ### Math and Physics
@@ -1453,6 +1469,10 @@ We will continue to update this list with the newest resources. If you find any 
 * A novel diffusion model with Shapley value analysis for anomaly detection and identification of wind turbine, in *Expert Systems With Applications* 2025. [[paper](https://www.sciencedirect.com/science/article/pii/S0957417425015477)]
 
 * Diffusion model-assisted cross-domain fault diagnosis for rotating machinery under limited data, in *Reliability Engineering and System Safety* 2025. [[paper](https://www.sciencedirect.com/science/article/pii/S0951832025005733)]
+
+* A health monitoring and early fault detection method of rotating machines based on latent variables of diffusion model, in *Mechanical Systems and Signal Processing* 2025. [[paper](https://www.sciencedirect.com/science/article/pii/S0888327025008234)]
+ 
+
   
 
 ### Audio
@@ -1496,6 +1516,8 @@ We will continue to update this list with the newest resources. If you find any 
 * ImmerseDiffusion: A Generative Spatial Audio Latent Diffusion Model, in *ArXiv* 2024. [[paper](https://arxiv.org/pdf/2410.14945)]
 
 * Sparsity Measures-Enhanced Targeted Diffusion Probabilistic Model for Acoustic Signal Recovery, in *IEEE Transactions on Instrumentation and Measurement* 2024. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10802969)]
+
+* A Diffusion Model Based on Hilbert-Huang Reconstruction for Pathological Voice Generation, in *IEEE Transactions on Audio, Speech and Language Processing* 2025. [[paper](https://ieeexplore.ieee.org/abstract/document/11082429)]
 
 
 
