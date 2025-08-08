@@ -464,6 +464,8 @@ We will continue to update this list with the newest resources. If you find any 
 
 * A Diffusion Model Based on Hilbert-Huang Reconstruction for Pathological Voice Generation, in *IEEE Transactions on Audio, Speech and Language Processing* 2025. [[paper](https://ieeexplore.ieee.org/abstract/document/11082429)]
 
+* Research on adaptive denoising for oil and gas pipeline detection signals based on generative diffusion probabilistic framework, in *Mechanical Systems and Signal Processing* 2025. [[paper](https://www.sciencedirect.com/science/article/pii/S0888327025008647)]
+
 
 
 ### Imputation
@@ -537,6 +539,8 @@ We will continue to update this list with the newest resources. If you find any 
 * LSCD: Lomb-Scargle Conditioned Diffusion for Time series Imputation, in *ICML* 2025. [[paper](https://arxiv.org/pdf/2506.17039)]
 
 * IoT Data Imputation Accuracy Enhancement: A Spatiotemporal Causal Mamba-Diffusion Imputation Model, in *IEEE Internet of Things Journal* 2025. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11084917)]
+
+* SSD-TS: Exploring the Potential of Linear State Space Models for Diffusion Models in Time Series Imputation, in ** 2025. [[paper](https://dl.acm.org/doi/pdf/10.1145/3711896.3737135)] [[official-code](https://github.com/decisionintelligence/SSD-TS/)]
 
 
 ### Anomaly Detection
@@ -629,6 +633,8 @@ We will continue to update this list with the newest resources. If you find any 
 
 * A health monitoring and early fault detection method of rotating machines based on latent variables of diffusion model, in *Mechanical Systems and Signal Processing* 2025. [[paper](https://www.sciencedirect.com/science/article/pii/S0888327025008234)]
 
+* Wind Turbine Blade Icing Predictive Fault Warning System Based on Conditional Time Series Denoising Diffusion Data Restoration Model, in *IEEE Transactions on Automation Science and Engineering* 2025. [[paper](https://ieeexplore.ieee.org/author/37089838123)]
+
 
 
 ### Classification and Regression
@@ -676,6 +682,8 @@ We will continue to update this list with the newest resources. If you find any 
 * Adversarial domain adaptation for cross-user activity recognition via noise diffusion model, in *Knowledge-Based Systems* 2025. [[paper](https://www.sciencedirect.com/science/article/pii/S0950705125009979)]
 
 * Multi-domain Consistent Augmentation via Diffusion Models for Imbalanced Time Series Classification, in *IEEE Data Driven Control and Learning Systems Conference* 2025. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11065686)]
+
+* Diffusion-Guided Diversity for Single Domain Generalization in Time Series Classification, in *KDD* 2025. [[paper](https://dl.acm.org/doi/pdf/10.1145/3711896.3736909)]
 
 
 
@@ -1207,6 +1215,11 @@ We will continue to update this list with the newest resources. If you find any 
 * Controllable renewable energy scenario generation based on pattern-guided diffusion models, in *Applied Energy* 2025. [[paper](https://www.sciencedirect.com/science/article/pii/S0306261925011766)]
 
 * Spatio-Temporal Probabilistic Forecasting of Wind Speed Using Transformer-Based Diffusion Models, in *IEEE Transactions on Sustainable Energy* 2025. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11091547)]
+
+* Wind Turbine Blade Icing Predictive Fault Warning System Based on Conditional Time Series Denoising Diffusion Data Restoration Model, in *IEEE Transactions on Automation Science and Engineering* 2025. [[paper](https://ieeexplore.ieee.org/author/37089838123)]
+
+* Research on adaptive denoising for oil and gas pipeline detection signals based on generative diffusion probabilistic framework, in *Mechanical Systems and Signal Processing* 2025. [[paper](https://www.sciencedirect.com/science/article/pii/S0888327025008647)]
+
 
 
 
