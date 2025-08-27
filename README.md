@@ -215,6 +215,8 @@ We will continue to update this list with the newest resources. If you find any 
 
 * Bridging the Last Mile of Prediction: Enhancing Time Series Forecasting with Conditional Guided Flow Matching, in *ArXiv* 2025. [[paper](https://arxiv.org/pdf/2507.07192)]
 
+* FESD: Feature-Enhanced Structured-State-Space Diffusion Model for Battery SOH Prediction and Imputation, in *IEEE Transactions on Instrumentation and Measurement* 2025. [[paper](https://ieeexplore.ieee.org/abstract/document/11134532)]
+
 
 ### Generation
 
@@ -634,6 +636,8 @@ We will continue to update this list with the newest resources. If you find any 
 * A health monitoring and early fault detection method of rotating machines based on latent variables of diffusion model, in *Mechanical Systems and Signal Processing* 2025. [[paper](https://www.sciencedirect.com/science/article/pii/S0888327025008234)]
 
 * Wind Turbine Blade Icing Predictive Fault Warning System Based on Conditional Time Series Denoising Diffusion Data Restoration Model, in *IEEE Transactions on Automation Science and Engineering* 2025. [[paper](https://ieeexplore.ieee.org/author/37089838123)]
+
+* A Semi-Supervised Diffusion-Based Paradigm for Vehicle-Track System Health Monitoring With Distributed Acoustic Sensing, in *IEEE Transactions on Intelligent Transportation Systems* 2025. [[paper](https://ieeexplore.ieee.org/abstract/document/11125815)]
 
 
 
@@ -1220,6 +1224,8 @@ We will continue to update this list with the newest resources. If you find any 
 
 * Research on adaptive denoising for oil and gas pipeline detection signals based on generative diffusion probabilistic framework, in *Mechanical Systems and Signal Processing* 2025. [[paper](https://www.sciencedirect.com/science/article/pii/S0888327025008647)]
 
+* FESD: Feature-Enhanced Structured-State-Space Diffusion Model for Battery SOH Prediction and Imputation, in *IEEE Transactions on Instrumentation and Measurement* 2025. [[paper](https://ieeexplore.ieee.org/abstract/document/11134532)]
+
 
 
 
@@ -1407,6 +1413,8 @@ We will continue to update this list with the newest resources. If you find any 
 * AutoSTDiff: Autoregressive Spatio-Temporal Denoising Diffusion Model for Asynchronous Trajectory Generation, in *SIAM* 2025. [[paper](https://epubs.siam.org/doi/pdf/10.1137/1.9781611978520.58)] [[official-code](https://github.com/Rongchao98/AutoSTDiff)]
 
 * Denoising Diffusion Probabilistic Models for Coastal Inundation Forecasting, in *ArXiv* 2025. [[paper](https://arxiv.org/pdf/2505.05381)]
+
+* A Semi-Supervised Diffusion-Based Paradigm for Vehicle-Track System Health Monitoring With Distributed Acoustic Sensing, in *IEEE Transactions on Intelligent Transportation Systems* 2025. [[paper](https://ieeexplore.ieee.org/abstract/document/11125815)]
 
 
 ### Manufacturing
