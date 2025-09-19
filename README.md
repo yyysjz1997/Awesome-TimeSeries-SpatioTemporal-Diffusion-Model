@@ -217,6 +217,10 @@ We will continue to update this list with the newest resources. If you find any 
 
 * FESD: Feature-Enhanced Structured-State-Space Diffusion Model for Battery SOH Prediction and Imputation, in *IEEE Transactions on Instrumentation and Measurement* 2025. [[paper](https://ieeexplore.ieee.org/abstract/document/11134532)]
 
+* DiffAT: Effective data augmentation with diffusion models for time series forecasting, in *Engineering Applications of Artificial Intelligence* 2025. [[paper](https://www.sciencedirect.com/science/article/pii/S0952197625020998)]
+
+* An LLM-Enhanced Conditional Diffusion Model for Mobile Traffic Prediction, in *IEEE Communications Magazine* 2025. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11152704)]
+
 
 ### Generation
 
@@ -468,6 +472,11 @@ We will continue to update this list with the newest resources. If you find any 
 
 * Research on adaptive denoising for oil and gas pipeline detection signals based on generative diffusion probabilistic framework, in *Mechanical Systems and Signal Processing* 2025. [[paper](https://www.sciencedirect.com/science/article/pii/S0888327025008647)]
 
+* TransConv-DDPM: Enhanced Diffusion Model for Generating Time-Series Data in Healthcare, in *IEEE 49th Annual Computers, Software, and Applications Conference (COMPSAC)* 2025. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11126605)]
+
+* TransUNET-DDPM: A transformer-enhanced diffusion model for subject-specific brain network generation and classification, in *Computers in Biology and Medicine* 2025. [[paper](https://www.sciencedirect.com/science/article/pii/S0010482525013484)]
+
+* InterDiff: Synthesizing Financial Time Series with Inter-Stock Correlations via Classifier-Free Guided Diffusion, in *ECML-PKDD* 2025. [[paper](https://ecmlpkdd-storage.s3.eu-central-1.amazonaws.com/preprints/2025/ads/preprint_ecml_pkdd_2025_ads_759.pdf)]
 
 
 ### Imputation
@@ -542,7 +551,9 @@ We will continue to update this list with the newest resources. If you find any 
 
 * IoT Data Imputation Accuracy Enhancement: A Spatiotemporal Causal Mamba-Diffusion Imputation Model, in *IEEE Internet of Things Journal* 2025. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11084917)]
 
-* SSD-TS: Exploring the Potential of Linear State Space Models for Diffusion Models in Time Series Imputation, in ** 2025. [[paper](https://dl.acm.org/doi/pdf/10.1145/3711896.3737135)] [[official-code](https://github.com/decisionintelligence/SSD-TS/)]
+* SSD-TS: Exploring the Potential of Linear State Space Models for Diffusion Models in Time Series Imputation, in *KDD* 2025. [[paper](https://dl.acm.org/doi/pdf/10.1145/3711896.3737135)] [[official-code](https://github.com/decisionintelligence/SSD-TS/)]
+
+* Probabilistic imputation of missing offshore wind speed based on conditional diffusion models, in *Sustainable Energy, Grids and Networks* 2025. [[paper](https://www.sciencedirect.com/science/article/pii/S2352467725003315)]
 
 
 ### Anomaly Detection
@@ -1078,6 +1089,10 @@ We will continue to update this list with the newest resources. If you find any 
 
 * In-situ dehydration monitoring via a stable diffusion-aided single-lead ECG IoMT: ML/DL models shine while LLMs hallucinate, in *IEEE Internet of Things Journal* 2025. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11050934)]
 
+* TransConv-DDPM: Enhanced Diffusion Model for Generating Time-Series Data in Healthcare, in *IEEE 49th Annual Computers, Software, and Applications Conference (COMPSAC)* 2025. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11126605)]
+
+* TransUNET-DDPM: A transformer-enhanced diffusion model for subject-specific brain network generation and classification, in *Computers in Biology and Medicine* 2025. [[paper](https://www.sciencedirect.com/science/article/pii/S0010482525013484)]
+
   
   
 ### Sequential Recommendation
@@ -1226,6 +1241,8 @@ We will continue to update this list with the newest resources. If you find any 
 
 * FESD: Feature-Enhanced Structured-State-Space Diffusion Model for Battery SOH Prediction and Imputation, in *IEEE Transactions on Instrumentation and Measurement* 2025. [[paper](https://ieeexplore.ieee.org/abstract/document/11134532)]
 
+* Probabilistic imputation of missing offshore wind speed based on conditional diffusion models, in *Sustainable Energy, Grids and Networks* 2025. [[paper](https://www.sciencedirect.com/science/article/pii/S2352467725003315)]
+
 
 
 
@@ -1279,6 +1296,8 @@ We will continue to update this list with the newest resources. If you find any 
 * CoFinDiff: Controllable Financial Diffusion Model for Time Series Generation, in *ArXiv* 2025. [[paper](https://arxiv.org/pdf/2503.04164)]
 
 * DHMoE: Diffusion Generated Hierarchical Multi-Granular Expertise for Stock Prediction, in *AAAI* 2025. [[paper](https://ojs.aaai.org/index.php/AAAI/issue/view/634)]
+
+* InterDiff: Synthesizing Financial Time Series with Inter-Stock Correlations via Classifier-Free Guided Diffusion, in *ECML-PKDD* 2025. [[paper](https://ecmlpkdd-storage.s3.eu-central-1.amazonaws.com/preprints/2025/ads/preprint_ecml_pkdd_2025_ads_759.pdf)]
 
 
 ### AIOps
@@ -1556,6 +1575,9 @@ We will continue to update this list with the newest resources. If you find any 
 * Unveiling the Power of Noise Priors: Enhancing Diffusion Models for Mobile Traffic Prediction, in *ArXiv* 2025. [[paper](https://arxiv.org/pdf/2501.13794)]
 
 * One Fits All: General Mobility Trajectory Modeling via Masked Conditional Diffusion, in *ArXiv* 2025. [[paper](https://arxiv.org/pdf/2501.13347)]
+
+* An LLM-Enhanced Conditional Diffusion Model for Mobile Traffic Prediction, in *IEEE Communications Magazine* 2025. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11152704)]
+
 
 
 
