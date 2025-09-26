@@ -3,7 +3,6 @@
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) 
 ![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-green) 
 ![Stars](https://img.shields.io/github/stars/yyysjz1997/Awesome-TimeSeries-SpatioTemporal-Diffusion-Model)
-[![Visits Badge](https://badges.pufler.dev/visits/yyysjz1997/Awesome-TimeSeries-SpatioTemporal-Diffusion-Model)](https://badges.pufler.dev/visits/yyysjz1997/Awesome-TimeSeries-SpatioTemporal-Diffusion-Model)
 
 
 A curated list of **Diffusion Models** for **Time Series**, **SpatioTemporal Data** and **Tabular Data** with awesome resources (paper, code, application, review, survey, etc.), which aims to comprehensively and systematically summarize the recent advances to the best of our knowledge.
@@ -478,7 +477,7 @@ We will continue to update this list with the newest resources. If you find any 
 
 * InterDiff: Synthesizing Financial Time Series with Inter-Stock Correlations via Classifier-Free Guided Diffusion, in *ECML-PKDD* 2025. [[paper](https://ecmlpkdd-storage.s3.eu-central-1.amazonaws.com/preprints/2025/ads/preprint_ecml_pkdd_2025_ads_759.pdf)]
 
-* DS-Diffusion: Data Style-Guided Diffusion Model for Time-Series Generation, in *ArXiv* 2025. [paper](https://arxiv.org/pdf/2509.18584)]
+* DS-Diffusion: Data Style-Guided Diffusion Model for Time-Series Generation, in *ArXiv* 2025. [[paper](https://arxiv.org/pdf/2509.18584)]
 
 
 ### Imputation
