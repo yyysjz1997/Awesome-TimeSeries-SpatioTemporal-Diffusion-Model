@@ -478,6 +478,8 @@ We will continue to update this list with the newest resources. If you find any 
 
 * InterDiff: Synthesizing Financial Time Series with Inter-Stock Correlations via Classifier-Free Guided Diffusion, in *ECML-PKDD* 2025. [[paper](https://ecmlpkdd-storage.s3.eu-central-1.amazonaws.com/preprints/2025/ads/preprint_ecml_pkdd_2025_ads_759.pdf)]
 
+* DS-Diffusion: Data Style-Guided Diffusion Model for Time-Series Generation, in *ArXiv* 2025. [paper](https://arxiv.org/pdf/2509.18584)]
+
 
 ### Imputation
 
@@ -554,6 +556,8 @@ We will continue to update this list with the newest resources. If you find any 
 * SSD-TS: Exploring the Potential of Linear State Space Models for Diffusion Models in Time Series Imputation, in *KDD* 2025. [[paper](https://dl.acm.org/doi/pdf/10.1145/3711896.3737135)] [[official-code](https://github.com/decisionintelligence/SSD-TS/)]
 
 * Probabilistic imputation of missing offshore wind speed based on conditional diffusion models, in *Sustainable Energy, Grids and Networks* 2025. [[paper](https://www.sciencedirect.com/science/article/pii/S2352467725003315)]
+
+* A Cross-level Consistency-aware Diffusion Model of Hierarchical Imputation for Energy Prosumers, in *IEEE Transactions on Smart Grid* 2025. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11168916)]
 
 
 ### Anomaly Detection
@@ -649,6 +653,8 @@ We will continue to update this list with the newest resources. If you find any 
 * Wind Turbine Blade Icing Predictive Fault Warning System Based on Conditional Time Series Denoising Diffusion Data Restoration Model, in *IEEE Transactions on Automation Science and Engineering* 2025. [[paper](https://ieeexplore.ieee.org/author/37089838123)]
 
 * A Semi-Supervised Diffusion-Based Paradigm for Vehicle-Track System Health Monitoring With Distributed Acoustic Sensing, in *IEEE Transactions on Intelligent Transportation Systems* 2025. [[paper](https://ieeexplore.ieee.org/abstract/document/11125815)]
+
+* Diffusion Models with Self-Conditioning Guidance for Multivariate Time Series Anomaly Detection, in *Knowledge-Based Systems* 2025. [[paper](https://www.sciencedirect.com/science/article/abs/pii/S0950705125015503)]
 
 
 
@@ -896,6 +902,11 @@ We will continue to update this list with the newest resources. If you find any 
 * Double-Diffusion: Diffusion Conditioned Diffusion Probabilistic Model For Air Quality Prediction, in *ArXiv* 2025. [[paper](https://arxiv.org/pdf/2506.23053)]
 
 * Spatio-Temporal Probabilistic Forecasting of Wind Speed Using Transformer-Based Diffusion Models, in *IEEE Transactions on Sustainable Energy* 2025. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11091547)]
+
+* Score-Based Spatial-Temporal Point Process for Traffic Accident Prediction, in *IEEE Transactions on Intelligent Transportation Systems* 2025. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11173997)]
+
+* Conditional Diffusion Based Spatio-Temporal Imputation Model for Reliable and Intelligent Service in Consumer Electronics, in *IEEE Transactions on Consumer Electronics* 2025. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11175361)]
+
 
 
   
@@ -1243,7 +1254,7 @@ We will continue to update this list with the newest resources. If you find any 
 
 * Probabilistic imputation of missing offshore wind speed based on conditional diffusion models, in *Sustainable Energy, Grids and Networks* 2025. [[paper](https://www.sciencedirect.com/science/article/pii/S2352467725003315)]
 
-
+* A Cross-level Consistency-aware Diffusion Model of Hierarchical Imputation for Energy Prosumers, in *IEEE Transactions on Smart Grid* 2025. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11168916)]
 
 
 ### Math and Physics
@@ -1434,6 +1445,9 @@ We will continue to update this list with the newest resources. If you find any 
 * Denoising Diffusion Probabilistic Models for Coastal Inundation Forecasting, in *ArXiv* 2025. [[paper](https://arxiv.org/pdf/2505.05381)]
 
 * A Semi-Supervised Diffusion-Based Paradigm for Vehicle-Track System Health Monitoring With Distributed Acoustic Sensing, in *IEEE Transactions on Intelligent Transportation Systems* 2025. [[paper](https://ieeexplore.ieee.org/abstract/document/11125815)]
+
+* Score-Based Spatial-Temporal Point Process for Traffic Accident Prediction, in *IEEE Transactions on Intelligent Transportation Systems* 2025. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11173997)]
+
 
 
 ### Manufacturing
