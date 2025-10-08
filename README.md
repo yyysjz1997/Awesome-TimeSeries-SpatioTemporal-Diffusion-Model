@@ -906,6 +906,8 @@ We will continue to update this list with the newest resources. If you find any 
 
 * Conditional Diffusion Based Spatio-Temporal Imputation Model for Reliable and Intelligent Service in Consumer Electronics, in *IEEE Transactions on Consumer Electronics* 2025. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11175361)]
 
+* Probabilistic and Interaction-Aware Trajectory Prediction Using Score-Based Diffusion Models, in *IEEE Transactions on Industrial Informatics* 2025. [[paper](https://ieeexplore.ieee.org/abstract/document/11192085)]
+
 
 
   
@@ -1446,6 +1448,8 @@ We will continue to update this list with the newest resources. If you find any 
 * A Semi-Supervised Diffusion-Based Paradigm for Vehicle-Track System Health Monitoring With Distributed Acoustic Sensing, in *IEEE Transactions on Intelligent Transportation Systems* 2025. [[paper](https://ieeexplore.ieee.org/abstract/document/11125815)]
 
 * Score-Based Spatial-Temporal Point Process for Traffic Accident Prediction, in *IEEE Transactions on Intelligent Transportation Systems* 2025. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11173997)]
+
+* Probabilistic and Interaction-Aware Trajectory Prediction Using Score-Based Diffusion Models, in *IEEE Transactions on Industrial Informatics* 2025. [[paper](https://ieeexplore.ieee.org/abstract/document/11192085)]
 
 
 
