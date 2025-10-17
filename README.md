@@ -220,6 +220,8 @@ We will continue to update this list with the newest resources. If you find any 
 
 * An LLM-Enhanced Conditional Diffusion Model for Mobile Traffic Prediction, in *IEEE Communications Magazine* 2025. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11152704)]
 
+* Generative Self-Supervised Time Series Forecasting Leveraging Wavelet Diffusion, in *IEEE Transactions on Instrumentation and Measurement* 2025. [[paper](https://ieeexplore.ieee.org/abstract/document/11197480)]
+
 
 ### Generation
 
@@ -654,6 +656,8 @@ We will continue to update this list with the newest resources. If you find any 
 * A Semi-Supervised Diffusion-Based Paradigm for Vehicle-Track System Health Monitoring With Distributed Acoustic Sensing, in *IEEE Transactions on Intelligent Transportation Systems* 2025. [[paper](https://ieeexplore.ieee.org/abstract/document/11125815)]
 
 * Diffusion Models with Self-Conditioning Guidance for Multivariate Time Series Anomaly Detection, in *Knowledge-Based Systems* 2025. [[paper](https://www.sciencedirect.com/science/article/abs/pii/S0950705125015503)]
+
+* Diffusion-augmented contrastive learning framework for quantitative diagnosis under limited data conditions, in *Advanced Engineering Informatics* 2025. [[paper](https://www.sciencedirect.com/science/article/pii/S1474034625008237)]
 
 
 
@@ -1529,7 +1533,7 @@ We will continue to update this list with the newest resources. If you find any 
 
 * A health monitoring and early fault detection method of rotating machines based on latent variables of diffusion model, in *Mechanical Systems and Signal Processing* 2025. [[paper](https://www.sciencedirect.com/science/article/pii/S0888327025008234)]
  
-
+* Diffusion-augmented contrastive learning framework for quantitative diagnosis under limited data conditions, in *Advanced Engineering Informatics* 2025. [[paper](https://www.sciencedirect.com/science/article/pii/S1474034625008237)]
   
 
 ### Audio
