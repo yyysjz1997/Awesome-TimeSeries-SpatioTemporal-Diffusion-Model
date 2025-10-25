@@ -659,6 +659,8 @@ We will continue to update this list with the newest resources. If you find any 
 
 * Diffusion-augmented contrastive learning framework for quantitative diagnosis under limited data conditions, in *Advanced Engineering Informatics* 2025. [[paper](https://www.sciencedirect.com/science/article/pii/S1474034625008237)]
 
+* Simulation driven speed aware conditional diffusion model and its application to domain generalization fault diagnosis of bearings, in *Measurement* 2025. [[paper](https://www.sciencedirect.com/science/article/pii/S0263224125027770)]
+
 
 
 ### Classification and Regression
@@ -911,6 +913,8 @@ We will continue to update this list with the newest resources. If you find any 
 * Conditional Diffusion Based Spatio-Temporal Imputation Model for Reliable and Intelligent Service in Consumer Electronics, in *IEEE Transactions on Consumer Electronics* 2025. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11175361)]
 
 * Probabilistic and Interaction-Aware Trajectory Prediction Using Score-Based Diffusion Models, in *IEEE Transactions on Industrial Informatics* 2025. [[paper](https://ieeexplore.ieee.org/abstract/document/11192085)]
+
+* Score-Based Variational Modeling for Spatiotemporal Forecasting, in *IEEE Transactions on Signal and Information Processing over Networks* 2025. [[paper](https://ieeexplore.ieee.org/abstract/document/11206534)] [[official-code](https://github.com/JAMS-Lab/SSTVM)]
 
 
 
@@ -1534,7 +1538,10 @@ We will continue to update this list with the newest resources. If you find any 
 * A health monitoring and early fault detection method of rotating machines based on latent variables of diffusion model, in *Mechanical Systems and Signal Processing* 2025. [[paper](https://www.sciencedirect.com/science/article/pii/S0888327025008234)]
  
 * Diffusion-augmented contrastive learning framework for quantitative diagnosis under limited data conditions, in *Advanced Engineering Informatics* 2025. [[paper](https://www.sciencedirect.com/science/article/pii/S1474034625008237)]
-  
+
+* Simulation driven speed aware conditional diffusion model and its application to domain generalization fault diagnosis of bearings, in *Measurement* 2025. [[paper](https://www.sciencedirect.com/science/article/pii/S0263224125027770)]
+
+
 
 ### Audio
 
