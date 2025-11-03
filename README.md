@@ -222,6 +222,9 @@ We will continue to update this list with the newest resources. If you find any 
 
 * Generative Self-Supervised Time Series Forecasting Leveraging Wavelet Diffusion, in *IEEE Transactions on Instrumentation and Measurement* 2025. [[paper](https://ieeexplore.ieee.org/abstract/document/11197480)]
 
+* Temporal latent diffusion model for machine degradation trend forecasting, in *Knowledge-Based Systems* 2025. [[paper](https://www.sciencedirect.com/science/article/pii/S0950705125017915)]
+
+
 
 ### Generation
 
@@ -480,6 +483,8 @@ We will continue to update this list with the newest resources. If you find any 
 * InterDiff: Synthesizing Financial Time Series with Inter-Stock Correlations via Classifier-Free Guided Diffusion, in *ECML-PKDD* 2025. [[paper](https://ecmlpkdd-storage.s3.eu-central-1.amazonaws.com/preprints/2025/ads/preprint_ecml_pkdd_2025_ads_759.pdf)]
 
 * DS-Diffusion: Data Style-Guided Diffusion Model for Time-Series Generation, in *ArXiv* 2025. [[paper](https://arxiv.org/pdf/2509.18584)]
+
+* Interference Waveform Generation Based on Diffusion Transformer Model, in *IEEE Communications Letters* 2025. [[paper](https://ieeexplore.ieee.org/document/11207613)]
 
 
 ### Imputation
@@ -1541,6 +1546,8 @@ We will continue to update this list with the newest resources. If you find any 
 
 * Simulation driven speed aware conditional diffusion model and its application to domain generalization fault diagnosis of bearings, in *Measurement* 2025. [[paper](https://www.sciencedirect.com/science/article/pii/S0263224125027770)]
 
+* Temporal latent diffusion model for machine degradation trend forecasting, in *Knowledge-Based Systems* 2025. [[paper](https://www.sciencedirect.com/science/article/pii/S0950705125017915)]
+
 
 
 ### Audio
@@ -1606,6 +1613,7 @@ We will continue to update this list with the newest resources. If you find any 
 
 * An LLM-Enhanced Conditional Diffusion Model for Mobile Traffic Prediction, in *IEEE Communications Magazine* 2025. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11152704)]
 
+* Interference Waveform Generation Based on Diffusion Transformer Model, in *IEEE Communications Letters* 2025. [[paper](https://ieeexplore.ieee.org/document/11207613)]
 
 
 
