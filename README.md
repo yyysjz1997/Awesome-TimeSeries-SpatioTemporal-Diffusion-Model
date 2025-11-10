@@ -224,6 +224,8 @@ We will continue to update this list with the newest resources. If you find any 
 
 * Temporal latent diffusion model for machine degradation trend forecasting, in *Knowledge-Based Systems* 2025. [[paper](https://www.sciencedirect.com/science/article/pii/S0950705125017915)]
 
+* Expert denoising for enhanced diffusion-based time series forecasting, in *Expert Systems with Applications* 2025. [[paper](https://www.sciencedirect.com/science/article/pii/S0957417425038849)]
+
 
 
 ### Generation
@@ -486,6 +488,8 @@ We will continue to update this list with the newest resources. If you find any 
 
 * Interference Waveform Generation Based on Diffusion Transformer Model, in *IEEE Communications Letters* 2025. [[paper](https://ieeexplore.ieee.org/document/11207613)]
 
+* Exploring Latent Diffusion Models for ECG Generation on the Minute Scale, in *Computer Methods and Programs in Biomedicine* 2025. [[paper](https://www.sciencedirect.com/science/article/pii/S0169260725005541)] [[official-code](https://github.com/kranzdd/ecgen)]
+
 
 ### Imputation
 
@@ -665,6 +669,8 @@ We will continue to update this list with the newest resources. If you find any 
 * Diffusion-augmented contrastive learning framework for quantitative diagnosis under limited data conditions, in *Advanced Engineering Informatics* 2025. [[paper](https://www.sciencedirect.com/science/article/pii/S1474034625008237)]
 
 * Simulation driven speed aware conditional diffusion model and its application to domain generalization fault diagnosis of bearings, in *Measurement* 2025. [[paper](https://www.sciencedirect.com/science/article/pii/S0263224125027770)]
+
+* PhysDiff: A Physically-Guided Diffusion Model for Multivariate Time Series Anomaly Detection, in *NeurIPS* 2025. [[paper](https://openreview.net/forum?id=ElTbpJp7b9)]
 
 
 
@@ -1117,6 +1123,8 @@ We will continue to update this list with the newest resources. If you find any 
 * TransConv-DDPM: Enhanced Diffusion Model for Generating Time-Series Data in Healthcare, in *IEEE 49th Annual Computers, Software, and Applications Conference (COMPSAC)* 2025. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11126605)]
 
 * TransUNET-DDPM: A transformer-enhanced diffusion model for subject-specific brain network generation and classification, in *Computers in Biology and Medicine* 2025. [[paper](https://www.sciencedirect.com/science/article/pii/S0010482525013484)]
+
+* Exploring Latent Diffusion Models for ECG Generation on the Minute Scale, in *Computer Methods and Programs in Biomedicine* 2025. [[paper](https://www.sciencedirect.com/science/article/pii/S0169260725005541)] [[official-code](https://github.com/kranzdd/ecgen)]
 
   
   
