@@ -490,6 +490,8 @@ We will continue to update this list with the newest resources. If you find any 
 
 * Exploring Latent Diffusion Models for ECG Generation on the Minute Scale, in *Computer Methods and Programs in Biomedicine* 2025. [[paper](https://www.sciencedirect.com/science/article/pii/S0169260725005541)] [[official-code](https://github.com/kranzdd/ecgen)]
 
+* Modelling time-series data generation with diffusion models for triaxial data, in *Applied Soft Computing* 2025. [[paper](https://www.sciencedirect.com/science/article/pii/S156849462501508X)]
+
 
 ### Imputation
 
@@ -568,6 +570,9 @@ We will continue to update this list with the newest resources. If you find any 
 * Probabilistic imputation of missing offshore wind speed based on conditional diffusion models, in *Sustainable Energy, Grids and Networks* 2025. [[paper](https://www.sciencedirect.com/science/article/pii/S2352467725003315)]
 
 * A Cross-level Consistency-aware Diffusion Model of Hierarchical Imputation for Energy Prosumers, in *IEEE Transactions on Smart Grid* 2025. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11168916)]
+
+* IMU data imputation with diffusion models and spatiotemporal consistency constraints for inertial navigation, in *Measurement* 2025. [[paper](https://www.sciencedirect.com/science/article/pii/S0263224125029483)]
+
 
 
 ### Anomaly Detection
@@ -927,6 +932,7 @@ We will continue to update this list with the newest resources. If you find any 
 
 * Score-Based Variational Modeling for Spatiotemporal Forecasting, in *IEEE Transactions on Signal and Information Processing over Networks* 2025. [[paper](https://ieeexplore.ieee.org/abstract/document/11206534)] [[official-code](https://github.com/JAMS-Lab/SSTVM)]
 
+* Stamp: Semantic-Aware Sub-trajectory Anomaly Detection with Diffusion Multi-model Pool for Evolving Data Streams, in *CIKM* 2025. [[paper](https://dl.acm.org/doi/pdf/10.1145/3746252.3761088)] 
 
 
   
@@ -1472,6 +1478,8 @@ We will continue to update this list with the newest resources. If you find any 
 
 * Probabilistic and Interaction-Aware Trajectory Prediction Using Score-Based Diffusion Models, in *IEEE Transactions on Industrial Informatics* 2025. [[paper](https://ieeexplore.ieee.org/abstract/document/11192085)]
 
+* Stamp: Semantic-Aware Sub-trajectory Anomaly Detection with Diffusion Multi-model Pool for Evolving Data Streams, in *CIKM* 2025. [[paper](https://dl.acm.org/doi/pdf/10.1145/3746252.3761088)]
+
 
 
 ### Manufacturing
@@ -1555,6 +1563,8 @@ We will continue to update this list with the newest resources. If you find any 
 * Simulation driven speed aware conditional diffusion model and its application to domain generalization fault diagnosis of bearings, in *Measurement* 2025. [[paper](https://www.sciencedirect.com/science/article/pii/S0263224125027770)]
 
 * Temporal latent diffusion model for machine degradation trend forecasting, in *Knowledge-Based Systems* 2025. [[paper](https://www.sciencedirect.com/science/article/pii/S0950705125017915)]
+
+* IMU data imputation with diffusion models and spatiotemporal consistency constraints for inertial navigation, in *Measurement* 2025. [[paper](https://www.sciencedirect.com/science/article/pii/S0263224125029483)]
 
 
 
