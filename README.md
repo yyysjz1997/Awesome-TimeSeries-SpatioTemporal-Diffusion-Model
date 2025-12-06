@@ -11,6 +11,10 @@ We will continue to update this list with the newest resources. If you find any 
 
 ## A Survey on Diffusion Models for Time Series and Spatio-Temporal Data
 
+🎉 **Our survey has been accepted by ACM Computing Surveys (Impact Factor = 28.0).**
+
+We warmly welcome citations from the community!
+
 <div align="center">
       
 **[<a href="https://arxiv.org/abs/2404.18886">Paper Page</a>]**
@@ -30,7 +34,16 @@ We will continue to update this list with the newest resources. If you find any 
 
 🙋 Please let us know if you find a mistake or have any suggestions!
 
-✨ If you found this survey and repository useful, please consider to star this repository and cite our survey paper:
+✨ If you found this survey and repository useful, please consider starring this repository and citing our survey paper:
+
+```bibtex
+@article{yang2024survey,
+  title={A Survey on Diffusion Models for Time Series and Spatio-Temporal Data},
+  author={Yang, Yiyuan and Jin, Ming and Wen, Haomin and Zhang, Chaoli and Liang, Yuxuan and Ma, Lintao and Wang, Yi and Liu, Chenghao and Yang, Bin and Xu, Zenglin and Bian, Jiang and Pan, Shirui and Wen, Qingsong},
+  journal={ACM Computing Surveys},
+  year={2025}
+}
+```
 
 ```bibtex
 @article{yang2024survey,
