@@ -11,7 +11,7 @@ We will continue to update this list with the newest resources. If you find any 
 
 ## A Survey on Diffusion Models for Time Series and Spatio-Temporal Data
 
-🎉 **Our survey has been accepted by ACM Computing Surveys (Impact Factor = 28.0).**
+🎉 **Our survey has been accepted by ACM Computing Surveys (Impact Factor = 28.0). [<a href="https://dl.acm.org/doi/10.1145/3783986">Link</a>]**
 
 We warmly welcome citations from the community!
 
@@ -37,11 +37,24 @@ We warmly welcome citations from the community!
 ✨ If you found this survey and repository useful, please consider starring this repository and citing our survey paper:
 
 ```bibtex
-@article{yang2024survey,
-  title={A Survey on Diffusion Models for Time Series and Spatio-Temporal Data},
-  author={Yang, Yiyuan and Jin, Ming and Wen, Haomin and Zhang, Chaoli and Liang, Yuxuan and Ma, Lintao and Wang, Yi and Liu, Chenghao and Yang, Bin and Xu, Zenglin and Bian, Jiang and Pan, Shirui and Wen, Qingsong},
-  journal={ACM Computing Surveys},
-  year={2025}
+@article{10.1145/3783986,
+author = {Yang, Yiyuan and Jin, Ming and Wen, Haomin and Zhang, Chaoli and Liang, Yuxuan and Ma, Lintao and Wang, Yi and Liu, Chenghao and Yang, Bin and Xu, Zenglin and Pan, Shirui and Wen, Qingsong},
+title = {A Survey on Diffusion Models for Time Series and Spatio-Temporal Data},
+year = {2026},
+issue_date = {June 2026},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+volume = {58},
+number = {8},
+issn = {0360-0300},
+url = {https://doi.org/10.1145/3783986},
+doi = {10.1145/3783986},
+abstract = {Diffusion models have been widely used in time series and spatio-temporal data, enhancing generative, inferential, and downstream capabilities. These models are applied across diverse fields such as healthcare, recommendation, climate, energy, audio, and traffic. By separating applications for time series and spatio-temporal data, we offer a structured perspective on model category, task type, data modality, and practical application domain. This study aims to provide a solid foundation for researchers and practitioners, inspiring future innovations that tackle traditional challenges and foster novel solutions in diffusion model-based data mining tasks and applications. For more detailed information, we have open-sourced a repository.1},
+journal = {ACM Comput. Surv.},
+month = feb,
+articleno = {196},
+numpages = {39},
+keywords = {Diffusion models, time series, spatio-temporal data, generative model, temporal data}
 }
 ```
 
